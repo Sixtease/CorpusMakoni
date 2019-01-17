@@ -1,4 +1,4 @@
-exec mplayer -ss 01:29:38 kotouc-N01-d.mp3
+exec mplayer -ss 16:09 kotouc-O01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -344,3 +344,5 @@ kotouc-N01-d 01:16:36 -- druh otcovství Josefova
 kotouc-N01-d 01:21:16 -- nemáme prostředky zrodit Krista, ale můžeme tomu napomoci
 kotouc-N01-d 01:24:24 -- Z panny Marie máme úkol zrodit Krista; rozum (Josef) musí vzít za zrození zodpovědnost
 kotouc-N01-d 01:28:02 -- použití vůle při zrození Krista
+kotouc-O01-c        0 -- plán programu na nadcházející týden: vnější uskutečnění po prvním kroku, nepřekážení vůli boží
+kotouc-O01-c    16:09 -- dotaz: Josefovi se zjevil Anděl a řekl mu, co má dělat; nám ne
