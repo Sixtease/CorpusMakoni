@@ -1,4 +1,4 @@
-exec mplayer -ss 16:09 kotouc-O01-c.mp3
+exec mplayer -ss 1:05:37 kotouc-O01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -346,3 +346,14 @@ kotouc-N01-d 01:24:24 -- Z panny Marie máme úkol zrodit Krista; rozum (Josef) 
 kotouc-N01-d 01:28:02 -- použití vůle při zrození Krista
 kotouc-O01-c        0 -- plán programu na nadcházející týden: vnější uskutečnění po prvním kroku, nepřekážení vůli boží
 kotouc-O01-c    16:09 -- dotaz: Josefovi se zjevil Anděl a řekl mu, co má dělat; nám ne
+kotouc-O01-c    20:08 -- dotaz: navzdory upřímnému odevzdání není výsledek
+kotouc-O01-c    29:07 -- dotaz: jak poznám, že vnitřní a vnější uskutečnení jsou v rovnováze
+kotouc-O01-c    33:17 -- plán na trénink aplikace vnitřní modlitby
+kotouc-O01-c    35:46 -- dotaz: odevzdání, které šlo v koncentráku, nemůže přece jít každý večer; odpověd: odezvdáváme způsob života
+kotouc-O01-c    37:47 -- plán na způsob vnitřní modlitby
+kotouc-O01-c    40:57 -- dotaz: co dělat, když potřebuji přesný návod, co dělat
+kotouc-O01-c    46:12 -- dotaz: jak zajistím, aby stav, který navodím přerušením modlitby je vzestup a ne sestup
+kotouc-O01-c    50:36 -- o fackování
+kotouc-O01-c    55:38 -- domněnka, že svou silou mohu přejít, je sama přehradou; síle touhy a síla vzdání
+kotouc-O01-c    59:14 -- žít zázračným životem (ref. C.V.), obnova víry přijetím důkazů od Boha, aktivní pasivita
+kotouc-O01-c 01:05:37 -- "po Kalech, Plzeň, 27.3.1973"
