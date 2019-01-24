@@ -2,6 +2,8 @@
 
 BINDIR=`dirname $0`
 
+export PATH="$PATH:$BINDIR"
+
 CHUNKDIR="$1";
 shift;
 
