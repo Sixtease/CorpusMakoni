@@ -1,4 +1,4 @@
-exec mplayer -ss 1:05:37 kotouc-O01-c.mp3
+exec mplayer -ss 1:19:37 kotouc-O01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -356,4 +356,8 @@ kotouc-O01-c    46:12 -- dotaz: jak zajistím, aby stav, který navodím přeru�
 kotouc-O01-c    50:36 -- o fackování
 kotouc-O01-c    55:38 -- domněnka, že svou silou mohu přejít, je sama přehradou; síle touhy a síla vzdání
 kotouc-O01-c    59:14 -- žít zázračným životem (ref. C.V.), obnova víry přijetím důkazů od Boha, aktivní pasivita
-kotouc-O01-c 01:05:37 -- "po Kalech, Plzeň, 27.3.1973"
+kotouc-O01-c 01:05:37 -- "po Kalech, Plzeň, 27.3.1973"; porozumění symbolice
+kotouc-O01-c 01:16:05 -- obecné principy a jejich aplikace
+kotouc-O01-c 01:19:37 -- rozdíly v cestě: vnitřní zážitek nebo touha po změně
+kotouc-O01-c 01:27:15 -- nesmět žít jako dřív
+kotouc-O01-c 01:29:12 -- nevynechávat světský život
