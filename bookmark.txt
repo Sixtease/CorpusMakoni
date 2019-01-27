@@ -1,4 +1,4 @@
-exec mplayer -ss 1:19:37 kotouc-O01-c.mp3
+exec mplayer -ss 17:52 kotouc-P01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -361,3 +361,8 @@ kotouc-O01-c 01:16:05 -- obecné principy a jejich aplikace
 kotouc-O01-c 01:19:37 -- rozdíly v cestě: vnitřní zážitek nebo touha po změně
 kotouc-O01-c 01:27:15 -- nesmět žít jako dřív
 kotouc-O01-c 01:29:12 -- nevynechávat světský život
+kotouc-P01-a        0 -- Jak se jde svým srdcem; přednost K.M. před Ježíšem
+kotouc-P01-a    06:33 -- utrpení na cestě vlastní silou z odporu toho, co je mé; stupňování sebepoznání
+kotouc-P01-a    12:46 -- všichni aktéři jsou Ježíšem
+kotouc-P01-a    14:35 -- hrozba smrti před propuštěním z KZ
+kotouc-P01-a    17:52 -- pocit pokroku po krizi
