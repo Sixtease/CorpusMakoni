@@ -7,7 +7,7 @@ use utf8;
 use File::Basename qw(basename);
 
 my $output_dir = shift @ARGV;
-my @dirs = @ARGV;
+my @dirs = @ARGV; # ../splits/*
 
 my %stems;
 
@@ -15,7 +15,7 @@ say STDERR "analyzing";
 for my $dir (@dirs) {
     FILE:
     for my $fn (glob("$dir/*")) {
-        # say STDERR $fn;
+        say STDERR $fn;
         my $bn = basename($fn);
         my ($stem, $start, $end, $format) = $bn =~ /^([^\/]+)--from-([0-9.]+)--to-([0-9.]+)\.(.+)/;
         next FILE if not $stem;
