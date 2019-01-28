@@ -1,4 +1,4 @@
-exec mplayer -ss 17:52 kotouc-P01-a.mp3
+exec mplayer -ss 45:13 kotouc-P01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -366,3 +366,12 @@ kotouc-P01-a    06:33 -- utrpení na cestě vlastní silou z odporu toho, co je 
 kotouc-P01-a    12:46 -- všichni aktéři jsou Ježíšem
 kotouc-P01-a    14:35 -- hrozba smrti před propuštěním z KZ
 kotouc-P01-a    17:52 -- pocit pokroku po krizi
+kotouc-P01-a    19:49 -- chci nejen skok, ale i znovuobnovu
+kotouc-P01-a    24:36 -- rozhodnost k prvnímu kroku
+kotouc-P01-a    27:40 -- podmínky k opakování prvního kroku
+kotouc-P01-a    32:40 -- nevzpomínat na minulé (ne)úspěchy; sv. Augustin poustevník
+kotouc-P01-a    36:19 -- opakovat krok vždy při únavě; jak jít k Ježíšovi
+kotouc-P01-a    38:40 -- moudrý ke život, kde se odevzdává
+kotouc-P01-a    40:19 -- ucházejte se jen o pomoc boží
+kotouc-P01-a    41:37 -- jak vyslechnout bližního
+kotouc-P01-a    43:03 -- lpění na svojí cestě
