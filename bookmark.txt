@@ -1,4 +1,4 @@
-exec mplayer -ss 45:13 kotouc-P01-a.mp3
+exec mplayer -ss 18:16 kotouc-P01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -375,3 +375,17 @@ kotouc-P01-a    38:40 -- moudrý ke život, kde se odevzdává
 kotouc-P01-a    40:19 -- ucházejte se jen o pomoc boží
 kotouc-P01-a    41:37 -- jak vyslechnout bližního
 kotouc-P01-a    43:03 -- lpění na svojí cestě
+kotouc-P01-a    45:13 -- 
+kotouc-P01-a    48:37 -- projevy věčnosti a maska pomíjejícnosti
+kotouc-P01-a    57:11 -- bližní jako posel od Boha
+kotouc-P01-a 01:02:09 -- já jsem jako vy a neochotně plním boží vůli
+kotouc-P01-a 01:03:07 -- musíte být ničím, abyste byli vším; Bůh mne miluje: to jediné se má brát vážně
+kotouc-P01-a 01:03:56 -- podobenství o rybářích: vyplujte na hlubinu
+kotouc-P01-a 01:06:54 -- moudrost slabosti; štěstí a neštěstí
+kotouc-P01-a 01:08:48 -- život v čase a život v přítomnosti (boží)
+kotouc-P01-a 01:09:40 -- hra lásky na schovávanou s věčností
+kotouc-P01-a 01:10:53 -- nové začátky a pamětné navazování; nejsem-li ve Věčnosti, pak abych mohl vstoupit, musím opustit předešlé, nelze navázat; staré má být opuštěno a využito, ne zničeno
+kotouc-P01-a 01:15:07 -- 
+kotouc-P01-a 01:19:03 -- (nemakoň: četba dopisu od Víta pro Stáňu 25.4.1973)
+kotouc-P01-c        0 -- zpětná vazba účastníkům Kalů 1973
+kotouc-P01-c    14:18 -- jak rozeznat dobrou a špatnou vnitřní modlitbu
