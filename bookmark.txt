@@ -1,4 +1,4 @@
-exec mplayer -ss 18:16 kotouc-P01-c.mp3
+exec mplayer -ss 37:38 kotouc-P01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -389,3 +389,9 @@ kotouc-P01-a 01:15:07 --
 kotouc-P01-a 01:19:03 -- (nemakoň: četba dopisu od Víta pro Stáňu 25.4.1973)
 kotouc-P01-c        0 -- zpětná vazba účastníkům Kalů 1973
 kotouc-P01-c    14:18 -- jak rozeznat dobrou a špatnou vnitřní modlitbu
+kotouc-P01-c    27:01 -- život je účelová půjčka
+kotouc-P01-c    29:05 -- krátké nebo dlouhé vstupy
+kotouc-P01-c    32:36 -- stav vděčnosti
+kotouc-P01-c    33:40 -- chtít důkazy
+kotouc-P01-c    35:52 -- operace srdce
+kotouc-P01-c    37:38 -- 
