@@ -1,4 +1,4 @@
-exec mplayer -ss 37:38 kotouc-P01-c.mp3
+exec mplayer -ss 1:10:26 kotouc-P01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -394,4 +394,5 @@ kotouc-P01-c    29:05 -- krátké nebo dlouhé vstupy
 kotouc-P01-c    32:36 -- stav vděčnosti
 kotouc-P01-c    33:40 -- chtít důkazy
 kotouc-P01-c    35:52 -- operace srdce
-kotouc-P01-c    37:38 -- 
+kotouc-P01-c    37:38 -- revize tradiční představy o dosahování spojení s Bohem; Terezie z Avily a Kateřina Sienská
+kotouc-P01-c 01:01:40 -- využití zkušeností z minulých vtělení
