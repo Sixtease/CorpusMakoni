@@ -1,4 +1,4 @@
-exec mplayer -ss 1:10:26 kotouc-P01-c.mp3
+exec mplayer -ss 03:10 kotouc-P01-d-1973-kaly.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -396,3 +396,9 @@ kotouc-P01-c    33:40 -- chtít důkazy
 kotouc-P01-c    35:52 -- operace srdce
 kotouc-P01-c    37:38 -- revize tradiční představy o dosahování spojení s Bohem; Terezie z Avily a Kateřina Sienská
 kotouc-P01-c 01:01:40 -- využití zkušeností z minulých vtělení
+kotouc-P01-c 01:11:11 -- sen ohledně vedení účastníků Kalů
+kotouc-P01-c 01:16:16 -- role KM jako zástupce Kristova, vztahy KM a posluchačů
+kotouc-P01-c 01:22:07 --   Ifigenie na Tauridě
+kotouc-P01-c 01:25:14 --   
+kotouc-P01-d-1973-kaly        0 -- role KM jako zástupce Kristova; Kubanský přístup "pomerančů máme dost, ale pojďte si je k nám natrhat"
+kotouc-P01-d-1973-kaly    03:10 -- překážky na cestě z vlastní vůle k Bohu
