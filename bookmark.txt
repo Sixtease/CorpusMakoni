@@ -1,4 +1,4 @@
-exec mplayer -ss 03:10 kotouc-P01-d-1973-kaly.mp3
+exec mplayer -ss 37:56 kotouc-P01-d-1973-kaly.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -402,3 +402,10 @@ kotouc-P01-c 01:22:07 --   Ifigenie na Tauridě
 kotouc-P01-c 01:25:14 --   
 kotouc-P01-d-1973-kaly        0 -- role KM jako zástupce Kristova; Kubanský přístup "pomerančů máme dost, ale pojďte si je k nám natrhat"
 kotouc-P01-d-1973-kaly    03:10 -- překážky na cestě z vlastní vůle k Bohu
+kotouc-P01-d-1973-kaly    12:16 --   dotaz: jak se máme snažit vkročit vlastní silou, když víme, že to nelze?
+kotouc-P01-d-1973-kaly    14:29 --   když vše vydáte, touha zbyde, a ta je mostem
+kotouc-P01-d-1973-kaly    20:30 --   přechod přes poušť
+kotouc-P01-d-1973-kaly    21:44 --   
+kotouc-P01-d-1973-kaly    25:59 -- otázka: kolísavost lidské blízkosti Bohu
+kotouc-P01-d-1973-kaly    32:44 -- cesta ctnostmi, teta Antonína Šuchmy
+kotouc-P01-d-1973-kaly    37:56 -- kontemplativní vs. činorodí lidé podle katolíků, emanační princit podle sufistů
