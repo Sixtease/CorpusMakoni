@@ -1,4 +1,4 @@
-exec mplayer -ss 37:56 kotouc-P01-d-1973-kaly.mp3
+exec mplayer -ss 1:00:52 kotouc-P01-d-1973-kaly.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -408,4 +408,8 @@ kotouc-P01-d-1973-kaly    20:30 --   přechod přes poušť
 kotouc-P01-d-1973-kaly    21:44 --   
 kotouc-P01-d-1973-kaly    25:59 -- otázka: kolísavost lidské blízkosti Bohu
 kotouc-P01-d-1973-kaly    32:44 -- cesta ctnostmi, teta Antonína Šuchmy
-kotouc-P01-d-1973-kaly    37:56 -- kontemplativní vs. činorodí lidé podle katolíků, emanační princit podle sufistů
+kotouc-P01-d-1973-kaly    37:58 -- kontemplativní vs. činorodí lidé podle katolíků, emanační princit podle sufistů
+kotouc-P01-d-1973-kaly    40:57 -- Indové vedení mistrem nezažívají takové krize; František z Assisi, Bernard z Clairvaux
+kotouc-P01-d-1973-kaly    52:02 --   mystická smrt není nutná, když se nejde přes fázi synovství; Ramakrišna, Totapuri
+kotouc-P01-d-1973-kaly    56:26 -- Obdoba Ramakrišnova zasvěcení u KM
+kotouc-P01-d-1973-kaly 01:00:52 -- Mt. 13. 51-52
