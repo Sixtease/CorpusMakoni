@@ -1,4 +1,4 @@
-exec mplayer -ss 1:00:52 kotouc-P01-d-1973-kaly.mp3
+exec mplayer -ss 1:21:50 kotouc-P01-d-1973-kaly.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -413,3 +413,9 @@ kotouc-P01-d-1973-kaly    40:57 -- Indové vedení mistrem nezažívají takové
 kotouc-P01-d-1973-kaly    52:02 --   mystická smrt není nutná, když se nejde přes fázi synovství; Ramakrišna, Totapuri
 kotouc-P01-d-1973-kaly    56:26 -- Obdoba Ramakrišnova zasvěcení u KM
 kotouc-P01-d-1973-kaly 01:00:52 -- Mt. 13. 51-52
+kotouc-P01-d-1973-kaly 01:05:23 -- Mt. 11. 10-13, četba a výklad
+kotouc-P01-d-1973-kaly 01:07:31 -- Kdo následuje Krista, nemůže sám nést své hříchy
+kotouc-P01-d-1973-kaly 01:10:58 -- kolektivní vs. individuální cesta
+kotouc-P01-d-1973-kaly 01:12:26 -- cesta násilí vs. cesta Sv. Jana Evangelisty
+kotouc-P01-d-1973-kaly 01:16:19 -- Lukáš 10, 25.
+kotouc-P01-d-1973-kaly 01:16:53 -- výklad: cesta svou silou s nutnou smrtí
