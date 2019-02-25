@@ -1,4 +1,4 @@
-exec mplayer -ss 1:21:50 kotouc-P01-d-1973-kaly.mp3
+exec mplayer -ss 45:07 kotouc-O01-d.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -419,3 +419,10 @@ kotouc-P01-d-1973-kaly 01:10:58 -- kolektivní vs. individuální cesta
 kotouc-P01-d-1973-kaly 01:12:26 -- cesta násilí vs. cesta Sv. Jana Evangelisty
 kotouc-P01-d-1973-kaly 01:16:19 -- Lukáš 10, 25.
 kotouc-P01-d-1973-kaly 01:16:53 -- výklad: cesta svou silou s nutnou smrtí
+kotouc-O01-d        0 -- nevzdávat se neutrální činnosti, nýbrž dělat věci jako ostatní
+kotouc-O01-d    30:10 -- rekapitulace Kalů: být více svobodný a k ničemu nepřistupovat sám
+kotouc-O01-d    34:52 --   obraz panny Marie ve galerii Villa Borghese
+kotouc-O01-d    37:17 --   už ne z vlastní síly
+kotouc-O01-d    39:13 --   nebudit spícího Ježíše
+kotouc-O01-d    42:52 --   zajišťovat podmínky, jinak nedělat nic -- podobenství o zárodku dítěte
+kotouc-O01-d    45:07 --   
