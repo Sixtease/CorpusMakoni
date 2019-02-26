@@ -1,4 +1,4 @@
-exec mplayer -ss 45:07 kotouc-O01-d.mp3
+exec mplayer -ss 01:06:40 kotouc-O01-d.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -426,3 +426,10 @@ kotouc-O01-d    37:17 --   už ne z vlastní síly
 kotouc-O01-d    39:13 --   nebudit spícího Ježíše
 kotouc-O01-d    42:52 --   zajišťovat podmínky, jinak nedělat nic -- podobenství o zárodku dítěte
 kotouc-O01-d    45:07 --   
+kotouc-O01-d    45:11 --   chyba považovat něco za překonané
+kotouc-O01-d    49:45 --   starat se, když to nezneklidňuje
+kotouc-O01-d    52:20 --   
+kotouc-O01-d    55:20 -- otázka: lze Bohu vnutit svoji vůli?
+kotouc-O01-d    55:20 -- prosit ve jménu Ježíše Krista
+kotouc-O01-d    55:20 -- Tao: "nikdo nežije konkrétně", přítomný okamžik, Alan Watts
+kotouc-O01-d 01:06:40 -- 
