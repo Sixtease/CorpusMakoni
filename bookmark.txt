@@ -1,4 +1,4 @@
-exec mplayer -ss 01:06:40 kotouc-O01-d.mp3
+exec mplayer -ss 20:10 kotouc-O01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -432,4 +432,13 @@ kotouc-O01-d    52:20 --
 kotouc-O01-d    55:20 -- otázka: lze Bohu vnutit svoji vůli?
 kotouc-O01-d    55:20 -- prosit ve jménu Ježíše Krista
 kotouc-O01-d    55:20 -- Tao: "nikdo nežije konkrétně", přítomný okamžik, Alan Watts
-kotouc-O01-d 01:06:40 -- 
+kotouc-O01-d 01:08:15 -- "Gottwaldov, M, 1. prosince 1973"
+kotouc-O01-d 01:08:25 -- reflexe na Kaly, navození života v přítomnosti
+kotouc-O01-d 01:27:17 -- otázka od sedmileté Helenky, jak vznikl svět
+kotouc-O01-a        0 -- Ježíš nás zbavuje závislosti na časném a tvoří nám vztah k věčnému, podoba mystického umírání a dlouhodobé smrtelné choroby
+kotouc-O01-a    04:50 --   dokud nepovažuji předcházející stupeň za nic, nelze nastoupit na nový stupeň
+kotouc-O01-a    06:06 -- vhodnost prostředků nebo člověka pro cestu; Buddha
+kotouc-O01-a    08:10 -- i Ježíšova cesta potřebuje aktualizace, cca. po 5000 letech
+kotouc-O01-a    11:30 -- přejít do věčnosti lze jen, když člověk vše upřímně Bohu vrací, neplánovat v Kalech světské věci
+kotouc-O01-a    14:05 -- plán vedení v Kalech, zasvěcování strachem
+kotouc-O01-a    18:03 -- Plató
