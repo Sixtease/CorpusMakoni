@@ -1,4 +1,4 @@
-exec mplayer -ss 20:10 kotouc-O01-a.mp3
+exec mplayer -ss 1:21:47 kotouc-O01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -441,4 +441,36 @@ kotouc-O01-a    06:06 -- vhodnost prostředků nebo člověka pro cestu; Buddha
 kotouc-O01-a    08:10 -- i Ježíšova cesta potřebuje aktualizace, cca. po 5000 letech
 kotouc-O01-a    11:30 -- přejít do věčnosti lze jen, když člověk vše upřímně Bohu vrací, neplánovat v Kalech světské věci
 kotouc-O01-a    14:05 -- plán vedení v Kalech, zasvěcování strachem
-kotouc-O01-a    18:03 -- Plató
+kotouc-O01-a    18:03 --   Plató
+kotouc-O01-a    20:10 --   přeměna člověka: už není zde, ale je u Boha a z něho vychází do světa
+kotouc-O01-a    22:28 --   vracení Bohu
+kotouc-O01-a    24:15 --   během Kalů bude život účastníků patřit K.M.
+kotouc-O01-a    24:59 --   hra na smrt během zasvěcování, skupinové žertování
+kotouc-O01-a    26:42 --     Makoňovy podmínky manželství
+kotouc-O01-a    27:25 --   
+kotouc-O01-a    28:30 --   ostatní si naši cestu berou, jak potřebují, netřeba jim to vnucovat
+kotouc-O01-a    29:38 --   hřivny
+kotouc-O01-a    31:25 --     ostatní nesmějí vědět, že hospodaříš pro věčnost; dokonalý jako otec nebeský
+kotouc-O01-a    33:13 --     trest za hospodaření pro sebe, možnost útěku  
+kotouc-O01-a    35:25 --   význam počtu posluchačů, instrukce pro osobní vedení
+kotouc-O01-a    37:36 --   paní Martinová
+kotouc-O01-a    37:58 --   jak brát K.M. jako vůdce
+kotouc-O01-a    39:13 --   nedělat nic sám
+kotouc-O01-a    44:29 --   zpověď: připravenost svatebním rouchem
+kotouc-O01-a    51:06 --   znovuzrození z vody a z ducha
+kotouc-O01-a    53:49 --   K.M. zasvětí jen do prvního kroku a to stačí
+kotouc-O01-a    56:48 --     s větší měrou milostí se hospodaří hůře
+kotouc-O01-a    57:30 --     
+kotouc-O01-a    59:03 --   uděláme (v Kalech) klášter a tam nebudeme patřit světu
+kotouc-O01-a 01:01:13 --   Boží milost je zákonitá a bude jí mnoho
+kotouc-O01-a 01:05:53 --   volání Ježíšovo musí být nejnaléhavější
+kotouc-O01-a 01:06:35 --     zmínka o knězi Kacelerovi a dalším v Orlovicích
+kotouc-O01-a 01:07:24 --   panna Maria jako správný ale obtížný vzor
+kotouc-O01-a 01:08:30 --     napodobovat otcovství sv. Josefa
+kotouc-O01-a 01:10:55 --       sv. Antonín Paduánský jako by Ježíše sám zrodil
+kotouc-O01-a 01:12:25 --       dostat vědomí o věčném životě do svého vědomí
+kotouc-O01-a 01:14:58 --   starostlivost jednoho posluchače
+kotouc-O01-a 01:17:25 -- rozdíly v cestách různých lidí
+kotouc-O01-a 01:19:03 -- otázka: není v boží vůli, aby bylo spasených málo?
+kotouc-O01-a 01:19:44 --   odpověď: troufnout si spáchat násilí na království božím a vymknout se s osobní karmou z kolektivní
+kotouc-O01-a 01:21:47 --     otcovství sv. Josefa
