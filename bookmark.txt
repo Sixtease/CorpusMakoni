@@ -1,4 +1,4 @@
-exec mplayer -ss 1:21:47 kotouc-O01-a.mp3
+exec mplayer -ss 34:28 kotouc-R01-a-1974.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -97,12 +97,12 @@ kotouc-I01-81-82-Plzen-02-b    49:50 -- jít jako nic
 kotouc-I01-81-82-Plzen-02-b    58:20 -- jít k ničemu přirozenosti boží
 kotouc-I01-81-82-Plzen-02-b 01:13:20 -- omyl středověkých světců, že Bůh člověka umrtvuje - nestvořené prostředí
 kotouc-I01-81-82-Plzen-02-c        0 -- zážitek vs. vztah
-kotouc-I01-81-82-Plzen-02-c    16:25 -- ticho
+kotouc-I01-81-82-Plzen-02-c    16:25 -- (ticho)
 kotouc-I01-81-82-Plzen-02-c    24:00 -- pokračování zážitek vs. vztah
 kotouc-I01-81-82-Plzen-02-c    32:25 -- uspokojení z činu je zážitek
 kotouc-I01-81-82-Plzen-02-c    37:20 -- blaženost i utrpení je zkouškou vztahu
 kotouc-I01-81-82-Plzen-02-c    40:15 -- obsah lásky, vlastnosti lásky, neprojevená láska
-kotouc-I01-81-82-Plzen-02-c 01:06:25 -- ticho
+kotouc-I01-81-82-Plzen-02-c 01:06:25 -- (ticho)
 kotouc-I01-81-82-Plzen-02-c 01:07:37 -- vnitřní mlčení, příprava na zpověď a přijímání, co budu říkat u zpovědi
 kotouc-I01-81-82-Plzen-02-c 01:18:40 -- sám sobě nepřítelem
 kotouc-I01-81-82-Plzen-02-d        0 -- nesoudit jiné ani sebe
@@ -473,4 +473,38 @@ kotouc-O01-a 01:14:58 --   starostlivost jednoho posluchače
 kotouc-O01-a 01:17:25 -- rozdíly v cestách různých lidí
 kotouc-O01-a 01:19:03 -- otázka: není v boží vůli, aby bylo spasených málo?
 kotouc-O01-a 01:19:44 --   odpověď: troufnout si spáchat násilí na království božím a vymknout se s osobní karmou z kolektivní
-kotouc-O01-a 01:21:47 --     otcovství sv. Josefa
+kotouc-O01-a 01:21:47 --     otcovství sv. Josefa, být z rodu královského
+kotouc-O01-a 01:23:03 --       kundaliní jóga, hadí síla
+kotouc-O01-a 01:25:12 --       
+kotouc-O01-a 01:26:43 -- otázka: Ježíš že čeká jako žebrák?
+kotouc-O01-b        0 -- přechody mezi stavem a činností: dojít do stavu modlitby = modlete se neustále
+kotouc-O01-b    02:30 -- přístup ke kolektivní karmě, Josef vs. Herodes, politika, užití paměti a až potom inspirace
+kotouc-O01-b    05:13 -- jaro a Velikonoce jsou znakem duchovní obnovy
+kotouc-O01-b    06:22 --   pro obnovu 1. proveď rozbor dosavadního života
+kotouc-O01-b    08:02 --   pro obnovu 2. dosavadní život obětuj
+kotouc-O01-b    09:03 --   pro obnovu 3. přijmout sílu k proměně
+kotouc-O01-b    09:24 -- otázka k latinské liturgii: není chybou uchylovat se k překladu?
+kotouc-O01-b    11:27 --   odpuštění hříchů
+kotouc-O01-b    14:32 --   [Valdo] (Francouz) a jeho překlad Nového zákona do francouzštiny
+kotouc-O01-b    18:00 -- otázka: když v "ašramu" (v Kalech?) vybudujeme laboratorní podmínky, budeme je umět přenést do života? Odpověď: postup bude koncipován jinak než při běžných exerciciích
+kotouc-O01-b    22:14 --   jak nepromarnit
+kotouc-O01-b    42:28 -- 
+kotouc-O01-b    49:30 -- odevzdávání ovoce skutků jako v karmajóze; přidat sebe
+kotouc-O01-b    51:46 -- při zpovědi s hříchy opustit i sebe
+kotouc-O01-b 01:02:39 -- ztotožnění s tělem, sen a posmrtný život
+kotouc-O01-b 01:14:00 -- (ticho)
+kotouc-P01-b-1973-kaly        0 -- návod na mši svatou
+kotouc-P01-b-1973-kaly        0 --   vývoj mše svaté
+kotouc-P01-b-1973-kaly    08:32 --   svatební roucho
+kotouc-P01-b-1973-kaly    10:27 --   péče o Ježíše
+kotouc-P01-b-1973-kaly    29:43 --   přivtělení k oběti Ježíšově
+kotouc-P01-b-1973-kaly    30:51 --   
+kotouc-P01-b-1973-kaly    33:09 --   umírat sám je skoro nemožné
+kotouc-P01-b-1973-kaly    35:46 -- rekapitulace v Kalech
+kotouc-P01-b-1973-kaly    53:32 -- (ticho)
+kotouc-R01-a-1974        0 -- otázka o troufalosti
+kotouc-R01-a-1974    08:57 -- strach
+kotouc-R01-a-1974    17:30 -- Bůh není přísný
+kotouc-R01-a-1974    19:13 -- uvědomění spojitostí
+kotouc-R01-a-1974    23:24 -- "19. ledna 1974 u M."
+kotouc-R01-a-1974    23:32 -- konvenční vědomí vs. vědomí "jen" (čínský pojem)
