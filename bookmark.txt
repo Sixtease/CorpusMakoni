@@ -1,4 +1,4 @@
-exec mplayer -ss 34:28 kotouc-R01-a-1974.mp3
+exec mplayer -ss 47:26 kotouc-R01-b-1974.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -508,3 +508,13 @@ kotouc-R01-a-1974    17:30 -- Bůh není přísný
 kotouc-R01-a-1974    19:13 -- uvědomění spojitostí
 kotouc-R01-a-1974    23:24 -- "19. ledna 1974 u M."
 kotouc-R01-a-1974    23:32 -- konvenční vědomí vs. vědomí "jen" (čínský pojem)
+kotouc-R01-a-1974 01:16:00 -- (hudba)
+kotouc-R01-a-1974 01:16:59 -- (ticho)
+kotouc-R01-b-1974    08:00 -- čas, partnerství
+kotouc-R01-b-1974    11:41 -- přemožení Bohem
+kotouc-R01-b-1974    12:21 -- Bůh do nás vstoupí tím, kde jsme nejméně sví
+kotouc-R01-b-1974    17:14 -- vyznat se
+kotouc-R01-b-1974    26:37 -- dokud něco jsem, pánbůh přede mnou pokorně zaleze
+kotouc-R01-b-1974    28:50 -- chtít Jeho vůli je jediné správné konečné chtění
+kotouc-R01-b-1974    36:18 -- definice Boha
+kotouc-R01-b-1974    47:26 -- 
