@@ -1,4 +1,4 @@
-exec mplayer -ss 47:26 kotouc-R01-b-1974.mp3
+exec mplayer -ss 1:13:00 kotouc-R01-b-1974.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -518,3 +518,9 @@ kotouc-R01-b-1974    26:37 -- dokud něco jsem, pánbůh přede mnou pokorně za
 kotouc-R01-b-1974    28:50 -- chtít Jeho vůli je jediné správné konečné chtění
 kotouc-R01-b-1974    36:18 -- definice Boha
 kotouc-R01-b-1974    47:26 -- 
+kotouc-R01-b-1974    54:18 -- paradox sladkého jha vedoucího na kříž
+kotouc-R01-b-1974 01:05:50 -- Ježísovo učení má nekonečnou hloubku a obsahuje všechna ostatní učení
+kotouc-R01-b-1974 01:06:12 -- indické učení umožnilo K.M. lepší porozuměmí Kristu, než jaké má celá Evropa
+kotouc-R01-b-1974 01:07:11 -- pomocí Krista se dá lépo pochopit Indie; dát indickým pojmům nový obsah
+kotouc-R01-b-1974 01:09:07 -- Ježíš učí, že život je stavění a bouráníG
+kotouc-R01-b-1974 01:13:00 -- 
