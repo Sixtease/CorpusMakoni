@@ -1,4 +1,4 @@
-exec mplayer -ss 1:13:00 kotouc-R01-b-1974.mp3
+exec mplayer -ss 52:38 kotouc-R01-c-1974.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -524,3 +524,23 @@ kotouc-R01-b-1974 01:06:12 -- indické učení umožnilo K.M. lepší porozuměm
 kotouc-R01-b-1974 01:07:11 -- pomocí Krista se dá lépo pochopit Indie; dát indickým pojmům nový obsah
 kotouc-R01-b-1974 01:09:07 -- Ježíš učí, že život je stavění a bouráníG
 kotouc-R01-b-1974 01:13:00 -- 
+kotouc-R01-b-1974 01:15:14 -- otázka: jak odevzdávat a přitom neztratit správné zaměření
+kotouc-R01-c-1974        0 -- poznání smyslu události
+kotouc-R01-c-1974    04:30 -- sebepoznání
+kotouc-R01-c-1974    07:18 -- otázka: cesta je umění a proto se jí nedá naučit
+kotouc-R01-c-1974    15:06 -- jak zabránit pochybnostem? tím, že vnuknutí okamžitě poslechnu
+kotouc-R01-c-1974    17:46 -- jak poznat pravé vnuknutí od nepravého
+kotouc-R01-c-1974    33:01 -- konzultace o potřebě denní četby, rovnováha vnitřního a vnějšího života
+kotouc-R01-c-1974    28:06 --   zobecnění
+kotouc-R01-c-1974    36:25 -- odevzdání díla po jeho skončení
+kotouc-R01-c-1974    45:06 -- jak vstoupit do přítomnosti boží
+kotouc-R01-c-1974    52:38 -- Čchuang C` a motýl, pocítěná jednota vnitřního a zevního
+kotouc-R01-c-1974    53:56 -- dotaz o tažení uprostřed práce, Vivekananda
+kotouc-R01-c-1974    57:21 --   vnitřní tažení odpovídá zrození v Betlémě, popř. do Jordánu
+kotouc-R01-c-1974 01:00:34 -- zbavit se ovoce svých skutků
+kotouc-R01-c-1974 01:03:54 -- prožívání božích kvalit
+kotouc-R01-c-1974 01:08:35 -- obracení světla
+kotouc-R01-c-1974 01:10:10 -- z lásky do nelásky
+kotouc-R01-c-1974 01:11:50 -- vyloučení pantheismu, nedostatečnost evropského myšlení
+kotouc-R01-c-1974 01:13:00 -- dosažení Boha je snadné, jinak bychom neměli být jako děti
+kotouc-R01-c-1974 01:16:35 -- odosobnění není účelem, ale prostředkem; pravé štěstí a svoboda je troufat si milovat Boha (výborné)
