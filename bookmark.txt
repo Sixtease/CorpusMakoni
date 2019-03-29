@@ -1,4 +1,4 @@
-exec mplayer -ss 52:38 kotouc-R01-c-1974.mp3
+exec mplayer -ss 37:08 kotouc-R01-d-1974.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -544,3 +544,12 @@ kotouc-R01-c-1974 01:10:10 -- z lásky do nelásky
 kotouc-R01-c-1974 01:11:50 -- vyloučení pantheismu, nedostatečnost evropského myšlení
 kotouc-R01-c-1974 01:13:00 -- dosažení Boha je snadné, jinak bychom neměli být jako děti
 kotouc-R01-c-1974 01:16:35 -- odosobnění není účelem, ale prostředkem; pravé štěstí a svoboda je troufat si milovat Boha (výborné)
+kotouc-R01-d-1974        0 -- úloha metody
+kotouc-R01-d-1974    05:55 -- úloha víry
+kotouc-R01-d-1974    07:29 -- Ježíšova cesta je cesta znednávání nerovnováhy: nejdřív vnitřně, pak vnějšně
+kotouc-R01-d-1974    14:49 -- otázka o nutnosti opuštění stavu blaženosti
+kotouc-R01-d-1974    27:11 -- úvod k dobré vůli
+kotouc-R01-d-1974    31:03 --   Abraham smlouvající o Sodomě: naše staré já není dost spravedlivé, aby mohlo být zachováno
+kotouc-R01-d-1974    32:09 --   Job: ubírání na vlastnictví a boj se sebou
+kotouc-R01-d-1974    34:46 -- dobrá vůle spočívá v přirozenosti a absenci vlastní velikosti
+kotouc-R01-d-1974    37:08 -- nezažívání styku s Bohem je stav opilství
