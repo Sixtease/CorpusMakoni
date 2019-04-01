@@ -1,4 +1,4 @@
-exec mplayer -ss 37:08 kotouc-R01-d-1974.mp3
+exec mplayer -ss 5:00 kotouc-S01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -553,3 +553,9 @@ kotouc-R01-d-1974    31:03 --   Abraham smlouvající o Sodomě: naše staré j�
 kotouc-R01-d-1974    32:09 --   Job: ubírání na vlastnictví a boj se sebou
 kotouc-R01-d-1974    34:46 -- dobrá vůle spočívá v přirozenosti a absenci vlastní velikosti
 kotouc-R01-d-1974    37:08 -- nezažívání styku s Bohem je stav opilství
+kotouc-R01-d-1974    47:06 -- o blaženosti, která pochází z vnitřního nebo vnějšího popudu; ulpívání na dosažených stupních
+kotouc-R01-d-1974 01:18:42 -- karma
+kotouc-R01-d-1974 01:21:50 -- bezděčnost
+kotouc-R01-d-1974 01:22:42 -- otázka: je i v zevní činnosti gradace ke spojovacímu stavu?
+kotouc-R01-d-1974 01:25:19 -- být jako list ve větru
+kotouc-S01-a        0 -- využití vesmírové síly
