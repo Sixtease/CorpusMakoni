@@ -1,4 +1,4 @@
-exec mplayer -ss 5:00 kotouc-S01-a.mp3
+exec mplayer -ss 45:42 kotouc-S01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -559,3 +559,12 @@ kotouc-R01-d-1974 01:21:50 -- bezděčnost
 kotouc-R01-d-1974 01:22:42 -- otázka: je i v zevní činnosti gradace ke spojovacímu stavu?
 kotouc-R01-d-1974 01:25:19 -- být jako list ve větru
 kotouc-S01-a        0 -- využití vesmírové síly
+kotouc-S01-a    03:40 --   pomoc Anežky České muži v KZ, když ho K.M. opouštěl
+kotouc-S01-a    16:41 --   paní z Olomouce, kterou vysával bardon
+kotouc-S01-a    18:13 --   Anežka Česká a její styk se sv. Klárou a Františkem z Assisi
+kotouc-S01-a    19:50 --   
+kotouc-S01-a    21:35 --   pan Vaněk
+kotouc-S01-a    23:12 -- Anežka Česká
+kotouc-S01-a    23:55 -- keltská symbolika jmelí
+kotouc-S01-a    25:53 -- Keltové
+kotouc-S01-a    40:06 -- život jako hra lásky
