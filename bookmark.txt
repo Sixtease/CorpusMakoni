@@ -1,4 +1,4 @@
-exec mplayer -ss 1:00:00 kotouc-S01-a.mp3
+exec mplayer -ss 1:23:40 kotouc-S01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -571,4 +571,11 @@ kotouc-S01-a    40:06 -- život jako hra lásky, hádky mezi náboženstvími a 
 kotouc-S01-a    48:20 -- Sv. Augustin, světská a duchovní radost
 kotouc-S01-a    50:11 --   hospodaření s radostí z nepomíjejících zdrojů
 kotouc-S01-a    56:41 -- plačte s plačícími
-kotouc-S01-a 01:00:05 -- 
+kotouc-S01-a 01:00:05 -- "Kroměříž 18.3.1974"
+kotouc-S01-a 01:00:15 -- svatá místa
+kotouc-S01-a 01:10:05 --   různé dimenze času, přibližování se věčnosti
+kotouc-S01-a 01:12:12 --   prostorová dimenze
+kotouc-S01-a 01:13:55 -- jak se vchází do věčnosti
+kotouc-S01-a 01:16:35 -- přes nerovnováhu k rovnováze
+kotouc-S01-a 01:20:21 -- otázka o akupunktuře
+kotouc-S01-a 01:23:49 -- astrální působení na tělo
