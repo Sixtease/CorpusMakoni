@@ -1,4 +1,4 @@
-exec mplayer -ss 1:23:40 kotouc-S01-a.mp3
+exec mplayer -ss 57:55 kotouc-S01-b.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -578,4 +578,27 @@ kotouc-S01-a 01:12:12 --   prostorová dimenze
 kotouc-S01-a 01:13:55 -- jak se vchází do věčnosti
 kotouc-S01-a 01:16:35 -- přes nerovnováhu k rovnováze
 kotouc-S01-a 01:20:21 -- otázka o akupunktuře
-kotouc-S01-a 01:23:49 -- astrální působení na tělo
+kotouc-S01-a 01:23:49 --   astrální působení na tělo
+kotouc-S01-b        0 -- (pokračování @kotouc-S01-a:01:20:21) akupunktura
+kotouc-S01-b    03:33 --   klasifikace a sjednocení
+kotouc-S01-b    06:28 --   paní Kaminská v Radnicích u Rokycan, léčitelka
+kotouc-S01-b    08:35 --     Inženýr Wels z Jičína, sjednocení člověka v moči
+kotouc-S01-b    11:52 --   omyl léčitele při citové vazbě na pacienta
+kotouc-S01-b    13:24 --   závodník júdó Lebeda, příprava pacienta
+kotouc-S01-b    15:43 --   absence přípravy pacienta v lékařské vědě
+kotouc-S01-b    17:08 --   zbavíme-li Antonína Antonína, vstoupí do věčnosti
+kotouc-S01-b    18:20 -- "Brno, 19.3.1974"
+kotouc-S01-b    18:30 -- řešení problémů i cicích odevzdáváním
+kotouc-S01-b    23:20 -- odosobněná činnost, Zlatý klíč (nižší úroveň) a Cesta vědomí (vyšší úroveň)
+kotouc-S01-b    26:19 -- jak poznat, kolik vlastního úsilí vložit
+kotouc-S01-b    29:12 -- lítost nad minulostí
+kotouc-S01-b    29:43 -- Weinfurterova cvičení nepřizvou včas síly boží, poopravit ducha cvičení katolickým spisem Josef Schrijvers: Umění dávati se Bohu
+kotouc-S01-b    33:13 -- individuální význam snových symbolů
+kotouc-S01-b    34:03 -- nezáleží na prožívaných stavech, ale do míry pronikání do čistého vědomí, lásky nebo bytí
+kotouc-S01-b    40:37 -- Weinfurtera nezavrhnout, nýbrž poopravit
+kotouc-S01-b    42:49 -- význam siddhis
+kotouc-S01-b    46:13 -- "Gottwaldov, M. 18.5.1974"
+kotouc-S01-b    46:25 -- proč nelze dobýt vlastní vůlí království boží, je-li násilím dobýváno? Metodou se lze přiblížit, ale ne vstoupit.
+kotouc-S01-b    50:00 --   ilustrace prvním probuzením a ohluchnutím před koncentrákem
+kotouc-S01-b    56:46 --   i cvičit nevědomky čínské slovo pro mysl fungovalo
+kotouc-S01-b    57:55 -- 
