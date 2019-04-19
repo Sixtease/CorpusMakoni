@@ -1,9 +1,8 @@
 exec mplayer -ss 37:06 kotouc-S01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
-             01:20:00 -- o sobě, že je líný pes
+kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
-kotouc-N01-a
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
 86-01B -- vzdát se pohlavního života v myšlenkách
@@ -117,7 +116,7 @@ kotouc-J01-c    50:09 -- milovat nepřítele, přeměna časného na věčné, u
 kotouc-J01-c 01:19:00 -- ctnost nestačí: Pio, Antonín, pokoušení od Satana
 kotouc-J01-d    18:31 -- útěk Ježíšův (do Egypta) vs. útěk asketův (do kláštera)
 kotouc-J01-d    26:11 -- je bez ctnosti možný pokrok?
-kotouc-J01-d    40:06 -- inkvizice, Sv. Terezie z Avilly
+kotouc-J01-d    40:06 -- inkvizice, Sv. Terezie z Avily
 kotouc-J01-d    47:09 -- nejít od prostředka, projít Ježíšovým životem od začátku, nečekat spásu brzo
 kotouc-J01-d 01:00:00 -- my jsme zelenina
 kotouc-J01-d 01:04:15 -- základní podmínky úspěchu na cestě do věčnosti
