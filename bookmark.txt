@@ -1,4 +1,4 @@
-exec mplayer -ss 57:55 kotouc-S01-b.mp3
+exec mplayer -ss 37:06 kotouc-S01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
              01:20:00 -- o sobě, že je líný pes
@@ -601,4 +601,26 @@ kotouc-S01-b    46:13 -- "Gottwaldov, M. 18.5.1974"
 kotouc-S01-b    46:25 -- proč nelze dobýt vlastní vůlí království boží, je-li násilím dobýváno? Metodou se lze přiblížit, ale ne vstoupit.
 kotouc-S01-b    50:00 --   ilustrace prvním probuzením a ohluchnutím před koncentrákem
 kotouc-S01-b    56:46 --   i cvičit nevědomky čínské slovo pro mysl fungovalo
-kotouc-S01-b    57:55 -- 
+kotouc-S01-b    57:55 --   
+kotouc-S01-b 01:00:40 -- wu wei: dělat jako když neděláš
+kotouc-S01-b 01:02:54 -- dokud chci, nemohu
+kotouc-S01-b 01:05:24 -- neřešit věci, jen jít vší silou k Bohu
+kotouc-S01-b 01:08:19 -- pracující a nepracující kláštery
+kotouc-S01-b 01:11:15 -- důvěra v metodu
+kotouc-S01-b 01:16:51 -- opuštění metody
+kotouc-S01-b 01:19:30 -- metoda
+kotouc-S01-c        0 -- otázka: Ježíšovo vymítání ďáblů; rozdíl mezi starověkým člověkem a dnešním
+kotouc-S01-c    02:23 -- podosobnosti a jediné světlo
+kotouc-S01-c    03:05 -- vláda boží není vidět
+kotouc-S01-c    05:35 -- dobrá vůle je dát Bohu právo vyvést mě od sebe; my si přejeme vědět, co si Bůh přeje, a Bůh si přeje, abychom patřili méně sobě a více jemu, v tom je jednoduchost
+kotouc-S01-c    08:12 -- svědčit prostým životem
+kotouc-S01-c    08:50 -- v moudrém životě považuji každou situaci za nadanou boží moudrostí
+kotouc-S01-c    11:36 -- co dělat, když se nedovedu vnitřně odevzdávat; mám toho málo jen proto, že si dokážu přivlastňovatG
+kotouc-S01-c    13:59 -- (Vít Elger) "u nás, 17.3.1974"
+kotouc-S01-c    14:04 -- 
+kotouc-S01-c    19:21 -- Po Ježíšově cestě se dá kráčet, na rozdíl od Tao, tím nás odsuzuje ke stavům jako vraždění nevinňátek, pokoušení Satanem a ukřižování, ale dá se jim vyhnout, pokud to chceme pro napřímení ne svojí cesty, ale cesty Páně
+kotouc-S01-c    22:17 -- opuštění překonaného stupně
+kotouc-S01-c    24:53 --   Milarepa a stavba a boření tří domů
+kotouc-S01-c    26:15 --   
+kotouc-S01-c    30:15 --   Milarepa
+kotouc-S01-c    34:22 -- Ježíš má na nás vyšší nároky než kterýkoliv avatar či světec
