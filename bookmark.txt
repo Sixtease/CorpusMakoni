@@ -1,4 +1,4 @@
-exec mplayer -ss 37:06 kotouc-S01-c.mp3
+exec mplayer -ss 53:24 kotouc-S01-d.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -623,3 +623,31 @@ kotouc-S01-c    24:53 --   Milarepa a stavba a boření tří domů
 kotouc-S01-c    26:15 --   
 kotouc-S01-c    30:15 --   Milarepa
 kotouc-S01-c    34:22 -- Ježíš má na nás vyšší nároky než kterýkoliv avatar či světec
+kotouc-S01-c    43:12 -- do Jordánu není na místě zabývat se svými vlastnostmi
+kotouc-S01-c    51:48 -- odbourávat úctu k dosavadním prostředkům a prostředky samy
+kotouc-S01-c    56:28 -- přestat se zabývat zvládnutým prostředkem
+kotouc-S01-c    58:07 -- odbourat další míru sebelásky
+kotouc-S01-c 01:03:28 -- nový prostředek po křtu v Jordánu
+kotouc-S01-c 01:08:42 -- co to je být pokřtěn: prostředek, který byl můj, už musí být daný od Boha
+kotouc-S01-c 01:10:42 -- jho a břemeno Ježíšovo, ne naše
+kotouc-S01-c 01:16:20 -- instruktážní povaha pokušení Satanova
+kotouc-S01-c 01:18:58 -- jak se přeorientovat, abych svůj prostředek považoval za daný od Boha: nic není moje, hospodařit pro Boha, celým životem
+kotouc-S01-d        0 -- účel a dopady křtu
+kotouc-S01-d    07:05 -- Jan Křtitel je Ježíšův blízký příbuzný, ale nejsou jeden a tentýž. Jan Křtitel musí též zemřít.
+kotouc-S01-d    09:23 -- neopovrhovat touhou po čistotě, Jan Křtitel je sťat, až naplnil svou roli
+kotouc-S01-d    10:41 -- přerod je postupný, ne jednorázový
+kotouc-S01-d    11:11 -- důvod obtíží je v tom, že jdeme příliš vlastní silou
+kotouc-S01-d    12:38 -- proč vykládá o fázi po Jordánu? Všichni tam jsme, jen třeba ne vědomě
+kotouc-S01-d    15:30 -- "17.3.1974 večer, Otrokovice"
+kotouc-S01-d    15:38 -- co dělat při stoupajících vlnách při soustřeďování do nohou
+kotouc-S01-d    30:06 -- studený a horký typ na bytostné cestě
+kotouc-S01-d    33:22 -- Soustřeďování do nitra nesmí být do těla, je to přímé působení na lotos, nikoliv zespoda hadí silou. On se otevře a zase zavře. Je to ananda, cesta lásky, nikoliv sat, existenční
+kotouc-S01-d    37:30 -- návod k přechode z existenční cesty do cesty lásky přes střelnou modlitbu
+kotouc-S01-d    38:54 -- jak přes tělo a ne do těla? tělo se nesmí vynechat
+kotouc-S01-d    40:49 --   Kerning, navázat na mozkovou kúru paměť, tedy neklid myslicího principu, a přes chvění nohou se dostat do stavu nechvění, tedy nehmoty, pak proniká do čit
+kotouc-S01-d    46:02 --   následky: např. neschopnost říkat jméno boží
+kotouc-S01-d    47:06 --   někdo musí tento systém vylepšit
+kotouc-S01-d    47:28 --   
+kotouc-S01-d    47:53 -- přínos vědy: polidštění
+kotouc-S01-d    48:58 -- od meditace ke koncentraci
+kotouc-S01-d    53:24 -- 
