@@ -1,4 +1,4 @@
-exec mplayer -ss 53:24 kotouc-S01-d.mp3
+exec mplayer -ss 58:00 kotouc-S01-d.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -650,4 +650,4 @@ kotouc-S01-d    47:06 --   někdo musí tento systém vylepšit
 kotouc-S01-d    47:28 --   
 kotouc-S01-d    47:53 -- přínos vědy: polidštění
 kotouc-S01-d    48:58 -- od meditace ke koncentraci
-kotouc-S01-d    53:24 -- 
+kotouc-S01-d    53:39 -- jak inspirovaně pomoci člověku
