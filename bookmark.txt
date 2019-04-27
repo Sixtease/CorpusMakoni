@@ -1,4 +1,5 @@
-exec mplayer -ss 58:00 kotouc-S01-d.mp3
+exec mplayer -ss 32:16 kotouc-T01-metoda-a.mp3
+exec mplayer -ss 1:10:00 kotouc-T01-metoda-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -651,3 +652,41 @@ kotouc-S01-d    47:28 --
 kotouc-S01-d    47:53 -- přínos vědy: polidštění
 kotouc-S01-d    48:58 -- od meditace ke koncentraci
 kotouc-S01-d    53:39 -- jak inspirovaně pomoci člověku
+kotouc-S01-d 01:04:29 -- otázka: v Bibli je modlitba směrovaná nahoru, ne do nitra
+kotouc-S01-d 01:06:33 --   i Ježíš měl výkyvy v učitelském období intenzitě spojení
+kotouc-S01-d 01:07:35 --   soustředění nad hlavu, pozvání vesmírové síly
+kotouc-S01-d 01:09:29 --     Anežka Česká, sv. Klára
+kotouc-S01-d 01:11:23 -- otázka: jak si nemám z Boha dělat sluhu a přitom se ráno odívat jeho mocí?
+kotouc-S01-d 01:13:59 --   jogický stav para, inspirovaně pomoci člověku nemůže začátečník; dítě se drží mámina šosu, ale větší už umí chodit, tedy se nesmí držet
+kotouc-S01-d 01:17:17 -- jemnost; jehlou se dotknout vody a nezčeřit hladinu, takovou jemností se dá vstoupit do nitra
+kotouc-S01-d 01:21:55 -- jak na lidi, kteří se mají rádi a dosahují hrubou silou
+kotouc-T01-metoda-a        0 -- jak se dá spolehnout na šalebný rozum? hříšnost v myšlenkách a jak na ni
+kotouc-T01-metoda-a    04:50 -- co je být v tom, co je mého Otce?
+kotouc-T01-metoda-a    08:42 -- symbol růstu pro činnost boží; entropie je omyl; ničením věci nekončí a i např. násilná smrt je výsledkem dlouhých příprav
+kotouc-T01-metoda-a    10:58 -- otázka: musím být v tom, co je mého Otce, že nesmím jinak nebo nemohu jinak? mohl nebýt, přikázal si to sám
+kotouc-T01-metoda-a    13:04 -- otázka: co je Otcovo? To je určeno vývojem toho, co v které fázi považuju a mám považovat za svoje, duchovní cíl má přednost před vlastnictvím
+kotouc-T01-metoda-a    16:43 -- starověcí národové rozuměli tomu, že jejich mýty jsou symbolické
+kotouc-T01-metoda-a    21:49 -- náš život je stejně mýtem, jako život Ježíšův
+kotouc-T01-metoda-a    23:59 -- proč je pro nás Ježíš nejen cestou, ale i pravdou; symbolika (a + b)²
+kotouc-T01-metoda-a    27:38 --   rekapitulace pohledu mýtu, naše skutečnost není konkrétní, konkrétní je věčnost
+kotouc-T01-metoda-a    30:19 --   Ježíš jako pravda; nelza nic vlastnit, to je mýtus něco vlastnit; vlastnit lze jen věčnost, ale až jí nabudeme
+kotouc-T01-metoda-a    32:16 -- Není potřeba znát věčnost, stačí nasadit na Ježíšův život
+kotouc-T01-metoda-a    32:59 --   Ježíšův život už není ve věčnosti, ale jako bohové na Olympu pod vládou Chronose
+kotouc-T01-metoda-a    33:27 --   největší zázrak Ježíšův je převod věčného do času a prostoru
+kotouc-T01-metoda-a    33:44 --   
+kotouc-T01-metoda-a    34:22 --   postup podle vzorce
+kotouc-T01-metoda-a    34:37 --   poznání není třeba, stačí být člověkem a uznat Ježíšův vzor za pravdivý a hodný následování
+kotouc-T01-metoda-a    35:02 --   největší zázrak od Ježíše je, že nám umožňuje vyřešit svůj život bez znalosti základního vzorce
+kotouc-T01-metoda-a    35:22 --   není možné a-priori poznávat věčnost, čili znát základní vzorec
+kotouc-T01-metoda-a    35:41 -- postupně se ujasňuje, co je věčnost
+kotouc-T01-metoda-a    35:54 --   nejdřív "já jsem Bůh, který se zrozuje v lidském těle ale ještě k vám nemluvím"
+kotouc-T01-metoda-a    36:07 --   po Jordánu: "já jsem Bůh, který se vědomě u vás ztotožňuje s Otcem"
+kotouc-T01-metoda-a    36:47 --   po kříži vám bude zcela jasno, že jste věční
+kotouc-T01-metoda-a    37:12 -- život Ježíše Krista spočívá v čím dál lehčím dosahování, symbolika vyšší matematiky, logaritmování
+kotouc-T01-metoda-a    38:59 -- dovoluje se starost o věčný život
+kotouc-T01-metoda-a    39:31 -- mýtus Ježíšova života znamená, že je stejné povahy jako náš život, tedy věčnost přetlumočená do času a prostory
+kotouc-T01-metoda-a    41:20 -- život i cesta k věčnosti, podané jako řada pomíjejících událostí, jsou mája, ve skutečnosti je to jednání věčnosti
+kotouc-T01-metoda-a    41:50 -- na nástavbě ukázané Ježíšem začínáme pronikat do podstaty, tím se liší od běžného života
+kotouc-T01-metoda-a    42:20 -- volba vůdčího prostředku: nejpřirozenější podle dané úrovně; dítěti dětský atd.
+kotouc-T01-metoda-a    43:45 --   které prostředky používal Ježíš kdy přednostně a které kdy jako doplněk
+kotouc-T01-metoda-a    45:17 -- služba bližnímu
