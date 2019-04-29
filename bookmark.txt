@@ -1,5 +1,4 @@
-exec mplayer -ss 32:16 kotouc-T01-metoda-a.mp3
-exec mplayer -ss 1:10:00 kotouc-T01-metoda-a.mp3
+exec mplayer -ss 1:21:00 kotouc-T01-metoda-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -689,4 +688,24 @@ kotouc-T01-metoda-a    41:20 -- život i cesta k věčnosti, podané jako řada 
 kotouc-T01-metoda-a    41:50 -- na nástavbě ukázané Ježíšem začínáme pronikat do podstaty, tím se liší od běžného života
 kotouc-T01-metoda-a    42:20 -- volba vůdčího prostředku: nejpřirozenější podle dané úrovně; dítěti dětský atd.
 kotouc-T01-metoda-a    43:45 --   které prostředky používal Ježíš kdy přednostně a které kdy jako doplněk
-kotouc-T01-metoda-a    45:17 -- služba bližnímu
+kotouc-T01-metoda-a    45:17 -- služba bližnímu, otroctví
+kotouc-T01-metoda-a    45:51 --   napodobovat Ježíše ve službě, nenamáhat se
+kotouc-T01-metoda-a    51:21 --     teta pana Šuchny, která po životě služby bližnímu umírala na rakovinu
+kotouc-T01-metoda-a    52:03 --   podíl na utrpení bližního
+kotouc-T01-metoda-a    52:37 --     paní Kamenická
+kotouc-T01-metoda-a    54:25 --   vydávání síly
+kotouc-T01-metoda-a    55:57 --     Ramakrišna o sobě říkal, že rakovinu měl za svoje žáky
+kotouc-T01-metoda-a    56:20 --   nepomáhat přespříliš
+kotouc-T01-metoda-a    57:27 --   Ježíš věděl, komu nepomáhat, např. v Nazaretu nebo farizeům
+kotouc-T01-metoda-a    58:42 --   pomoc z pocitu oddělenosti versus z pocitu spojení
+kotouc-T01-metoda-a    59:28 --   míra boží vůle v pomoci
+kotouc-T01-metoda-a 01:00:27 --   zneužívání
+kotouc-T01-metoda-a 01:01:45 --   musí se sloužit silou boží, ne vlastní
+kotouc-T01-metoda-a 01:03:35 --   musíme být v tom, co je našeho Otce, abychom mohli podávat velký výkon
+kotouc-T01-metoda-a 01:04:13 -- duchovní cvičení z vlastní síly
+kotouc-T01-metoda-a 01:05:40 -- správné zdůvodnění vnitřní modlitby
+kotouc-T01-metoda-a 01:06:34 -- prokázání vděčnosti Bohu neunaví
+kotouc-T01-metoda-a 01:06:43 -- k následování Ježíše není potřeba poznání, stačí láska
+kotouc-T01-metoda-a 01:09:26 -- ve 20. století je na duchovní cestě třeba prosperovat kvůli příkladnosti; proto je potřeba zjednávat v životě rovnováhu; proto pranýřuje některé druhy služby
+kotouc-T01-metoda-a 01:12:30 -- nevynikat nad ostatní
+kotouc-T01-metoda-a 01:14:30 -- zvolit individuální prostředek, plně mu důvěřovat a při něm sebeobětovat
