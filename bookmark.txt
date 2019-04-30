@@ -1,4 +1,4 @@
-exec mplayer -ss 1:21:00 kotouc-T01-metoda-a.mp3
+exec mplayer -ss 13:15 kotouc-T01-metoda-b.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -690,7 +690,7 @@ kotouc-T01-metoda-a    42:20 -- volba vůdčího prostředku: nejpřirozenějš�
 kotouc-T01-metoda-a    43:45 --   které prostředky používal Ježíš kdy přednostně a které kdy jako doplněk
 kotouc-T01-metoda-a    45:17 -- služba bližnímu, otroctví
 kotouc-T01-metoda-a    45:51 --   napodobovat Ježíše ve službě, nenamáhat se
-kotouc-T01-metoda-a    51:21 --     teta pana Šuchny, která po životě služby bližnímu umírala na rakovinu
+kotouc-T01-metoda-a    51:21 --     teta pana Šuchmy, která po životě služby bližnímu umírala na rakovinu
 kotouc-T01-metoda-a    52:03 --   podíl na utrpení bližního
 kotouc-T01-metoda-a    52:37 --     paní Kamenická
 kotouc-T01-metoda-a    54:25 --   vydávání síly
@@ -709,3 +709,6 @@ kotouc-T01-metoda-a 01:06:43 -- k následování Ježíše není potřeba pozná
 kotouc-T01-metoda-a 01:09:26 -- ve 20. století je na duchovní cestě třeba prosperovat kvůli příkladnosti; proto je potřeba zjednávat v životě rovnováhu; proto pranýřuje některé druhy služby
 kotouc-T01-metoda-a 01:12:30 -- nevynikat nad ostatní
 kotouc-T01-metoda-a 01:14:30 -- zvolit individuální prostředek, plně mu důvěřovat a při něm sebeobětovat
+kotouc-T01-metoda-a 01:24:35 -- na občerstvení má právo člověk, který chce věčný život pro sebe a ústí to do narození v Betlémě, kde už musí přivolit službu narozenému
+kotouc-T01-metoda-b        0 -- přikázání jsou záporná, aby se v tom kladném jedinci nechala svoboda; využití prostředku
+kotouc-T01-metoda-b    09:54 -- není vinou člověka, že ztratí povědomí o Bohu; nabyté spojení s věčností nelze promrhat
