@@ -1,4 +1,4 @@
-exec mplayer -ss 13:15 kotouc-T01-metoda-b.mp3
+exec mplayer -ss 35:00 kotouc-T01-metoda-b.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -712,3 +712,12 @@ kotouc-T01-metoda-a 01:14:30 -- zvolit individuální prostředek, plně mu dův
 kotouc-T01-metoda-a 01:24:35 -- na občerstvení má právo člověk, který chce věčný život pro sebe a ústí to do narození v Betlémě, kde už musí přivolit službu narozenému
 kotouc-T01-metoda-b        0 -- přikázání jsou záporná, aby se v tom kladném jedinci nechala svoboda; využití prostředku
 kotouc-T01-metoda-b    09:54 -- není vinou člověka, že ztratí povědomí o Bohu; nabyté spojení s věčností nelze promrhat
+kotouc-T01-metoda-b    15:15 -- nepodstatnost chyb osobnosti
+kotouc-T01-metoda-b    19:02 --   vidět hříšníka je OK v osvíceném člověku, ale v neosvíceném ne
+kotouc-T01-metoda-b    20:11 --   dělat z askeze prerekvizitu mystiky je blbost
+kotouc-T01-metoda-b    22:00 -- proč Ježíš napomínal proti strachování a ne za chyby; vyčítal Jidášovi, že rozporoval Ježíšovu vůli
+kotouc-T01-metoda-b    24:37 --   vylití masti je hlavní záležitost
+kotouc-T01-metoda-b    26:46 --   "každá správná cesta začíná úctou"
+kotouc-T01-metoda-b    27:24 -- pomazání Ježíšovo od hříšné ženy
+kotouc-T01-metoda-b    29:44 -- jak se zbavit starostlivosti
+kotouc-T01-metoda-b    34:15 -- nedostatek víry
