@@ -1,4 +1,4 @@
-exec mplayer -ss 35:00 kotouc-T01-metoda-b.mp3
+exec mplayer -ss 1:06:40 kotouc-T01-metoda-b.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -721,3 +721,13 @@ kotouc-T01-metoda-b    26:46 --   "každá správná cesta začíná úctou"
 kotouc-T01-metoda-b    27:24 -- pomazání Ježíšovo od hříšné ženy
 kotouc-T01-metoda-b    29:44 -- jak se zbavit starostlivosti
 kotouc-T01-metoda-b    34:15 -- nedostatek víry
+kotouc-T01-metoda-b    35:31 --   za vzbuzení se Bůh zlobí
+kotouc-T01-metoda-b    36:07 --   jednání bez Ježíše, otroctví
+kotouc-T01-metoda-b    40:17 -- otázka: mám pocit, že stále zrazuju Ježíše; neztotožňovat se s hříšným člověkem
+kotouc-T01-metoda-b    42:47 -- jak mít Ducha svatého (výborné)
+kotouc-T01-metoda-b    47:47 -- soudcovství nad sebou
+kotouc-T01-metoda-b    49:39 -- cesta vědomí, jak měnit prostředky
+kotouc-T01-metoda-b    50:27 --   křest v Jordánu je s prostředníkem
+kotouc-T01-metoda-b    52:24 --   obraz Marie učící Ježíška šlapat na hadí hlavu ve Villa Borghese, úloha prostředníků u Ježíše
+kotouc-T01-metoda-b    55:42 --   pokání, stav bezhříšnosti
+kotouc-T01-metoda-b    57:46 --   zlačnění
