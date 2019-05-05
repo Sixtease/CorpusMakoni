@@ -1,4 +1,4 @@
-exec mplayer -ss 1:06:40 kotouc-T01-metoda-b.mp3
+exec mplayer -ss 37:40 kotouc-T01-metoda-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -731,3 +731,36 @@ kotouc-T01-metoda-b    50:27 --   křest v Jordánu je s prostředníkem
 kotouc-T01-metoda-b    52:24 --   obraz Marie učící Ježíška šlapat na hadí hlavu ve Villa Borghese, úloha prostředníků u Ježíše
 kotouc-T01-metoda-b    55:42 --   pokání, stav bezhříšnosti
 kotouc-T01-metoda-b    57:46 --   zlačnění
+kotouc-T01-metoda-b 01:06:45 -- tíže lidstva na Ježíši od Jordánu
+kotouc-T01-metoda-b 01:07:45 -- zjednání nerovnováhy konáním dobra a způsobil smrt
+kotouc-T01-metoda-b 01:08:39 --   Ježíš udělal jedinou věc, že vstoupil na kříž, vše ostatní dělal Otec
+kotouc-T01-metoda-b 01:09:14 --   
+kotouc-T01-metoda-b 01:09:40 --   i nerovnováha je jen prostředek
+kotouc-T01-metoda-b 01:11:39 -- smrt na kříži po 3 hodinách umírání je kokon pro stav klidu
+kotouc-T01-metoda-b 01:12:50 -- prostřek od Jordánu po kříž je nepřetržité vykonávání boží vůle
+kotouc-T01-metoda-b 01:13:51 -- i při dokonalém konání boží vůle konají lidské vlastnosti boží vůli nedokonale
+kotouc-T01-metoda-b 01:15:21 -- konec funkce zla
+kotouc-T01-metoda-b 01:16:27 -- i Ježíš se k synovství musel propracovat
+kotouc-T01-metoda-b 01:19:09 -- cesta je čím dál mystičtější, tedy více spojovaci
+kotouc-T01-metoda-b 01:20:06 -- "vás si vybral otec, ne já", po zmrtvýchvstání Ježíš je vůlí otcovou
+kotouc-T01-metoda-c        0 -- na kříži Ježíše přenesl stav odevzdanosti, ne metoda
+kotouc-T01-metoda-c    01:20 -- u Číňanů dochází k probuzení v momentě opuštění metody
+kotouc-T01-metoda-c    02:01 -- metoda u K.M. do 17 let bylo 3/4 roku zoufalství nad vlastním životem
+kotouc-T01-metoda-c    04:47 -- žít na tomto světě je též metoda
+kotouc-T01-metoda-c    05:27 -- bez metody je výsledek přetavené metody, její duch
+kotouc-T01-metoda-c    08:20 -- metoda otázek a odpovědí v Zenu
+kotouc-T01-metoda-c    10:25 --   Ježíš se člověka ptal, co chce
+kotouc-T01-metoda-c    10:56 --   ne odpověď, ale duch z odevzdání věci při položení otázky, přinesl prospěch
+kotouc-T01-metoda-c    15:55 --   metoda funguje, pokud je prostředkem sebeodevzdání, a tak i otázka a odpověď
+kotouc-T01-metoda-c    17:16 -- pocit neschopnosti při podržení touhy
+kotouc-T01-metoda-c    18:47 -- vyslovování čínského slova pro mysl
+kotouc-T01-metoda-c    20:05 -- při odpovědi vzdor zdeptání dochází ke styku s věčností; odevzdáním od dotazovaného dochází zákonitě k obohacení tázajícího se
+kotouc-T01-metoda-c    22:21 -- pozbýt konkrétní opory a tím se opřít věčnost
+kotouc-T01-metoda-c    26:00 -- vstup může trvat půl sekundy
+kotouc-T01-metoda-c    26:30 -- stupně zažívání věčnosti, absence stupňů
+kotouc-T01-metoda-c    27:40 -- vzývání a pomoc svatých
+kotouc-T01-metoda-c    29:53 -- žebrání o věčnost nemůže uspět, neboť žebrám pro sebe
+kotouc-T01-metoda-c    30:52 -- žádat od svatých, abych se mohl připojit k jejich oběti
+kotouc-T01-metoda-c    32:20 -- operace, transfúze, pozornost na sebe sama, Alenka
+kotouc-T01-metoda-c    37:32 -- "Otrokovice, 27. května 1974"
+kotouc-T01-metoda-c    37:40 -- 
