@@ -1,4 +1,4 @@
-exec mplayer -ss 37:40 kotouc-T01-metoda-c.mp3
+exec mplayer -ss 1:12:11 kotouc-T01-metoda-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -763,4 +763,7 @@ kotouc-T01-metoda-c    29:53 -- žebrání o věčnost nemůže uspět, neboť �
 kotouc-T01-metoda-c    30:52 -- žádat od svatých, abych se mohl připojit k jejich oběti
 kotouc-T01-metoda-c    32:20 -- operace, transfúze, pozornost na sebe sama, Alenka
 kotouc-T01-metoda-c    37:32 -- "Otrokovice, 27. května 1974"
-kotouc-T01-metoda-c    37:40 -- 
+kotouc-T01-metoda-c    37:40 -- rozpor mezi "já jsem cesta" a "tao, po kterém se dá kráčet není pravé tao"
+kotouc-T01-metoda-c    53:51 -- otázka: je cesta, pravda a život gradace? role šoku, přínos drzých dotazů
+kotouc-T01-metoda-c 01:00:13 -- otázka: odevzdávám upřímně a nic; následek chybného sebepoznání
+kotouc-T01-metoda-c 01:12:11 -- otázka: proč Ježíš potřeboval od Petra slyšet, že je Kristus
