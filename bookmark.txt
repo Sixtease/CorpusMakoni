@@ -1,4 +1,4 @@
-exec mplayer -ss 1:12:11 kotouc-T01-metoda-c.mp3
+exec mplayer -ss 13:43 kotouc-T01-metoda-d.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -770,3 +770,10 @@ kotouc-T01-metoda-c 01:12:11 -- otázka: proč Ježíš potřeboval od Petra sly
 kotouc-T01-metoda-c 01:20:11 -- Ježíšův stav oddělenosti na kříži, rostoucí pluralita příčin podle společenské složitosti jevu,
 kotouc-T01-metoda-c 01:24:02 --   úkoly lidstva pro teď a pro později
 kotouc-T01-metoda-c 01:24:49 -- co když všichni dostávají dary a já ne? Požehnání ve stavu nemilosti
+kotouc-T01-metoda-d        0 -- ve stavu, kdy se člověk zcela zklidní a jen očekává boží dotek je překážkou očekávání
+kotouc-T01-metoda-d    05:13 -- bez touhy nelze přejít, s konkrétní touhou též ne; v touze je potřeba se zcela zklamat
+kotouc-T01-metoda-d    07:54 -- nezabývat se tím, kdy (přestat) toužit, důležité je toužit a nikam se tou touhou nedostat
+kotouc-T01-metoda-d    08:50 -- netoužit je tamas, toužit je radžas a dokud je člověk v gunách, nepoznává věčnost
+kotouc-T01-metoda-d    12:02 -- vnitřní stav, který se mylně jeví jako zevní činnost (nejezdím do Tater, kdybych jel, spáchal bych sebevraždu)
+kotouc-T01-metoda-d    13:43 -- 
+
