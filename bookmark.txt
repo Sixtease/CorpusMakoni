@@ -766,4 +766,7 @@ kotouc-T01-metoda-c    37:32 -- "Otrokovice, 27. května 1974"
 kotouc-T01-metoda-c    37:40 -- rozpor mezi "já jsem cesta" a "tao, po kterém se dá kráčet není pravé tao"
 kotouc-T01-metoda-c    53:51 -- otázka: je cesta, pravda a život gradace? role šoku, přínos drzých dotazů
 kotouc-T01-metoda-c 01:00:13 -- otázka: odevzdávám upřímně a nic; následek chybného sebepoznání
-kotouc-T01-metoda-c 01:12:11 -- otázka: proč Ježíš potřeboval od Petra slyšet, že je Kristus
+kotouc-T01-metoda-c 01:12:11 -- otázka: proč Ježíš potřeboval od Petra slyšet, že je Kristus? dotazem se vlastnost přiměje, aby přešla do věčnosti a měla v Ježíši vládce
+kotouc-T01-metoda-c 01:20:11 -- Ježíšův stav oddělenosti na kříži, rostoucí pluralita příčin podle společenské složitosti jevu,
+kotouc-T01-metoda-c 01:24:02 --   úkoly lidstva pro teď a pro později
+kotouc-T01-metoda-c 01:24:49 -- co když všichni dostávají dary a já ne? Požehnání ve stavu nemilosti
