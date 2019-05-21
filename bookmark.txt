@@ -1,4 +1,4 @@
-exec mplayer -ss 13:43 kotouc-T01-metoda-d.mp3
+exec mplayer -ss 0 kotouc-U-Zdiar-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -775,5 +775,32 @@ kotouc-T01-metoda-d    05:13 -- bez touhy nelze přejít, s konkrétní touhou t
 kotouc-T01-metoda-d    07:54 -- nezabývat se tím, kdy (přestat) toužit, důležité je toužit a nikam se tou touhou nedostat
 kotouc-T01-metoda-d    08:50 -- netoužit je tamas, toužit je radžas a dokud je člověk v gunách, nepoznává věčnost
 kotouc-T01-metoda-d    12:02 -- vnitřní stav, který se mylně jeví jako zevní činnost (nejezdím do Tater, kdybych jel, spáchal bych sebevraždu)
-kotouc-T01-metoda-d    13:43 -- 
-
+kotouc-T01-metoda-d    13:43 -- neškodí se lidem, kteří se spoléhají na metodu, tím, že se řekne, že s metodou to nejde? vývoj je nemetodický, nutnost vnitřního boje
+kotouc-T01-metoda-d    18:23 --   chci vás naučit přisoudit metodě pravý význam, dojít metodou k bodu, kdy je ji potřeba opustit, modlitba v duchu a pravdě
+kotouc-T01-metoda-d    22:23 -- nechat se metodou unést a na konci utnout koni hlavu
+kotouc-T01-metoda-d    26:05 -- metoda je k ničemu, pokud není na druhé straně odezva, která není metodou; význam víry nebo obecně stavu mysli; sebeuspokojení je jediný neplodný stav;
+kotouc-T01-metoda-d    29:35 -- metody si nemusíme být vědomi; metoda vkládání do věcí více než ostatní; setkávání s bližním celou bytostí
+kotouc-T01-metoda-d    37:16 -- povrchní styk s lidmi a styk od srdce k srdci
+kotouc-T01-metoda-d    37:55 -- mužská a ženská duše, doplňování se v manželství
+kotouc-T01-metoda-d    39:00 -- jít nahoru musí být nad jakýmkoliv stavem
+kotouc-T01-metoda-d    41:39 -- zkuste obětovat nejhorší vlastnost Bohu v jejím největším rozkvětu
+kotouc-T01-metoda-d    42:40 -- obětování stavů, které s člověkem cloumají
+kotouc-T01-metoda-d    46:25 -- když neumím obětovat, mohu to přenechat na Bohu
+kotouc-T01-metoda-d    48:23 -- následky odevzdat Bohu hned
+kotouc-T01-metoda-d    43:52 -- (hudba)
+kotouc-T01-metoda-d    52:44 -- "Žďár, červenec, 1974
+kotouc-T01-metoda-d    52:57 -- světský člověk uplaňuje vůli pro světské cíle nepospojuje celou bytost a pokud ano, dosáhne probuzení (satori, mokša)
+kotouc-T01-metoda-d    55:37 -- plným zaujetím pro jednu byť nemravnou věc se dostaneme k narození v Betlémě
+kotouc-T01-metoda-d    58:53 -- po zrození musím vlastní vůlí být v tom, co je mého Otce
+kotouc-T01-metoda-d 01:00:29 -- od křtu v Jordánu nesmím jednat ze své vůle, ale konat vůli Otcovu
+kotouc-T01-metoda-d 01:01:13 -- bod opuštění od metody, závislost na okolnostech
+kotouc-T01-metoda-d 01:08:49 -- člověk sebepoznává podle míry odstoupení od sebe
+kotouc-T01-metoda-d 01:10:52 --   žena má větší schopnost vžití se, muž ví méně než žena
+kotouc-T01-metoda-d 01:13:01 -- v okamžiku rozhodném být nezaujatý
+kotouc-T01-metoda-d 01:16:31 -- lze použít i prostředek, do něhož jsem zatím nedorostl, mám-li k tomu chuť, neboť tím je posvěcen, ale čím vyššího prostředku se chápu, tím větší šance, že ho použiju povrchně
+kotouc-T01-metoda-d 01:18:41 --   boj církve proti Weinfurterovu pojetí modlitby ticha
+kotouc-T01-metoda-d 01:22:00 --   
+kotouc-T01-metoda-d 01:22:25 -- muset být v tom, co je mého Otce = snažit se konat vůli boží
+kotouc-T01-metoda-d 01:23:49 --   tvůrčí činnost boží je jako kolo, které se točí tak rychle, že už nelze točení příček vidět
+kotouc-T01-metoda-d 01:24:55 --   činni i v klidu můžeme být díky tomu, že obojí je Bůh
+kotouc-U-Zdiar-a        0 -- 
