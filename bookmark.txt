@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-U-Zdiar-a.mp3
+exec mplayer -ss 34:11 kotouc-U-Zdiar-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -803,4 +803,18 @@ kotouc-T01-metoda-d 01:22:00 --
 kotouc-T01-metoda-d 01:22:25 -- muset být v tom, co je mého Otce = snažit se konat vůli boží
 kotouc-T01-metoda-d 01:23:49 --   tvůrčí činnost boží je jako kolo, které se točí tak rychle, že už nelze točení příček vidět
 kotouc-T01-metoda-d 01:24:55 --   činni i v klidu můžeme být díky tomu, že obojí je Bůh
-kotouc-U-Zdiar-a        0 -- 
+kotouc-U-Zdiar-a        0 -- extatická fáze Svaté Terezie z Avily
+kotouc-U-Zdiar-a    02:12 -- různé názorové proudy mezi katolickými řády, Benediktíni vs. Jezuité
+kotouc-U-Zdiar-a    04:05 -- laici vs. klášterníci
+kotouc-U-Zdiar-a    06:05 -- vývoj neprobíhá jako u Ježíše skokem, ale krouživým pohybem, jak říkají Františkáni
+kotouc-U-Zdiar-a    07:56 -- soud, rostoucí potřeba ostatních lidí
+kotouc-U-Zdiar-a    09:40 -- posvěcení od prostředníka
+kotouc-U-Zdiar-a    11:32 -- transplantace duchovního vývoje
+kotouc-U-Zdiar-a    12:43 -- soud na rozhraní fází
+kotouc-U-Zdiar-a    15:49 -- výměna prostředků na rozhraní fází
+kotouc-U-Zdiar-a    16:35 -- poslední soud
+kotouc-U-Zdiar-a    21:30 -- osobní vedení Kristem po posledním soudu
+kotouc-U-Zdiar-a    22:51 -- rozdělení celku na pojmenované složky
+kotouc-U-Zdiar-a    27:36 -- kázání davům
+kotouc-U-Zdiar-a    28:42 -- zázraky
+kotouc-U-Zdiar-a    34:11 -- chyba rozhřešení pro každého
