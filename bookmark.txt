@@ -1,4 +1,4 @@
-exec mplayer -ss 34:11 kotouc-U-Zdiar-a.mp3
+exec mplayer -ss 15:58 kotouc-U-Zdiar-b.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -818,3 +818,18 @@ kotouc-U-Zdiar-a    22:51 -- rozdělení celku na pojmenované složky
 kotouc-U-Zdiar-a    27:36 -- kázání davům
 kotouc-U-Zdiar-a    28:42 -- zázraky
 kotouc-U-Zdiar-a    34:11 -- chyba rozhřešení pro každého
+kotouc-U-Zdiar-a    36:33 -- jak odpustit hříchy, mají-li mi být odpuštěny
+kotouc-U-Zdiar-a    41:17 -- role panny Marie: trpnost, která rozpoutává činnost
+kotouc-U-Zdiar-a    48:08 -- role panny Marie: transformátor mezi bezčasovostí a časoprostorem
+kotouc-U-Zdiar-a    49:31 -- ne moje, ale jedna jediná nesmrtelná duše; náboženství skrz poznání, ne víru
+kotouc-U-Zdiar-a    51:31 -- role panny Marie: umožnění poznávat
+kotouc-U-Zdiar-a    53:04 -- role panny Marie: učitelka lásky, moudrosti a správné míry oběti
+kotouc-U-Zdiar-a    59:48 -- (překryv)
+kotouc-U-Zdiar-a 01:21:07 -- události jako neoodělené nehistorizující
+kotouc-U-Zdiar-a 01:23:40 -- vlastnosti jako rozdělující, satanské, "takový já nejsem"
+kotouc-U-Zdiar-a 01:25:09 -- vůle - vlastnost, která dovede pod kříž
+kotouc-U-Zdiar-b        0 -- (překryv)
+kotouc-U-Zdiar-b    04:23 -- Jidášovo židovství, opocize proti Ježíši mezi Židy, použití zlých vlastností
+kotouc-U-Zdiar-b    07:15 -- důležitost připravy k duchovnímu cvičení, nesvoboda tažení k Bohu na cestě k pravé svobodě
+kotouc-U-Zdiar-b    11:05 -- "bohové jste"
+kotouc-U-Zdiar-b    15:58 -- 
