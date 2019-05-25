@@ -1,4 +1,4 @@
-exec mplayer -ss 15:58 kotouc-U-Zdiar-b.mp3
+exec mplayer -ss 37:03 kotouc-U-Zdiar-b.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -832,4 +832,11 @@ kotouc-U-Zdiar-b        0 -- (překryv)
 kotouc-U-Zdiar-b    04:23 -- Jidášovo židovství, opocize proti Ježíši mezi Židy, použití zlých vlastností
 kotouc-U-Zdiar-b    07:15 -- důležitost připravy k duchovnímu cvičení, nesvoboda tažení k Bohu na cestě k pravé svobodě
 kotouc-U-Zdiar-b    11:05 -- "bohové jste"
-kotouc-U-Zdiar-b    15:58 -- 
+kotouc-U-Zdiar-b    15:58 -- vlastnosti; vědomé spojení s Bohem může nastat jen za absolutní temnoty při živé mozkové kůře
+kotouc-U-Zdiar-b    19:55 -- plně rozvinout vlastnosti, až již dál nemohu, a tím je v sobě vázat, aniž by byly v mysli
+kotouc-U-Zdiar-b    23:52 -- naplnit nádobu až po okraj věčnosti; rezignace
+kotouc-U-Zdiar-b    25:25 -- jít slabostí
+kotouc-U-Zdiar-b    29:54 -- nenechat si žádnou slabost pro sebe
+kotouc-U-Zdiar-b    31:06 -- "Gottwaldov, M., 5. října 1974"
+kotouc-U-Zdiar-b    31:14 -- obecná láska
+kotouc-U-Zdiar-b    37:03 --   spojovací a rozpojovací účinek obecné lásky
