@@ -1,4 +1,4 @@
-exec mplayer -ss 37:03 kotouc-U-Zdiar-b.mp3
+exec mplayer -ss 0 kotouc-U-Zdiar-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -839,4 +839,31 @@ kotouc-U-Zdiar-b    25:25 -- jít slabostí
 kotouc-U-Zdiar-b    29:54 -- nenechat si žádnou slabost pro sebe
 kotouc-U-Zdiar-b    31:06 -- "Gottwaldov, M., 5. října 1974"
 kotouc-U-Zdiar-b    31:14 -- obecná láska
-kotouc-U-Zdiar-b    37:03 --   spojovací a rozpojovací účinek obecné lásky
+kotouc-U-Zdiar-b    37:03 --   spojovací a rozpojovací účinek obecné lásky (výborné, emotivní)
+kotouc-U-Zdiar-b    38:35 --     odchod K.M. od světského života
+kotouc-U-Zdiar-b    40:39 --     rozetnout znamená zase pospojovat na jiné úrovni
+kotouc-U-Zdiar-b    41:22 -- série událostí přináležející úrovni, osud si děláme sami
+kotouc-U-Zdiar-b    47:23 -- zázraky, satanská láska, vlastnictví
+kotouc-U-Zdiar-b    49:14 -- sebezáporem k poznání a k vyšší úrovni událostí
+kotouc-U-Zdiar-b    52:32 -- událost jako vnirřní modlitba
+kotouc-U-Zdiar-b    53:37 -- tělo jako nejdůležitější událost, buněčná a tkáňová paměť
+kotouc-U-Zdiar-b    55:36 -- (ticho)
+kotouc-U-Zdiar-b    56:54 -- paměť
+kotouc-U-Zdiar-b    58:52 --   izolace paměti od myšlenky
+kotouc-U-Zdiar-b 01:00:38 --   (velmi nízká hlasitost)
+kotouc-U-Zdiar-b 01:00:56 --   
+kotouc-U-Zdiar-b 01:01:11 --   přechod do věčnosti pomocí paměti
+kotouc-U-Zdiar-b 01:02:52 -- "Gottwaldov, B., 6. října 1974"
+kotouc-U-Zdiar-b 01:02:59 -- 
+kotouc-U-Zdiar-b 01:03:05 -- vlastnictví
+kotouc-U-Zdiar-b 01:27:32 --   nevýjimečnost svatých, "takový prevít jako Sv. Pavel"
+kotouc-U-Zdiar-b 01:28:59 -- (ticho)
+kotouc-U-Zdiar-c        0 -- vlastnictví
+kotouc-U-Zdiar-c        0 --   sv. Pavel
+kotouc-U-Zdiar-c    02:18 --   hospodaření s radostí
+kotouc-U-Zdiar-c    03:14 --   já svůj a já boží
+kotouc-U-Zdiar-c    05:11 --   (výborné)
+kotouc-U-Zdiar-c    07:10 --   špatné vlastnosti jako omezující podmínky, vzta k tělu
+kotouc-U-Zdiar-c    13:02 -- touha po návratu do Otcova domu nestačí, je třeba ji odevzdat
+kotouc-U-Zdiar-c    18:02 -- touha po Mesiáši, zrození boží z jeho, ne mojí vůle
+kotouc-U-Zdiar-c    23:36 -- individualita
