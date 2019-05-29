@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-U-Zdiar-c.mp3
+exec mplayer -ss 48:19 kotouc-U-Zdiar-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -866,4 +866,11 @@ kotouc-U-Zdiar-c    05:11 --   (výborné)
 kotouc-U-Zdiar-c    07:10 --   špatné vlastnosti jako omezující podmínky, vzta k tělu
 kotouc-U-Zdiar-c    13:02 -- touha po návratu do Otcova domu nestačí, je třeba ji odevzdat
 kotouc-U-Zdiar-c    18:02 -- touha po Mesiáši, zrození boží z jeho, ne mojí vůle
-kotouc-U-Zdiar-c    23:36 -- individualita
+kotouc-U-Zdiar-c    23:36 -- individualita, vazba na organismus, překonání zapomenutím na sebe, usnutí panen
+kotouc-U-Zdiar-c    31:17 --   indická cesta zvládnutí pozice, pak dechu atd., vs. cesta Ježíšova hledejte království boží a vše ostatní vám bude přidáno
+kotouc-U-Zdiar-c    32:52 --   
+kotouc-U-Zdiar-c    33:36 -- hranice působení dočasného, míra sebepoznání a poznání druhého (zvláštní)
+kotouc-U-Zdiar-c    40:58 -- kam pro sebe jít
+kotouc-U-Zdiar-c    42:53 -- hodni se stáváme tím, že napřed chceme a pak dokážeme od chtění ustoupit
+kotouc-U-Zdiar-c    44:03 -- odstup od situace, která brání jít ke Kristu, držet se v šachu a tím jít k Bohu
+kotouc-U-Zdiar-c    48:19 -- 
