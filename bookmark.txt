@@ -1,4 +1,4 @@
-exec mplayer -ss 48:19 kotouc-U-Zdiar-c.mp3
+exec mplayer -ss 06:12 kotouc-U-Zdiar-d.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -873,4 +873,19 @@ kotouc-U-Zdiar-c    33:36 -- hranice působení dočasného, míra sebepoznání
 kotouc-U-Zdiar-c    40:58 -- kam pro sebe jít
 kotouc-U-Zdiar-c    42:53 -- hodni se stáváme tím, že napřed chceme a pak dokážeme od chtění ustoupit
 kotouc-U-Zdiar-c    44:03 -- odstup od situace, která brání jít ke Kristu, držet se v šachu a tím jít k Bohu
-kotouc-U-Zdiar-c    48:19 -- 
+kotouc-U-Zdiar-c    48:19 -- nedokonalost osobního vedení, manipulace s vlastnostmi
+kotouc-U-Zdiar-c    49:22 -- "Gottwaldov, E. 6.10.1974"
+kotouc-U-Zdiar-c    49:31 -- cesta naděje k osobnímu vedení
+kotouc-U-Zdiar-c    51:41 -- světské hodnoty u víry a naděje
+kotouc-U-Zdiar-c    55:45 -- mnoho příbytků u Boha, plýtvání v přírodě
+kotouc-U-Zdiar-c    57:12 --   plýtvání u lidské existence
+kotouc-U-Zdiar-c    57:48 --   trénink existencí pro světské hodnoty pro existenci na věčnost
+kotouc-U-Zdiar-c    58:50 --   ztráta individuality na prahu věčnosti
+kotouc-U-Zdiar-c    59:48 -- (překryv)
+kotouc-U-Zdiar-c 01:21:06 -- indická cesta vs. Ježíšova, Ježíšovo učení je véda platná až do dalšího příchodu Avatarova
+kotouc-U-Zdiar-c 01:24:39 --   nechat v sobě zrodit Mesiáše
+kotouc-U-Zdiar-c 01:28:39 --   aktivní a pasivní část Ježíšova učení: vůle a sebezápor
+kotouc-U-Zdiar-d        0 -- (překryv)
+kotouc-U-Zdiar-d    04:23 -- komplexní sebezápor na různých úrovních
+kotouc-U-Zdiar-d    05:49 --   kdyby Ježíš veden Duchem svatým byl použil světlo rozumu, byl by to hřích proti Duchu
+kotouc-U-Zdiar-d    06:12 --   
