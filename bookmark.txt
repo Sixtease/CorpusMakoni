@@ -1,4 +1,4 @@
-exec mplayer -ss 06:12 kotouc-U-Zdiar-d.mp3
+exec mplayer -ss 0 kotouc-A01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -889,3 +889,20 @@ kotouc-U-Zdiar-d        0 -- (překryv)
 kotouc-U-Zdiar-d    04:23 -- komplexní sebezápor na různých úrovních
 kotouc-U-Zdiar-d    05:49 --   kdyby Ježíš veden Duchem svatým byl použil světlo rozumu, byl by to hřích proti Duchu
 kotouc-U-Zdiar-d    06:12 --   
+kotouc-U-Zdiar-d    08:21 -- pozice žebráka, sluhy a otroka (výborné)
+kotouc-U-Zdiar-d    11:21 -- modlitba z pozice člověka se světskými nebo věčnými cíli
+kotouc-U-Zdiar-d    16:21 -- cesta naděje
+kotouc-U-Zdiar-d    35:02 --   přimyšlení věcí k proroctví od proroků
+kotouc-U-Zdiar-d    51:52 -- porovnání cesty víry a cesty naděje
+kotouc-U-Zdiar-d    57:58 --   víra potřebuje nadpřirozený zážitek
+kotouc-U-Zdiar-d    59:58 --   
+kotouc-U-Zdiar-d 01:02:26 -- víru lze pozbýt při odporujících zkušenostech
+kotouc-U-Zdiar-d 01:04:00 -- na cestě víry křižujeme Krista
+kotouc-U-Zdiar-d 01:05:38 -- cesta lásky Krista neukřižuje, ale musí se zobecnit
+kotouc-U-Zdiar-d 01:09:39 -- spojovací a rozpojovací úloha obecné lásky
+kotouc-U-Zdiar-d 01:11:34 -- tažení láskou je komplexní, nesmí se vylučovat přechod špatnou vlastností
+kotouc-U-Zdiar-d 01:13:54 -- sejmutí hříchu oddělenosti od Boha
+kotouc-U-Zdiar-d 01:15:16 -- dovolit Ježíši působit osobním vedením činy
+kotouc-U-Zdiar-d 01:19:34 -- jak se otevřít činnosti Páně
+kotouc-U-Zdiar-d 01:24:19 -- (duplicita: kotouc-U-Zdiar-d 01:15:16)
+kotouc-A01-a        0 -- 
