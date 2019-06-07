@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-A01-a.mp3
+exec mplayer -ss 24:50 kotouc-A01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -905,4 +905,15 @@ kotouc-U-Zdiar-d 01:13:54 -- sejmutí hříchu oddělenosti od Boha
 kotouc-U-Zdiar-d 01:15:16 -- dovolit Ježíši působit osobním vedením činy
 kotouc-U-Zdiar-d 01:19:34 -- jak se otevřít činnosti Páně
 kotouc-U-Zdiar-d 01:24:19 -- (duplicita: kotouc-U-Zdiar-d 01:15:16)
-kotouc-A01-a        0 -- 
+kotouc-A01-a        0 -- žádné poznání na zemi není vrcholné; je třeba jít k Bohu z toho stavu, kde jsem
+kotouc-A01-a    05:36 -- při poslušnosti není poznání nebezpečné
+kotouc-A01-a    07:37 -- pýcha z poznání
+kotouc-A01-a    08:46 -- chtíce patřit, nevíme, co chceme, neb chceme ještě patřit sobě
+kotouc-A01-a    10:09 -- osobní rada jít konkrétním prostředkem
+kotouc-A01-a    11:31 -- sebeneznalost sv. Petra, dočasné posilování sebe
+kotouc-A01-a    13:00 -- učedníci si uvědomovali, kde jsou, a odtud šli, a bylo to z neudržitelného stavu
+kotouc-A01-a    16:36 -- zošklivit si situaci, ustavičné dosahování, postup odněkud někam
+kotouc-A01-a    18:56 -- dodržování a porušování celého zákona
+kotouc-A01-a    19:38 -- obtížnost smrti podle rozvinutí jáčka
+kotouc-A01-a    21:34 -- učedníci nemuseli stylizovat život podle zákona, neboť to odvádělo od Boha
+kotouc-A01-a    23:08 -- stylizace života
