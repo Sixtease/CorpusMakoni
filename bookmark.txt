@@ -1,4 +1,4 @@
-exec mplayer -ss 24:50 kotouc-A01-a.mp3
+exec mplayer -ss 31:49 kotouc-A01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -917,3 +917,5 @@ kotouc-A01-a    18:56 -- dodržování a porušování celého zákona
 kotouc-A01-a    19:38 -- obtížnost smrti podle rozvinutí jáčka
 kotouc-A01-a    21:34 -- učedníci nemuseli stylizovat život podle zákona, neboť to odvádělo od Boha
 kotouc-A01-a    23:08 -- stylizace života
+kotouc-A01-a    30:09 --   Otčenáš jako vrcholný systém stylizace života
+kotouc-A01-a    31:49 -- nerovnováha mezi vnitřní modlitbou a zevním životem
