@@ -1,4 +1,4 @@
-exec mplayer -ss 31:49 kotouc-A01-a.mp3
+exec mplayer -ss 58:54 kotouc-A01-a.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -919,3 +919,18 @@ kotouc-A01-a    21:34 -- učedníci nemuseli stylizovat život podle zákona, ne
 kotouc-A01-a    23:08 -- stylizace života
 kotouc-A01-a    30:09 --   Otčenáš jako vrcholný systém stylizace života
 kotouc-A01-a    31:49 -- nerovnováha mezi vnitřní modlitbou a zevním životem
+kotouc-A01-a    32:00 --   teta pana Šuchmy
+kotouc-A01-a    33:55 --   nerovnováha u světců klášterníků
+kotouc-A01-a    36:33 --   otázka: mně jde spíš zevní činnost, modlitba ne; odpověď: klíč je v činnosti
+kotouc-A01-a    38:24 --     větší překážka v malichernostech než ve velkých věcech
+kotouc-A01-a    41:04 --       "světský život má jenom tehdy správný punc, když není žit v tomto světě, nýbrž v Bohu"
+kotouc-A01-a    41:26 --       není nic, co by nebylo posvátné
+kotouc-A01-a    41:26 --       ulamování hrotů těžkostí, nechávaje nezměněnou příčinu
+kotouc-A01-a    43:21 --       
+kotouc-A01-a    46:43 --       boží vůle jednou větou: abych se k ní přibližoval
+kotouc-A01-a    47:42 --       co dokážu, řeším, co nedokážu, odevzdám
+kotouc-A01-a    48:16 --   otázka: denní události mě odvádějí od záměru plnit boží vůli
+kotouc-A01-a    50:07 --   malé věci, např že mě někdo dožírá, mohou být přímým božím pozváním
+kotouc-A01-a    50:46 --   poslušnost okolí není nutně plnění vůle boží, vše je symbolické
+kotouc-A01-a    53:55 -- jak jednat? podle "miluj bližního jako sebe"
+kotouc-A01-a    58:54 -- paní Mičanová
