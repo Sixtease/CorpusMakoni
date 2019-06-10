@@ -1,4 +1,4 @@
-exec mplayer -ss 58:54 kotouc-A01-a.mp3
+exec mplayer -ss 10:00 kotouc-A01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -933,4 +933,9 @@ kotouc-A01-a    48:16 --   otázka: denní události mě odvádějí od záměru
 kotouc-A01-a    50:07 --   malé věci, např že mě někdo dožírá, mohou být přímým božím pozváním
 kotouc-A01-a    50:46 --   poslušnost okolí není nutně plnění vůle boží, vše je symbolické
 kotouc-A01-a    53:55 -- jak jednat? podle "miluj bližního jako sebe"
-kotouc-A01-a    58:54 -- paní Mičanová
+kotouc-A01-a    58:54 -- paní Mičanová z Plzně, nám koncentrace nejde, jde to Kristu v nás
+kotouc-A01-a 01:01:27 --   sen
+kotouc-A01-a 01:04:15 -- (nemakoň)
+kotouc-A01-a 01:28:11 -- apolinos, kvietismus, inkvizice
+kotouc-A01-a 01:29:51 -- (nemakoň)
+kotouc-A01-c        0 -- události z 13.8.1956 ve Vrčeni a paní Brtnová
