@@ -1,4 +1,4 @@
-exec mplayer -ss 10:00 kotouc-A01-c.mp3
+exec mplayer -ss 54:00 kotouc-A01-c.mp3
 
 kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
 kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
@@ -938,4 +938,31 @@ kotouc-A01-a 01:01:27 --   sen
 kotouc-A01-a 01:04:15 -- (nemakoň)
 kotouc-A01-a 01:28:11 -- apolinos, kvietismus, inkvizice
 kotouc-A01-a 01:29:51 -- (nemakoň)
-kotouc-A01-c        0 -- události z 13.8.1956 ve Vrčeni a paní Brtnová
+kotouc-A01-c        0 -- události z 13.8.1956 ve Vrčeni a paní Brtnová -- úvod
+kotouc-A01-c    07:00 -- bohatství nevlastnění, podobenství o hřivnách
+kotouc-A01-c    09:35 -- nevlastnit ani věčnost
+kotouc-A01-c    09:58 -- poslední soud a láska k bližnímu
+kotouc-A01-c    10:58 -- nejsme oddělenými bytostmi, třeba sloužit druhému jako sobě
+kotouc-A01-c    11:36 -- rovnováha mezi vnitřním a vnějším životem
+kotouc-A01-c    16:05 -- Sv. Terezie -- nevím, co bych ti už dala
+kotouc-A01-c    17:32 -- vyvržení z extáze
+kotouc-A01-c    18:53 -- události z 13.8.1956 ve Vrčeni
+kotouc-A01-c    19:08 -- lež věčnosti a porozumění
+kotouc-A01-c    20:53 -- 
+kotouc-A01-c    22:08 -- přání spojit se na straně naší a na straně boží
+kotouc-A01-c    23:00 -- vůle spojit se s Bohem, nutnost nevlastnit
+kotouc-A01-c    26:52 -- koncentrák
+kotouc-A01-c    29:57 -- 
+kotouc-A01-c    30:08 -- bohatství vědomí o věčné podstatě
+kotouc-A01-c    31:44 -- trvalé spojení závislé na klidu
+kotouc-A01-c    33:45 -- Vrčeň - vystoupení z vnitřní modlitby, braní hřiven
+kotouc-A01-c    39:28 -- nevlastnění manželé, kteří padli mrtvi
+kotouc-A01-c    40:57 -- smrt oddělenosti
+kotouc-A01-c    41:20 -- být jedno s Otcem jako Ježíš
+kotouc-A01-c    41:49 -- ponechání hraček, trpělivost nesmrtelné duše
+kotouc-A01-c    43:31 -- meze vnitřního uskutečnění a nutnost zevního
+kotouc-A01-c    46:58 -- moudrost výběru těla od nesmrtelné duše, přivolávání milosti boží žitím, konání vůle boží jako klíč k blízkosti Bohu
+kotouc-A01-c    49:16 -- porozumění vůli boží nastává do té míry, jak jsme schopni se jí řídit
+kotouc-A01-c    50:24 -- využití vtělení jako odvíjení krunýře nesmrtelné duše
+kotouc-A01-c    51:41 -- 99.9% lidí se nedokáže přiblížit Bohu, aniž by tomu dali formu
+kotouc-A01-c    55:50 -- nemusíme dostávat viditelnou milost
