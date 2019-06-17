@@ -1,7 +1,5 @@
-exec mplayer -ss 54:00 kotouc-A01-c.mp3
+exec mplayer -ss 08:48 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a.mp3
 
-kotouc-A01-c 01:15:00 -- všichni katolíci jsou kacíři
-kotouc-A01-c 01:20:00 -- o sobě, že je líný pes
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -965,4 +963,24 @@ kotouc-A01-c    46:58 -- moudrost výběru těla od nesmrtelné duše, přivolá
 kotouc-A01-c    49:16 -- porozumění vůli boží nastává do té míry, jak jsme schopni se jí řídit
 kotouc-A01-c    50:24 -- využití vtělení jako odvíjení krunýře nesmrtelné duše
 kotouc-A01-c    51:41 -- 99.9% lidí se nedokáže přiblížit Bohu, aniž by tomu dali formu
-kotouc-A01-c    55:50 -- nemusíme dostávat viditelnou milost
+kotouc-A01-c    54:01 -- využít špatné vlastnosti, pýcha na ctnosti
+kotouc-A01-c    59:59 -- stereotypní modlitba, funkce mantramu, karty u inspirovaného kartáře, stav trpnosti, ustoupení jáčka vyššímu já
+kotouc-A01-c 01:02:21 -- jak věnoval Ježíš Terezii sílu svého utrpení? Vlil jí pochopení smyslu utrpení "dokud celý neumřeš, nemůžeš se spojit"
+kotouc-A01-c 01:07:16 --   splácení za všechny, zemřít se vším stvořeným
+kotouc-A01-c 01:08:40 --   
+kotouc-A01-c 01:09:32 --   smysl Ježíšova utrpení je "miluj bližního jako sebe"
+kotouc-A01-c 01:10:20 -- paní Brtnová, mystický spánek jovanidra
+kotouc-A01-c 01:11:56 --   nevíme, co je pro koho
+kotouc-A01-c 01:14:02 -- netřeba převtělování, smysl Ježíšovy nauky oproti ostatním avatarům
+kotouc-A01-c 01:16:51 --   všichni katolíci jsou kacíři
+kotouc-A01-c 01:17:15 --   nalomené stéblo nedolomí, možnost spásy za jeden život v době temnoty
+kotouc-A01-c 01:18:11 -- předpoklady pro spásu: inteligence a nepřivlastňování, případ lidí, kteří předpoklady nesplňují
+kotouc-A01-c 01:20:09 -- v okamžiku smrti se nám stane to, co K.M. v koncentráku, o sobě, že je líný pes, nesmírnost lásky boží (výborné)
+kotouc-A01-c 01:21:55 -- cesta Buddhova, porovnání s K.M. a svatou Terezií
+kotouc-A01-c 01:25:43 -- zážitek bezčasovosti, láska je smysl modlitby
+kotouc-A01-c 01:30:00 -- jak mohli stoikové páchat sebevraždu, když zažili poznání vnitřní podstaty
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a        0 -- operace, navozená mystická smrt
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    05:12 -- minulá vtělení, styk časového s nesmrtelným, duše coby zakletá princezna
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    08:28 -- požívači drog nemíří do věčnosti, proto je tam drogy nepřivedou
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    08:48 -- obecná nepoužitelnost zkušenosti z operace
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    12:11 -- zlatý klíč
