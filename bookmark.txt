@@ -1,4 +1,4 @@
-exec mplayer -ss 08:48 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a.mp3
+exec mplayer -ss 0 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -982,5 +982,22 @@ kotouc-A01-c 01:30:00 -- jak mohli stoikové páchat sebevraždu, když zažili 
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a        0 -- operace, navozená mystická smrt
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    05:12 -- minulá vtělení, styk časového s nesmrtelným, duše coby zakletá princezna
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    08:28 -- požívači drog nemíří do věčnosti, proto je tam drogy nepřivedou
-kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    08:48 -- obecná nepoužitelnost zkušenosti z operace
-kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    12:11 -- zlatý klíč
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    08:48 -- obecná nepoužitelnost zkušenosti z operace, soli a kvasu stačí málo, úzká cesta jen pro ty, kdo jí věnují vše a nemají podmínek
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    12:11 -- zlatý klíč: po fázi očištování úmyslů je fáze nunosti klidu a zlatý klíč je metodou pro udržení klidu
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    18:10 -- zlatý klíč: návod
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    22:00 -- zlatý klíč: užití od K.M.
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    23:55 -- prosebná modlitba ve zlatém klíči
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    25:19 -- užití vůle jen pro přimknutí k vůli boží
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    28:05 -- (nemakoň)
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b        0 -- moderní tendence v oblasti poznání
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    00:25 --   jednostranný vývoj k technice života
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    05:13 --   nauka a výchova
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    05:34 --     vivisekce ekonomiky a užití modelů
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    06:44 --     vzdělání nevede k sebepoznání a klidnému životu
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    07:44 --   nutnost dorovnávat techniky mravní úrovní
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    08:11 --     nevhodnost náboženství, protože staví na víře
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    09:05 --     nebezpečí domněnky, že mám absolutní poznání
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    09:46 --   není jedna cesta pro všechny
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    10:18 --   4 fáze osobní iniciativy
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    10:35 --     chtít skoncovat s dosavadním životem
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    11:43 --     1. krok: chtít do věčného života na zemi
