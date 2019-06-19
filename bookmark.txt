@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b.mp3
+exec mplayer -ss 35:02 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1000,4 +1000,22 @@ kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    09:05 --     ne
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    09:46 --   není jedna cesta pro všechny
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    10:18 --   4 fáze osobní iniciativy
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    10:35 --     chtít skoncovat s dosavadním životem
-kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    11:43 --     1. krok: chtít do věčného života na zemi
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    11:43 --     1. krok: chtít do věčného života na zemi, po smrti nelze jinam
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    13:06 --       udělat, co mohu udělat
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    14:46 --     2. krok: chtít opustit tento svět
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    15:35 --     nekonečnost dosahování
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    17:13 --     nebe je ustavičná činnost
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    18:09 --     
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    18:18 --   nutnost období stagnace a nových vkladů
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    20:14 --   vkládání nejen lidských hodnot
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    21:46 --   musí se stále dávat
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    22:38 --   vrací se 7x víc, než se vloží, ale vrací se za něco
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    24:12 --   nutno obdržené vybrat, než mohu dát a přijmout další
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    25:03 --   vlitá milost, úloha zla
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    27:54 --   periody odklonu od náboženství
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    29:07 --   experiment je pro rozumné důvody k cestě k Bohu
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    30:02 --   experiment je pro dosahování bez extaze
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    30:51 --   cesta není pro ty, jimž stačí tělo, jde o výchovu přpravených jedinců
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    32:11 --   příprava je v řádu hodnot Otčenáše
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    34:07 --   cesta pro ostatní lidi
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    35:02 --   motivace
