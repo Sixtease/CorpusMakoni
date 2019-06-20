@@ -1,4 +1,4 @@
-exec mplayer -ss 35:02 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b.mp3
+exec mplayer -ss 50:08 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1018,4 +1018,11 @@ kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    30:02 --   expe
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    30:51 --   cesta není pro ty, jimž stačí tělo, jde o výchovu přpravených jedinců
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    32:11 --   příprava je v řádu hodnot Otčenáše
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    34:07 --   cesta pro ostatní lidi
-kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    35:02 --   motivace
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    35:02 --   motivace, činění pro sebe a pro ostatní
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    37:17 --   příprava situací
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    37:54 --   když se člověku nevrací nic za to, co vložil, balamutící 9letá modlitba
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    42:23 --   koncentrace je k ničemu, když v tom není celý člověk
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    44:12 --   před operací rozdal K.M. všechno chudým
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    45:41 --   bohatství vědomí tohoto světa
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    46:58 --   oslabení hodnot při narkóze nebo koncentraci, aby vše kromě Boha sestoupilo pod nulu a došlo k vymanění z gravitačního pole
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    50:08 --   
