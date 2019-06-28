@@ -1,4 +1,4 @@
-exec mplayer -ss 50:08 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b.mp3
+exec mplayer -ss 01:05:39 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1025,4 +1025,15 @@ kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    42:23 --   konc
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    44:12 --   před operací rozdal K.M. všechno chudým
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    45:41 --   bohatství vědomí tohoto světa
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    46:58 --   oslabení hodnot při narkóze nebo koncentraci, aby vše kromě Boha sestoupilo pod nulu a došlo k vymanění z gravitačního pole
-kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    50:08 --   
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    50:08 --   ztráta sebe poutaností a přetrvání touhy po věčnosti
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    51:45 --   nutnost vložit celý život, jinak přijde malátnost
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    53:40 --   odvaha, nechat se popravit, překážka strachu
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    55:29 --   zkoušky při nových stavech (vraždění mláďátek, pokušení od ďábla, tři dny v hrobě)
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    56:02 --   překlenutí propasti smrti důvěrou
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    56:51 --   dělání napřed pro sebe a pak ne pro sebe
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    57:25 --   zasvěcování do poznání hlubších příčin a souvislostí
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    58:49 --   Ježíšova úcta k hříšníkům
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:00:16 --   nezastavit se ve vývoji, vložit vše, jde to po dobrém nebo po zlém
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:02:11 --   promeškání momentu útlumu tužeb a přetrvávajícího vědomí
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:03:56 --   hrubá vůle vs. jemné přivolení
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:05:39 --   ne vstoupit do astrálního těla nýbrž za hranice vesmíru a nalézt lepší střed
