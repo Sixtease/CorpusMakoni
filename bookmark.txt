@@ -1,4 +1,4 @@
-exec mplayer -ss 01:05:39 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b.mp3
+exec mplayer -ss 19:21 kotouc-C01-a.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1037,3 +1037,25 @@ kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:00:16 --   neza
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:02:11 --   promeškání momentu útlumu tužeb a přetrvávajícího vědomí
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:03:56 --   hrubá vůle vs. jemné přivolení
 kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:05:39 --   ne vstoupit do astrálního těla nýbrž za hranice vesmíru a nalézt lepší střed
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:08:01 --   pobývání ve středu, hled na vztah časného a věčného
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:11:40 --     bohové jste
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:11:54 --   pohled na pozemský život z věčnosti
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:13:27 --   nekonečno za jedna, technika přípravy
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:14:45 --   ve věčnosti se člověk objevuje jako dospělá bytost
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:15:50 --   výběr z věčných hodnot ve stavu nebe
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:17:50 --   zažívání klidu narkózy nebo věčnosti: věčnost obsahuje sat čit ananda a rozšiřování vědomí
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:22:17 --   možnost styku s ostatními individualitami ve stavu nebe
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:25:50 --     povaha styku je dána povahou vstupu, kybernetika, i/o
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:26:50 --   neextatický vstup do věčnosti a přenos zážitku zpět
+kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:28:40 --   úkolem je chodit s Bohem, dobrovolný vstup
+kotouc-C01-a        0 -- jak na vůli boží
+kotouc-C01-a    01:06 -- marnotratný syn
+kotouc-C01-a    07:46 --   ocitnout se před prvním dnem, před stvořením
+kotouc-C01-a    09:15 --   
+kotouc-C01-a    10:23 --   úcta andělů světcům
+kotouc-C01-a    11:42 --   rozhořčení zůstavšiho bratra ho ponouká také odejít
+kotouc-C01-a    12:55 --   komu se daří dobře, ještě promarňuje, komu zle, už promarnil, utrpení je tu, abych si vzpomněl
+kotouc-C01-a    15:29 --   lze si vzpomenout i jinak než utrpením
+kotouc-C01-a    16:10 --   obecné podmínky vzpomenutí na Otcův dům
+kotouc-C01-a    18:33 --   co to je jíst s vepři
+kotouc-C01-a    19:21 --   sebelítostí ke vzpomínce
