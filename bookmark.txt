@@ -1,4 +1,4 @@
-exec mplayer -ss 19:21 kotouc-C01-a.mp3
+exec mplayer -ss 41:43 kotouc-C01-a.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1059,3 +1059,18 @@ kotouc-C01-a    15:29 --   lze si vzpomenout i jinak než utrpením
 kotouc-C01-a    16:10 --   obecné podmínky vzpomenutí na Otcův dům
 kotouc-C01-a    18:33 --   co to je jíst s vepři
 kotouc-C01-a    19:21 --   sebelítostí ke vzpomínce
+kotouc-C01-a    20:50 --   dovolená vypočítavost
+kotouc-C01-a    21:23 --   nechtít jíst s vepři jest chtít nežít jako dosud
+kotouc-C01-a    22:39 --   vzpomínka je na dvě věci: na Otcův dům a na cestu do něj
+kotouc-C01-a    23:15 --   po návratu má syn nové postavení, být vynásoben boží násobilkou
+kotouc-C01-a    24:34 --   příbytek u Boha má charakter přerození, ne zničení
+kotouc-C01-a    26:00 --   Ježíšova podobenství poučují někdy o celém životě, někdy detailně o některé fázi
+kotouc-C01-a    27:05 --   co musí předcházet následování
+kotouc-C01-a    29:44 --   následovat lze Ježíše jen tam, kam on jde, a to je do nebe; nutnost chtít jít do nebe
+kotouc-C01-a    32:52 --   chtít je na člověku, ne na Bohu
+kotouc-C01-a    35:42 --   opustit bez výhrad vše, jinak je potrestán nebo odmítnut
+kotouc-C01-a    36:55 --   sebezápor: zapírám jáčko, které je tu k rozvoji mojí bytosti
+kotouc-C01-a    38:44 --     přijetí hřiven od Boha je okamžik zralosti
+kotouc-C01-a    39:26 --     osvědčení se v malém
+kotouc-C01-a    41:05 --     sebezápor je neopírat se už jen o sebe
+kotouc-C01-a    41:43 --     sebezápor je přechod do věčnosti
