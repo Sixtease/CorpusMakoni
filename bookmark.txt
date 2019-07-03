@@ -1,4 +1,4 @@
-exec mplayer -ss 41:43 kotouc-C01-a.mp3
+exec mplayer -ss 1:02:53 kotouc-C01-a.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1074,3 +1074,20 @@ kotouc-C01-a    38:44 --     přijetí hřiven od Boha je okamžik zralosti
 kotouc-C01-a    39:26 --     osvědčení se v malém
 kotouc-C01-a    41:05 --     sebezápor je neopírat se už jen o sebe
 kotouc-C01-a    41:43 --     sebezápor je přechod do věčnosti
+kotouc-C01-a    42:16 --     sebezápor je odstup od používání prostředků dobývání tohoto světa s prerekvizitou chtění vstupu do nebe
+kotouc-C01-a    44:44 --     nejlepší recept na sebezápor je touha
+kotouc-C01-a    45:01 --     vnitřní modlitba pomáhá správnému provedení sebezáporu
+kotouc-C01-a    45:41 -- vezmi svůj kříž
+kotouc-C01-a    46:01 --   křížem je tento život, jímž jsme křižováni
+kotouc-C01-a    47:17 --   složit svoje břemeno na Ježíšova bedra, vypočitavost, království boží především
+kotouc-C01-a    48:45 --   učedník může být ten, kdo bez hanby jde s celým životem
+kotouc-C01-a    49:39 --   role ctností
+kotouc-C01-a    51:30 --   okamžité komplexní rozhodnutí následovat
+kotouc-C01-a    52:10 --   netřeba vycházet ze správného sebepoznání
+kotouc-C01-a    52:51 -- následovat Ježíše znamená rozhodnutí k totální změně života
+kotouc-C01-a    53:17 --   po vůli boží se ptám, abych jí byl poslušen
+kotouc-C01-a    54:40 --   sebepřeceňování
+kotouc-C01-a    56:14 --   nic nedělat sami je vrcholná fáze následování
+kotouc-C01-a    57:54 -- Bohu nic nemůžeme dát, protože nic není naše; vůle podle představ o světě nahrazena hřivnou vůle boží
+kotouc-C01-a 01:00:15 -- potřeba zkušenosti, že vše dokáže Bůh, i můj sebezápor a oň mohu Boha žádat
+kotouc-C01-a 01:02:53 -- vyprázdnit se od sebe je zázrak, na který potřebujeme Boha
