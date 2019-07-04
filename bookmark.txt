@@ -1,4 +1,4 @@
-exec mplayer -ss 1:02:53 kotouc-C01-a.mp3
+exec mplayer -ss 0 kotouc-C01-b.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1091,3 +1091,17 @@ kotouc-C01-a    56:14 --   nic nedělat sami je vrcholná fáze následování
 kotouc-C01-a    57:54 -- Bohu nic nemůžeme dát, protože nic není naše; vůle podle představ o světě nahrazena hřivnou vůle boží
 kotouc-C01-a 01:00:15 -- potřeba zkušenosti, že vše dokáže Bůh, i můj sebezápor a oň mohu Boha žádat
 kotouc-C01-a 01:02:53 -- vyprázdnit se od sebe je zázrak, na který potřebujeme Boha
+kotouc-C01-a 01:04:39 -- hospodaření s touhou
+kotouc-C01-a 01:06:22 -- "Drdol, 23. února 1975"
+kotouc-C01-a 01:06:33 -- komplexní výklad podobenství o marnotratném synu
+kotouc-C01-a 01:09:16 --   manvantára -- vesmírový den
+kotouc-C01-a 01:13:52 --     podobenství o marnotratném synu je krajní případ
+kotouc-C01-a 01:14:43 --     manvantára nekončí
+kotouc-C01-a 01:17:07 --   rozdíl mezi věděním a názorem
+kotouc-C01-a 01:18:37 --   promarňující láska
+kotouc-C01-a 01:23:15 --   lze se dobrovolně vrátit i před dočerpáním podílu Otcova dědictví
+kotouc-C01-a 01:24:00 --   právo vstoupit nezávisí na počtu hřiven
+kotouc-C01-a 01:24:28 --   Ježíš chtěl, abychom vstoupili, dokud nehoří
+kotouc-C01-a 01:27:08 --   všichni jsme byli v Otcově domě a tedy si naň můžeme vzpomenout
+kotouc-C01-a 01:29:44 --     vnitřní navození zevních okolností pro navození pocitu naléhavosti
+kotouc-C01-b        0 -- 
