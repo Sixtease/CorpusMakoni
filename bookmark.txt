@@ -1104,4 +1104,8 @@ kotouc-C01-a 01:24:00 --   právo vstoupit nezávisí na počtu hřiven
 kotouc-C01-a 01:24:28 --   Ježíš chtěl, abychom vstoupili, dokud nehoří
 kotouc-C01-a 01:27:08 --   všichni jsme byli v Otcově domě a tedy si naň můžeme vzpomenout
 kotouc-C01-a 01:29:44 --     vnitřní navození zevních okolností pro navození pocitu naléhavosti
-kotouc-C01-b        0 -- 
+kotouc-C01-b        0 -- (pokračování @kotouc-C01-a:01:06:33) podobenství o marnotratném synu
+kotouc-C01-b    03:16 --   andělský a rajský stav je zdržování
+kotouc-C01-b    04:44 --   vyhnání z ráje do dynamického stavu poznávání po dočerpání blaženosti
+kotouc-C01-b    06:23 -- dění z obecné vůle boží a konkrétní vůle lidské
+kotouc-C01-b    08:45 --   
