@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-C01-b.mp3
+exec mplayer -ss 49:00 kotouc-C01-b.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1108,4 +1108,18 @@ kotouc-C01-b        0 -- (pokračování @kotouc-C01-a:01:06:33) podobenství o 
 kotouc-C01-b    03:16 --   andělský a rajský stav je zdržování
 kotouc-C01-b    04:44 --   vyhnání z ráje do dynamického stavu poznávání po dočerpání blaženosti
 kotouc-C01-b    06:23 -- dění z obecné vůle boží a konkrétní vůle lidské
-kotouc-C01-b    08:45 --   
+kotouc-C01-b    08:45 --   dotaz: jak se tedy myslí, že ani vlas nespadne bez vůle boží a že Bůh všechny odívá a krmí?
+kotouc-C01-b    10:43 -- pocit tělesnosti jako část pocitu oddělenosti, iluze jediné skutečnosti
+kotouc-C01-b    12:51 -- "Gottwaldov, Z., 23. února 1975"
+kotouc-C01-b    12:58 -- cesta víry
+kotouc-C01-b    12:58 --   rovnováha víry s láskou
+kotouc-C01-b    14:13 --   láska je vyvrcholením cesty víry
+kotouc-C01-b    15:19 --   problémy na cestě víry: pochybnosti a utrpení
+kotouc-C01-b    19:48 --   mystika víry
+kotouc-C01-b    29:03 --   utrpení na cestě víry
+kotouc-C01-b    36:50 --   lpění na cestě víry
+kotouc-C01-b    40:13 --   kombinovaná cesta víry, lásky a poznání
+kotouc-C01-b    45:06 --   rozpor víry a vědy
+kotouc-C01-b    48:40 --     žádný světec si nevzal celý Ježíšův život
+kotouc-C01-b    49:42 -- (ticho)
+kotouc-C01-b    49:50 -- omezení utrpení na cestě katolického věřícího
