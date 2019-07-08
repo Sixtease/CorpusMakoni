@@ -1,4 +1,4 @@
-exec mplayer -ss 49:00 kotouc-C01-b.mp3
+exec mplayer -ss 01:05:57 kotouc-C01-b.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1123,3 +1123,10 @@ kotouc-C01-b    45:06 --   rozpor víry a vědy
 kotouc-C01-b    48:40 --     žádný světec si nevzal celý Ježíšův život
 kotouc-C01-b    49:42 -- (ticho)
 kotouc-C01-b    49:50 -- omezení utrpení na cestě katolického věřícího
+kotouc-C01-b    55:10 --   pro koho Ježíš přišel
+kotouc-C01-b    58:13 --   Ježíš si ke světcům šel tam, kde byli: k tradici, a z ní je vedl
+kotouc-C01-b    59:59 --   nebrat si příklad z utrpení na cestě světců
+kotouc-C01-b 01:01:33 --   odbourávejte po dobrém
+kotouc-C01-b 01:01:52 --   Ježís mluvil k Židům odchovaným Starým zákonem
+kotouc-C01-b 01:04:22 --   karma jako dílo Satanovo
+kotouc-C01-b 01:05:57 --   
