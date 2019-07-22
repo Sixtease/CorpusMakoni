@@ -1,4 +1,4 @@
-exec mplayer -ss 01:05:57 kotouc-C01-b.mp3
+exec mplayer -ss 38:26 kotouc-C01-c.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1129,4 +1129,26 @@ kotouc-C01-b    59:59 --   nebrat si příklad z utrpení na cestě světců
 kotouc-C01-b 01:01:33 --   odbourávejte po dobrém
 kotouc-C01-b 01:01:52 --   Ježís mluvil k Židům odchovaným Starým zákonem
 kotouc-C01-b 01:04:22 --   karma jako dílo Satanovo
-kotouc-C01-b 01:05:57 --   
+kotouc-C01-b 01:05:57 --   nestačí zbavit se hříchu, je třeba rozdat vše chudým
+kotouc-C01-b 01:07:56 --   požadavek totální změny
+kotouc-C01-b 01:10:18 --   nutnost vůdce
+kotouc-C01-b 01:10:42 --   Ježíš jako vůdce, zrušení karmy
+kotouc-C01-b 01:13:40 --   příklad farizeů, plnění povinnosti vůči Bohu, láskyplné upřednostňování Boha
+kotouc-C01-b 01:16:49 --   slib Bohu Bůh nevezme zpět, zrada Ježíše
+kotouc-C01-b 01:18:40 --   osobní vedení a jeho konec
+kotouc-C01-b 01:21:07 --   limity role lidských vlastností
+kotouc-C01-b 01:24:51 --   oprava seznamu hříchů zpovědního zrcadla přihlédnutím k chybám
+kotouc-C01-b 01:26:59 --   není možné udržet cit lásky, nutnost okamžitého uposlechnutí volání
+kotouc-C01-b 01:29:45 --   nejít jen v krajní nouzi, poslechnout při jemném zavolání
+kotouc-C01-c        0 -- režie nebo pozvání k lepšímu patření
+kotouc-C01-c    02:24 -- nechat Boha udělat zázrak, příklad prosby za něčí uzdravení
+kotouc-C01-c    07:33 -- obětovat svůj život za toho, za koho se modlíme
+kotouc-C01-c    14:52 -- předvídatelnost Ježíšova života, příčiny a následky na nadstavbě nad lidským životem
+kotouc-C01-c    17:37 -- úloha mysli na úrovni nadstavby
+kotouc-C01-c    20:21 -- využití přirozených darů do krajnosti, dispozice pro milost boží
+kotouc-C01-c    25:14 -- (ticho)
+kotouc-C01-c    25:23 -- "Gottwaldov, M., 22. února 1975"
+kotouc-C01-c    25:31 -- vědění vs. názor, různosti výkladů téhož podle toho, z jaké strany se k věci přistupuje
+kotouc-C01-c    34:50 -- běda těhotným
+kotouc-C01-c    38:26 -- různý výkladový rozsah různých podobenství
+kotouc-C01-c    41:44 -- chceš-li kdo za mnou přijíti
