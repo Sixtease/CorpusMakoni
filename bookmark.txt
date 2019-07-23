@@ -1,4 +1,4 @@
-exec mplayer -ss 38:26 kotouc-C01-c.mp3
+exec mplayer -ss 01:06:20 kotouc-C01-c.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1152,3 +1152,9 @@ kotouc-C01-c    25:31 -- vědění vs. názor, různosti výkladů téhož podle
 kotouc-C01-c    34:50 -- běda těhotným
 kotouc-C01-c    38:26 -- různý výkladový rozsah různých podobenství
 kotouc-C01-c    41:44 -- chceš-li kdo za mnou přijíti
+kotouc-C01-c    44:37 --   vyprázdnění
+kotouc-C01-c    46:20 -- dotaz: kde je míra toho "především"? Co když přijde naléhavější věc než království boží? odpověď: zachovat se jako služebník na poli hospodářově
+kotouc-C01-c    49:24 --   víc práce je víc času na Boha
+kotouc-C01-c    50:50 --   postavení služebníka na vinici
+kotouc-C01-c    53:35 -- zapři sama sebe
+kotouc-C01-c 01:06:45 -- 
