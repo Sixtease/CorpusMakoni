@@ -1,4 +1,4 @@
-exec mplayer -ss 01:06:20 kotouc-C01-c.mp3
+exec mplayer -ss 0 kotouc-C01-d.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1150,11 +1150,22 @@ kotouc-C01-c    25:14 -- (ticho)
 kotouc-C01-c    25:23 -- "Gottwaldov, M., 22. února 1975"
 kotouc-C01-c    25:31 -- vědění vs. názor, různosti výkladů téhož podle toho, z jaké strany se k věci přistupuje
 kotouc-C01-c    34:50 -- běda těhotným
-kotouc-C01-c    38:26 -- různý výkladový rozsah různých podobenství
-kotouc-C01-c    41:44 -- chceš-li kdo za mnou přijíti
-kotouc-C01-c    44:37 --   vyprázdnění
-kotouc-C01-c    46:20 -- dotaz: kde je míra toho "především"? Co když přijde naléhavější věc než království boží? odpověď: zachovat se jako služebník na poli hospodářově
-kotouc-C01-c    49:24 --   víc práce je víc času na Boha
-kotouc-C01-c    50:50 --   postavení služebníka na vinici
-kotouc-C01-c    53:35 -- zapři sama sebe
-kotouc-C01-c 01:06:45 -- 
+kotouc-C01-c    38:26 -- různý výkladový rozsah různých podobenství, 4 složky cesty
+kotouc-C01-c    41:44 --   chceš-li kdo za mnou přijíti
+kotouc-C01-c    44:37 --     vyprázdnění
+kotouc-C01-c    46:20 --   dotaz: kde je míra toho "především"? Co když přijde naléhavější věc než království boží? odpověď: zachovat se jako služebník na poli hospodářově
+kotouc-C01-c    49:24 --     víc práce je víc času na Boha
+kotouc-C01-c    50:50 --     postavení služebníka na vinici
+kotouc-C01-c    53:35 --   zapři sama sebe
+kotouc-C01-c 01:06:45 --   vezmi svůj kříž každý den
+kotouc-C01-c 01:17:00 --   následuj mne
+kotouc-C01-c 01:23:30 --   syntéza čtyř složek dotazovací metodou
+kotouc-C01-d        0 -- (pokračování @kotouc-C01-c:01:23:30) dotazovací metoda
+kotouc-C01-d    04:15 -- mantram fiat, staň se
+kotouc-C01-d    07:22 -- chtít království boží
+kotouc-C01-d    08:50 -- překonání hranic času a prostoru na kraji království božího
+kotouc-C01-d    09:42 -- sebezápor, překonání ztotožňování s tělem
+kotouc-C01-d    11:17 -- co je kříž služebníka
+kotouc-C01-d    15:32 -- moc boží
+kotouc-C01-d    17:24 -- sladkost Ježíšova břemene
+kotouc-C01-d    18:23 -- otázka: rozpor mezi braním života jako dar od Boha a zároveň nutností život popírat
