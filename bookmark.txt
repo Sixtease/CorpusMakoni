@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-C01-d.mp3
+exec mplayer -ss 55:24 kotouc-C01-d.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1169,3 +1169,20 @@ kotouc-C01-d    11:17 -- co je kříž služebníka
 kotouc-C01-d    15:32 -- moc boží
 kotouc-C01-d    17:24 -- sladkost Ježíšova břemene
 kotouc-C01-d    18:23 -- otázka: rozpor mezi braním života jako dar od Boha a zároveň nutností život popírat
+kotouc-C01-d    21:37 -- radost z krize jako láskyplného volání božího
+kotouc-C01-d    22:24 -- není účelem vyvolávat krize, krize je nahrazována vnitřní potřebou následovat Krista
+kotouc-C01-d    23:30 -- nechat Krista jít před sebou je součást následování
+kotouc-C01-d    24:35 -- jak považovat neutrální činnost za vycházející z vůle boží
+kotouc-C01-d    26:00 -- jak vím, že jde Ježíš přede mnou? jednám-li hlavně ze zodpovědnosti vůči němu, pak hledám království boží především
+kotouc-C01-d    29:37 -- cesta k moci boží je vejít do domu hospodářova
+kotouc-C01-d    30:47 -- každý jsme stromem, který někdy dozrává
+kotouc-C01-d    33:05 -- dotazovací metoda jako prosebná modlitba
+kotouc-C01-d    35:13 -- Ježíš je s námi pokaždé jinak, někdy jako láska, jindy jako vůle, moc atp. a máme ho vždy poznávat
+kotouc-C01-d    35:46 -- jsi-li křižován, ber to, jako by byl křižován Ježíš, udělej, co on, a dostaneš se k němu
+kotouc-C01-d    38:21 -- nutnost potřeby
+kotouc-C01-d    38:55 -- (ticho)
+kotouc-C01-d    39:04 -- "Gottwaldov, B. 23.2.1975"
+kotouc-C01-d    39:13 -- řád hodnot Otčenáše
+kotouc-C01-d    44:40 --   neuveď nás v pokušení
+kotouc-C01-d    50:54 --   urychlení dozrávání poučením
+kotouc-C01-d    55:24 --   buď vůle tvá
