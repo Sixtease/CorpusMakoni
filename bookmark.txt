@@ -1,10 +1,9 @@
-exec mplayer -ss 55:24 kotouc-C01-d.mp3
+exec mplayer -ss 21:01 kotouc-D01-a.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
 86-01B -- vzdát se pohlavního života v myšlenkách
-kotouc-D01-a 01:17:00 -- sen o vtěleních
 kotouc-D01-d 00:00:00 -- sebevražda
 kotouc-D01-d 00:40:00 -- potrat
 kotouc-D01-d 01:22:00 -- žárlivý Bůh
@@ -1185,4 +1184,33 @@ kotouc-C01-d    39:04 -- "Gottwaldov, B. 23.2.1975"
 kotouc-C01-d    39:13 -- řád hodnot Otčenáše
 kotouc-C01-d    44:40 --   neuveď nás v pokušení
 kotouc-C01-d    50:54 --   urychlení dozrávání poučením
-kotouc-C01-d    55:24 --   buď vůle tvá
+kotouc-C01-d    55:24 --   buď vůle tvá, nejdřív musí být přání království
+kotouc-C01-d    56:40 --     vůle boží je náš věčný život
+kotouc-C01-d    57:44 --     pokušení postupného chápání
+kotouc-C01-d    59:13 --     vysvětlení má ústit v uskutečnění
+kotouc-C01-d 01:00:52 --     mechanismus nuceného uplatnění poznaného
+kotouc-C01-d 01:04:38 --     zralost, přechod od pokušení tím, že přestanu vnímat tento svět
+kotouc-C01-d 01:09:29 --     blahodárné těhotenství věčným zárodkem
+kotouc-C01-d 01:11:41 --     sebeodevzdáním v pravý čas dovolit boží působení bez prostřednictví já
+kotouc-C01-d 01:14:53 --       příklad Buddhův
+kotouc-C01-d 01:15:58 --     Bůh působí tak, že člověka zbavuje jeho samého, ne tím, že by sebe ukazoval; "tím, že se staráš, hraješ si na pána Boha"
+kotouc-C01-d 01:18:44 --   zbav nás od zlého, nehrát si na pána Boha
+kotouc-C01-d 01:10:53 --     zlo má funkci do vzkříšení
+kotouc-C01-d 01:21:20 -- Ježíš jako cesta
+kotouc-C01-d 01:23:16 -- vůdčí role poslušnosti
+kotouc-C01-d 01:23:45 -- závaznost nauky, pokud ji bereme od Boha a ne od mluvčího
+kotouc-C01-d 01:25:30 -- cestu zná On, ne já
+kotouc-D01-a        0 -- krize (ref UNK)
+kotouc-D01-a    01:17 --   vývojové překonání lidství
+kotouc-D01-a    05:13 --   zasvěcování strachem
+kotouc-D01-a    07:38 --   krize pomáhá překlenout mezeru mezi poznáním a nevědomostí; v krizi se děje, co člověk nezamýšlel
+kotouc-D01-a    08:57 --   krize má trvat minimální dobu a má se využít pro nabytí hlubšího poznání
+kotouc-D01-a    09:43 --   Pierre Teilhard de Chardin: Chuť žít; sjednocení mnoha našich já, vyřešení vztahů, podřízení života životu vyššímu
+kotouc-D01-a    14:26 --   nalézt cestu k vyššímu životu z každé denní pozice
+kotouc-D01-a    15:45 --   od spolutvůrců našich krizí dostáváme boží hřivnu
+kotouc-D01-a    16:42 --   hospodaření se zármutkem je individuální a nedá se obecně předepsat
+kotouc-D01-a    17:34 --   musíme si vědět rady s každou svou situací
+kotouc-D01-a    18:25 --   pokračování podobenství o hřivnách
+kotouc-D01-a    20:04 --   příčinou krize může být nerovnováha v poznání, v lásce, sebeláska nebo některý z mnoha jiných důvodů
+kotouc-D01-a    21:01 --   
+kotouc-D01-a 01:17:00 -- sen o vtěleních
