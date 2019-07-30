@@ -1,4 +1,4 @@
-exec mplayer -ss 21:01 kotouc-D01-a.mp3
+exec mplayer -ss 49:25 kotouc-D01-a.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1212,5 +1212,9 @@ kotouc-D01-a    16:42 --   hospodaření se zármutkem je individuální a nedá
 kotouc-D01-a    17:34 --   musíme si vědět rady s každou svou situací
 kotouc-D01-a    18:25 --   pokračování podobenství o hřivnách
 kotouc-D01-a    20:04 --   příčinou krize může být nerovnováha v poznání, v lásce, sebeláska nebo některý z mnoha jiných důvodů
-kotouc-D01-a    21:01 --   
+kotouc-D01-a    21:01 --   využití krize
+kotouc-D01-a    31:30 --   jak přivést okolí na stejnou úroveň
+kotouc-D01-a    34:26 --   příklad krize při vnitřní koncentraci
+kotouc-D01-a    38:56 --   jak se vyprázdnit
+kotouc-D01-a    41:09 --   události z 11. srpna 1956 Vrčeň u Nepomuka
 kotouc-D01-a 01:17:00 -- sen o vtěleních
