@@ -1,4 +1,4 @@
-exec mplayer -ss 49:25 kotouc-D01-a.mp3
+exec mplayer -ss 01:21:30 kotouc-D01-a.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1217,4 +1217,16 @@ kotouc-D01-a    31:30 --   jak přivést okolí na stejnou úroveň
 kotouc-D01-a    34:26 --   příklad krize při vnitřní koncentraci
 kotouc-D01-a    38:56 --   jak se vyprázdnit
 kotouc-D01-a    41:09 --   události z 11. srpna 1956 Vrčeň u Nepomuka
-kotouc-D01-a 01:17:00 -- sen o vtěleních
+kotouc-D01-a    50:24 --   kdo vnímá a pro koho je boží pomoc; izolovanost vnitřní modlitby
+kotouc-D01-a    50:34 -- aktivní pasivita
+kotouc-D01-a    59:59 -- jak si představit vstupování
+kotouc-D01-a 01:00:30 --   co je nesmrtelná duše
+kotouc-D01-a 01:04:27 --   
+kotouc-D01-a 01:06:47 -- Bůh nás předchází v utrpení, jemu činíme vše
+kotouc-D01-a 01:10:54 -- osvěcování malého já od Boha, obrácení světel
+kotouc-D01-a 01:11:45 -- plnění boží vůle
+kotouc-D01-a 01:12:14 -- být s Bohem za jedno
+kotouc-D01-a 01:12:43 -- jít za každým, kde je; absence závazku mistrovi
+kotouc-D01-a 01:14:02 -- pomíjivost, stálost a definice individuality
+kotouc-D01-a 01:17:10 --   sen o vtěleních
+kotouc-D01-a 01:20:05 --   
