@@ -1,4 +1,4 @@
-exec mplayer -ss 01:21:30 kotouc-D01-a.mp3
+exec mplayer -ss 46:24 kotouc-D01-b.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1230,3 +1230,21 @@ kotouc-D01-a 01:12:43 -- jít za každým, kde je; absence závazku mistrovi
 kotouc-D01-a 01:14:02 -- pomíjivost, stálost a definice individuality
 kotouc-D01-a 01:17:10 --   sen o vtěleních
 kotouc-D01-a 01:20:05 --   
+kotouc-D01-a 01:22:13 -- (ticho)
+kotouc-D01-b        0 -- proč nevěděl František z Assisi, že měl stavět vnitřní chrám? musí se cesta k Bohu naučit?
+kotouc-D01-b    04:36 --   dopad stylizovaného života
+kotouc-D01-b    08:08 --   stačí jeden okamžik, ale jen k obrácení
+kotouc-D01-b    13:08 --   při prudkém obrácení vzniká nerovnováha
+kotouc-D01-b    13:42 -- aktivní pasivita
+kotouc-D01-b    15:54 -- nestačí usilovat, je třeba i pasivita
+kotouc-D01-b    17:36 --   láska podle Ježíše
+kotouc-D01-b    20:28 --   
+kotouc-D01-b    23:52 --   rozvinutá aktivita je podmínkou rozvinutí pasivity
+kotouc-D01-b    27:47 --   pojímat tento život jako vědomou službu Bohu
+kotouc-D01-b    30:19 --   přerod z konkrétní činnosti do stavu činnosti
+kotouc-D01-b    36:00 -- nalezení vůdčí myšlenky
+kotouc-D01-b    36:50 -- proč se starat, jak co zařídit, ví-li vyšší režie lépe
+kotouc-D01-b    39:23 -- proč můžeme jít jinam než k Bohu
+kotouc-D01-b    44:14 -- vypočitavost záměru vyěnit život ve světě za život v nebi
+kotouc-D01-b    46:24 --   jít pro sebe nebo pro všechny
+kotouc-D01-b    50:00 --   vypočitavost apoštolů
