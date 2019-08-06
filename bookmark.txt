@@ -1,4 +1,4 @@
-exec mplayer -ss 46:24 kotouc-D01-b.mp3
+exec mplayer -ss 0 kotouc-D01-c.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1247,4 +1247,38 @@ kotouc-D01-b    36:50 -- proč se starat, jak co zařídit, ví-li vyšší rež
 kotouc-D01-b    39:23 -- proč můžeme jít jinam než k Bohu
 kotouc-D01-b    44:14 -- vypočitavost záměru vyěnit život ve světě za život v nebi
 kotouc-D01-b    46:24 --   jít pro sebe nebo pro všechny
-kotouc-D01-b    50:00 --   vypočitavost apoštolů
+kotouc-D01-b    50:00 --   vypočitavost apoštolů, toto pokolení zažije konec světa
+kotouc-D01-b    52:09 --     záleží na našem přivolení
+kotouc-D01-b    52:56 --   
+kotouc-D01-b    54:22 --   režie člověka nejdřív vede a pak opustí, aby se mohl odosobnit
+kotouc-D01-b    55:08 --   každý, kdo chce, je přijímán
+kotouc-D01-b    55:36 -- sobci mají první krok nejsnazší
+kotouc-D01-b    56:30 -- cesta víry
+kotouc-D01-b    58:11 -- s něčím skoncovat, s něčím jiným začít
+kotouc-D01-b 01:00:11 --   odpuštění spočívá ve změně postoje
+kotouc-D01-b 01:00:22 -- proč je nutné přehodnocovat život před osvícením
+kotouc-D01-b 01:00:55 --   jde o projev dobré vůle ustoupit od svého a nahradit to jiným
+kotouc-D01-b 01:01:26 --   Ježíš chce vyvrátit náš majetek
+kotouc-D01-b 01:02:31 -- Ramakrišnův příběh, kde učedník jménem nehodného mistra přešel přes řeku
+kotouc-D01-b 01:03:45 --   rozpoutání zázračných sil přijetím Ježíšova programu
+kotouc-D01-b 01:04:27 -- opakování jména božího v těle
+kotouc-D01-b 01:07:03 --   sebeléčení písmenovým cvičením
+kotouc-D01-b 01:12:48 --   proč měl Makoň zdravotní problém, když hledal království Boží predevším?
+kotouc-D01-b 01:13:36 -- (ticho)
+kotouc-D01-c        0 -- zapomínání na Krista
+kotouc-D01-c    01:14 --   považovat každý den za první a poslední, víra a nevíra
+kotouc-D01-c    04:29 --   nejde celý den myslet na Boha (veselé)
+kotouc-D01-c    05:31 --   miluje Bůh nás a v tom je radostná naděje
+kotouc-D01-c    06:19 --   překonání párů dvojic
+kotouc-D01-c    07:29 -- já jsem cesta, pravda a život
+kotouc-D01-c    08:56 --   já jsem cesta: převod věčnosti do cesty se začátkem a koncem
+kotouc-D01-c    11:46 --     já jsem vtělený Bůh i síla k dalšímu kroku
+kotouc-D01-c    13:06 --     i to, co dostaneme od Boha, musíme ztratit
+kotouc-D01-c    15:13 --     
+kotouc-D01-c    16:05 --   já jsem pravda: nevyslovitelná, poznatelná po spojení s věčností
+kotouc-D01-c    17:39 --   já jsem život: skloubení cesty a pravdy, něco skutečného
+kotouc-D01-c    18:48 --   shrnutí: oba směry mezi bezčasovostí a časností
+kotouc-D01-c    19:25 -- (ticho)
+kotouc-D01-c    19:33 -- budoucnost lidstva
+kotouc-D01-c    22:52 --   psychická revoluce
+kotouc-D01-c    24:07 --   konec vlastnictví
