@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-D01-c.mp3
+exec mplayer -ss 1:20:00 kotouc-D01-c.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1282,3 +1282,22 @@ kotouc-D01-c    19:25 -- (ticho)
 kotouc-D01-c    19:33 -- budoucnost lidstva
 kotouc-D01-c    22:52 --   psychická revoluce
 kotouc-D01-c    24:07 --   konec vlastnictví
+kotouc-D01-c    31:10 --   kalijuga, doba temna
+kotouc-D01-c    31:55 -- analogické myšlení
+kotouc-D01-c    35:52 -- joga - jho: životospráva, myšlení, duchovní cvičení
+kotouc-D01-c    39:19 --   význam jógy je zbavení pocitu tělesnosti za vyšším účelem
+kotouc-D01-c    40:09 --   bhakti jóga vyžaduje víru, džňána, rádža, karma a hatha vyžadují nevíru
+kotouc-D01-c    42:02 -- óm
+kotouc-D01-c    46:23 --   dotváření vesmíru
+kotouc-D01-c    48:00 -- co je to následování Krista
+kotouc-D01-c    56:28 --   do 30 let neučil, ale musel být v tom, co je jeho Otce: rozvinutý život
+kotouc-D01-c    59:09 --   nástavba
+kotouc-D01-c 01:00:25 --   vědomí povinnosti přejít do věčného života je východiskem pro Kristovo učednictví
+kotouc-D01-c 01:03:24 --   motivace nemusí být sobecká a to je lepší
+kotouc-D01-c 01:07:12 --   jakými prostředky se lze dostat k narození Ježíška nebo vstupu do Jordánu
+kotouc-D01-c 01:08:02 --     okolnosti zrození Ježíše: žít a být jako malé dítě
+kotouc-D01-c 01:12:31 --       Jěžíšova cesta pro nevěřící
+kotouc-D01-c 01:13:22 --       distancování se od sebe: milovat bližního jako sebe
+kotouc-D01-c 01:15:43 --       čím větší míra sebezáporu, tím větší zrození Krista
+kotouc-D01-c 01:16:28 --       ke zrození Ježíše může vést situace lásky nebo třeba existence
+kotouc-D01-c 01:18:01 --   cesta pravidelné modlitby
