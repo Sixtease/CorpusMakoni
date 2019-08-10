@@ -1,12 +1,9 @@
-exec mplayer -ss 1:20:00 kotouc-D01-c.mp3
+exec mplayer -ss 0 kotouc-D01-d.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
 86-01B -- vzdát se pohlavního života v myšlenkách
-kotouc-D01-d 00:00:00 -- sebevražda
-kotouc-D01-d 00:40:00 -- potrat
-kotouc-D01-d 01:22:00 -- žárlivý Bůh
 kotouc-E01-a 00:00:00 -- starověké kultury, mithraismus (vynechává)
 kotouc-E01-a 00:16:00 -- původní pohádka o Honzovi
 kotouc-E01-a 00:32:40 -- výklad pohádky
@@ -1301,3 +1298,31 @@ kotouc-D01-c 01:13:22 --       distancování se od sebe: milovat bližního jak
 kotouc-D01-c 01:15:43 --       čím větší míra sebezáporu, tím větší zrození Krista
 kotouc-D01-c 01:16:28 --       ke zrození Ježíše může vést situace lásky nebo třeba existence
 kotouc-D01-c 01:18:01 --   cesta pravidelné modlitby
+kotouc-D01-c 01:20:54 --   být oddán svému okolí: plně rozvinuté lidství a přijímání boží síly je v klidu a při vědomí
+kotouc-D01-c 01:24:33 --   modelete se neustále
+kotouc-D01-c 01:27:37 --     reprodukční umělecký projev
+kotouc-D01-c 01:29:54 --   dvě možné cesty z krize
+kotouc-D01-d        0 -- výzva k otázkám
+kotouc-D01-d    01:00 -- sebevražda
+kotouc-D01-d    02:47 --   posmrtný život člověka, který nechtěl zemřít
+kotouc-D01-d    06:09 --   vyhánění maminky z těla
+kotouc-D01-d    07:37 --   ukázat něco mrtvému tím, že se na to sám podívám
+kotouc-D01-d    08:10 --   posmrtný život maminčina synovce zemřelého při automobilové nehodě
+kotouc-D01-d    10:07 --     pocit lásky z květin na hrobu
+kotouc-D01-d    10:43 --     report mrtvého o zraněných sourozencích
+kotouc-D01-d    13:06 --   dlouhé soužití násilně zemřelého s jeho blízkými, spojení pomyšlením
+kotouc-D01-d    13:55 --   lpění na životních věcech od nedobrovolně zemřelého
+kotouc-D01-d    15:42 --   nesplněné touhy a přání sebevrahovy
+kotouc-D01-d    17:19 --   pomoc zemřelému kladnou myšlenkou
+kotouc-D01-d    19:30 --   přetrvávající pouta k žijícím
+kotouc-D01-d    20:39 --   zjevná síla myšlenek po smrti
+kotouc-D01-d    21:02 --   umírání na onom světě
+kotouc-D01-d    22:36 --   vliv na posmrtný život našimi myšlenkami
+kotouc-D01-d    23:07 --     nové úkoly v posmrtném životě
+kotouc-D01-d    23:36 --     instruovat mrtvého, ať věci ze světa nechá na nás
+kotouc-D01-d    29:06 --   další zrození
+kotouc-D01-d    29:32 --   život v astrálním těle
+kotouc-D01-d    33:22 --   výživa reziduálního vědomí tělem (mumifikace, upírství)
+kotouc-D01-d    34:09 --   očista nastává po zrození
+kotouc-D01-d 00:40:00 -- potrat
+kotouc-D01-d 01:22:00 -- žárlivý Bůh
