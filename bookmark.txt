@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-D01-d.mp3
+exec mplayer -ss 01:22:28 kotouc-D01-d.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1324,5 +1324,29 @@ kotouc-D01-d    29:06 --   další zrození
 kotouc-D01-d    29:32 --   život v astrálním těle
 kotouc-D01-d    33:22 --   výživa reziduálního vědomí tělem (mumifikace, upírství)
 kotouc-D01-d    34:09 --   očista nastává po zrození
-kotouc-D01-d 00:40:00 -- potrat
-kotouc-D01-d 01:22:00 -- žárlivý Bůh
+kotouc-D01-d    36:16 --   dozrávání ke znovuzrození
+kotouc-D01-d    40:03 --   potrat, postupné vtělování věčnějších složek
+kotouc-D01-d    41:23 --   delší život doznívá déle, výhoda krátkého dojmu
+kotouc-D01-d    42:35 --     výhoda smrti v dětství
+kotouc-D01-d    43:56 --   volba nevhodného těla, když není lepší, výčet osobností
+kotouc-D01-d    48:40 -- člověk je tlačen ke znovuzrození potřebou nesmrtelné duše osvobodit se; odevzdání i věcí z minulých vtělení a vývoje vesmíru
+kotouc-D01-d    53:10 -- bázlivost, nevmýšlet se do odevzdávání, jen hospodařit a, tím si zaručím zúčtování
+kotouc-D01-d    56:09 --   jak vypadá účtování
+kotouc-D01-d    58:03 -- napodobování Krista je spolunesení tíhy, kterou nesl
+kotouc-D01-d 01:00:15 --   ustavičnost stvoření i spásy
+kotouc-D01-d 01:01:19 --   budování dočasného nebo věčného
+kotouc-D01-d 01:02:09 --     vlastními síly se vkládají na začátku (cesty, dne, ...), pak se čerpá z věčnosti a to vede k obdržení síly a milosti
+kotouc-D01-d 01:03:33 --   kdo následuje Krista, je schopen toho, čeho Kristus
+kotouc-D01-d 01:03:58 --   změna světa skrz křesťanství (Říše římská)
+kotouc-D01-d 01:05:02 -- správně pojaté křesťanství vyčistí cestu od nepotřebného zla
+kotouc-D01-d 01:05:20 --   potřebné zlo, pýcha
+kotouc-D01-d 01:06:33 -- trpělivé začínání vždy od začátku
+kotouc-D01-d 01:10:34 -- cílené zjednání klidu
+kotouc-D01-d 01:11:22 -- dosti má den na svých starostech
+kotouc-D01-d 01:11:57 -- jde o zaujetí pro věc a ne pro sebe, opatrností se vyhnout korunování i kamenování
+kotouc-D01-d 01:13:12 --   prostota, buďte jako děti
+kotouc-D01-d 01:13:55 --     být ve službě Bohu
+kotouc-D01-d 01:15:13 --       nenechat se zneužívat
+kotouc-D01-d 01:17:09 -- zůstaňme, kde jsme, a tužme po něm, a on přijde
+kotouc-D01-d 01:19:08 -- správná chudoba
+kotouc-D01-d 01:22:28 -- žárlivý Bůh
