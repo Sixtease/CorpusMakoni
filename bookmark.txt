@@ -1,4 +1,4 @@
-exec mplayer -ss 29:23 kotouc-77-brezen01-a.mp3
+exec mplayer -ss 56:04 kotouc-77-brezen01-a.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1358,4 +1358,11 @@ kotouc-77-brezen01-a    16:56 --   algoritmy pro správnou činnost
 kotouc-77-brezen01-a    17:05 --     1. chci-li dojít na hospodářovo pole, musím napřed vykročit z jeho domu
 kotouc-77-brezen01-a    21:45 --     dotaz o vskříšení v těle na konci světa
 kotouc-77-brezen01-a    25:47 --     2. myslím jen na činnost
-kotouc-77-brezen01-a    29:23 --     3. užitek z mé činnosti náleží hospodáři
+kotouc-77-brezen01-a    29:23 --     3. užitek z mé činnosti náleží hospodáři, dělník je však hoden své mzdy
+kotouc-77-brezen01-a    31:06 --     4. hospodáři náleží neformální vděk
+kotouc-77-brezen01-a    36:16 -- mystická koncentrace
+kotouc-77-brezen01-a    44:39 --   ustání pohybu
+kotouc-77-brezen01-a    47:20 -- otázka: jak rozeznat a vykonávat vůli Boží: prosazovat vůli Boží vlastní vůlí
+kotouc-77-brezen01-a    52:53 --   co dělám z vůle Boží mám být ochoten dělat lépe než dosud
+kotouc-77-brezen01-a    53:09 --   co dělám z vůle Boží je postaveno proti mně
+kotouc-77-brezen01-a    56:04 -- mystická koncentrace
