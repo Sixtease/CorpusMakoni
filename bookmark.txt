@@ -1,4 +1,4 @@
-exec mplayer -ss 56:04 kotouc-77-brezen01-a.mp3
+exec mplayer -ss 0 kotouc-77-brezen01-b.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1365,4 +1365,11 @@ kotouc-77-brezen01-a    44:39 --   ustání pohybu
 kotouc-77-brezen01-a    47:20 -- otázka: jak rozeznat a vykonávat vůli Boží: prosazovat vůli Boží vlastní vůlí
 kotouc-77-brezen01-a    52:53 --   co dělám z vůle Boží mám být ochoten dělat lépe než dosud
 kotouc-77-brezen01-a    53:09 --   co dělám z vůle Boží je postaveno proti mně
-kotouc-77-brezen01-a    56:04 -- mystická koncentrace
+kotouc-77-brezen01-a    56:04 -- mystická koncentrace není jen soustředění
+kotouc-77-brezen01-a    57:06 --   touha spojit se s Bohem
+kotouc-77-brezen01-a    59:09 --   naučit se milovat pomocí vůle
+kotouc-77-brezen01-a 01:01:53 --   jen s metodou to nejde, nutnost sebepoznání, nemohu jít k Bohu, když nevím, kde jsem
+kotouc-77-brezen01-a 01:04:06 --   zásady pro koncentraci a příravu, boj s myšlenkami, váhání vstoupit
+kotouc-77-brezen01-a 01:17:27 --   otázka: lze kombinovat přípravu činností a láskou? oddělení je jen metodika výkladu
+kotouc-77-brezen01-a 01:22:25 --   soustřeďování do těla
+kotouc-77-brezen01-b        0 -- (pokračování @kotouc-77-brezen01-a:01:22:25)
