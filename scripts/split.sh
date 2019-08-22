@@ -7,7 +7,7 @@ export PATH="$PATH:$BINDIR"
 CHUNKDIR="$1";
 shift;
 
-SOURCEDIR="${1:-/media/sixtease/VERBATIM HD/Makon}"
+SOURCEDIR="${1:-/home/sixtease/kroupy/Music/Makon/all/flac}"
 
 if which split-audio.pl > /dev/null; then : ; else
     echo split-audio.pl not in path
