@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-77-brezen01-b.mp3
+exec mplayer -ss 05:37 kotouc-77-brezen01-c.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1373,3 +1373,25 @@ kotouc-77-brezen01-a 01:04:06 --   zásady pro koncentraci a příravu, boj s my
 kotouc-77-brezen01-a 01:17:27 --   otázka: lze kombinovat přípravu činností a láskou? oddělení je jen metodika výkladu
 kotouc-77-brezen01-a 01:22:25 --   soustřeďování do těla
 kotouc-77-brezen01-b        0 -- (pokračování @kotouc-77-brezen01-a:01:22:25)
+kotouc-77-brezen01-b    08:42 --   jemnost soustředění, jehla ve vodě
+kotouc-77-brezen01-b    10:25 --   pohyb při koncentraci
+kotouc-77-brezen01-b    16:29 -- dotaz o (ne)dostačující intenzitě koncentrace, hrubost a jemnost
+kotouc-77-brezen01-b    20:17 --   stigmata, benediktíni
+kotouc-77-brezen01-b    26:09 --   sv. František oproti Benediktínům, sv. Dominik
+kotouc-77-brezen01-b    28:32 -- dotaz o hloubce soustředění
+kotouc-77-brezen01-b    33:56 -- algoritmus pro projevy lásky: jak je regulovat, aby vedly ke spojení s věčným životem
+kotouc-77-brezen01-b    37:03 --   bližní, neprotekční láska
+kotouc-77-brezen01-b    45:39 --   2. krok: (četba str. 53), vypořádání se s projevy přátelství a nepřátelství
+kotouc-77-brezen01-b    53:15 --   3. krok: stav bližního je mým stavem
+kotouc-77-brezen01-b    56:23 --   4. krok: řešení stavu bližního je mým řešením
+kotouc-77-brezen01-b    56:56 --   5. krok: uspokojení ze správného počinu není na místě
+kotouc-77-brezen01-b    59:57 -- hrdinná aplikace algoritmů je srovnatelná s koncentrací
+kotouc-77-brezen01-b 01:03:47 -- role kontrolní myšlenky, sebekritiky a trpnosti při algoritmech; porovnání s koncentrací
+kotouc-77-brezen01-b 01:11:46 -- jak se dostat do trpného stavu koncentrace? provést přípravu vzdálenou a blízkou, úměrnost hloubky sebeobětování
+kotouc-77-brezen01-b 01:14:04 -- metoda představuje pohyb, proto nás do věčnosti nedovede, ale na cestě nás opustí
+kotouc-77-brezen01-b 01:17:03 -- jak přejít z pole do domu
+kotouc-77-brezen01-b 01:27:41 --   co dává člověk jíst hospodáři? to, co vypěstoval na poli
+kotouc-77-brezen01-b 01:29:14 -- historický význam klášterů
+kotouc-77-brezen01-b 01:30:54 -- omezená příkladnost Makoňovy osobní cesty
+kotouc-77-brezen01-b        0 -- důležitost uvědomování si stavu "já jsem" a rozšiřování vědomí, zen buddhismus
+kotouc-77-brezen01-b    05:37 -- stupně stavu rozšířeného vědomí
