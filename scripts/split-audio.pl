@@ -14,6 +14,10 @@ my $output_file_naming = $ENV{OUTPUT_FILE_NAMING};
 my $sox_q = -t STDERR ? '' : ' --no-show-progress';
 my $lame_q = $sox_q ? ' --quiet' : '';
 my $overlap = $ENV{SPLIT_OVERLAP} || 0.5;
+my $default_chunk_length = $ENV{DEFAULT_CHUNK_LENGTH} || 60;
+my $overflow_chunk_length = $ENV{OVERFLOW_CHUNK_LENGTH} || 90;
+my $max_chunk_length = $ENV{MAX_CHUNK_LENGTH} || 120;
+my $min_chunk_length = $ENV{MIN_CHUNK_LENGTH} || 30;
 
 GetOptions(
     'splitdir=s' => \$splitdir,
@@ -21,6 +25,10 @@ GetOptions(
     'output-format=s' => \$output_format,
     'output-file-naming=s' => \$output_file_naming,
     'split-overlap=f' => \$overlap,
+    'default-chunk-length=f' => \$default_chunk_length,
+    'overflow-chunk-length=f' => \$overflow_chunk_length,
+    'max-chunk-length=f' => \$max_chunk_length,
+    'min-chunk-length=f' => \$min_chunk_length,
 );
 
 my $output_template = "%1\$s/chunk%6\$d.%5\$s";
@@ -49,7 +57,7 @@ for my $fn (@ARGV) {
     }
     else {
         say STDERR "generating splits for $stem";
-        my $split_filecontents = join "", map "$_\n", map 60*$_, 1 .. `soxi -D "$fn"`/60;
+        my $split_filecontents = join "", map "$_\n", map $default_chunk_length * $_, 1 .. `soxi -D "$fn"` / $default_chunk_length;
         open $split_fh, '<', \$split_filecontents or die "Couldn't open generated splits for $stem: $!";
         $is_generated = 1;
     }
@@ -76,14 +84,14 @@ for my $fn (@ARGV) {
 
         my $should_redo = 0;
 
-        if (($curr - $prev) > 120) {
-            $curr = $prev + 90;
+        if (($curr - $prev) > $max_chunk_length) {
+            $curr = $prev + $overflow_chunk_length;
             $should_redo = 1;
         }
         ;;; print STDERR "$prev => $curr\n";
 
         last if $curr >= $flen;
-        last if $is_generated and $flen - $curr < 30;
+        last if $is_generated and $flen - $curr < $min_chunk_length;
 
         $chunk_fn = sprintf $output_template, $chunkdir, $stem, $prev, $curr, $output_format, $i;
 
