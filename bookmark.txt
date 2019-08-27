@@ -1,4 +1,4 @@
-exec mplayer -ss 27:47 kotouc-77-brezen01-c.mp3
+exec mplayer -ss 47:19 kotouc-77-brezen01-c.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1402,4 +1402,13 @@ kotouc-77-brezen01-b    14:51 --   užití vůle, paní Guyonová, vstup K.M. v 
 kotouc-77-brezen01-b    20:45 -- přípravou volím stav po koncentraci; mnohost příbytků u Boha; velcí a malí svatí
 kotouc-77-brezen01-b    24:23 -- svatí poznávají Boha čím dál dokonaleji ze své strany a ne jiné
 kotouc-77-brezen01-b    25:58 -- užití vůle k tomu, vydat se do neznáma
-kotouc-77-brezen01-b    27:47 -- 
+kotouc-77-brezen01-b    27:47 -- aplikace algoritmů v různých fázích cesty, pomoc od nevědoucích lidí
+kotouc-77-brezen01-b    31:18 -- spojení a rozpojení
+kotouc-77-brezen01-b    34:59 -- nutnost modifikované lidské vůle až po kříž
+kotouc-77-brezen01-b    37:18 -- odpoutání se od vědění
+kotouc-77-brezen01-b    40:12 -- odstoupit z vlastní vůle od dosaženého vrcholu
+kotouc-77-brezen01-b    41:31 -- odstupování od prostředí a současné spojování s ním
+kotouc-77-brezen01-b    43:28 -- přízpsobení algoritmu svému východisku
+kotouc-77-brezen01-b    45:05 -- nerovnováha mezi spojením a rozpojením
+kotouc-77-brezen01-b    45:35 -- vyrovnanost vkladu a příjmu, tedy rozpojení a spojení; výdej je přesun do rukou Božích, ne ztrácení
+kotouc-77-brezen01-b    47:19 -- vše je Boží, nic není mého
