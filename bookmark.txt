@@ -1,4 +1,4 @@
-exec mplayer -ss 0 kotouc-77-brezen01-d.mp3
+exec mplayer -ss 28:15 kotouc-77-brezen01-d.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1420,4 +1420,18 @@ kotouc-77-brezen01-c    53:21 --   1. krok: brát nový den od Boha (výborné)
 kotouc-77-brezen01-c 01:10:20 --   2. krok: myslet jen na to, co dělám; osvobození od smrti
 kotouc-77-brezen01-c 01:16:20 --   3. krok: všechen užitek platí hospodáři
 kotouc-77-brezen01-c 01:26:52 --     nárok na mzdu a její vymáhání
-kotouc-77-brezen01-d        0 -- 
+kotouc-77-brezen01-d        0 -- (pokračování @kotouc-77-brezen01-c:51:39)
+kotouc-77-brezen01-d        0 --   4. krok: vděčnost za práci na poli Hospodářově; radostný vstup do domu
+kotouc-77-brezen01-d    03:39 -- předpis pro činnost má usnadnit vstup do Hospodářova domu
+kotouc-77-brezen01-d    06:37 -- vztah k Hospodářově domu
+kotouc-77-brezen01-d    07:45 -- přirozené plnění příkazu "modlete se neustále"
+kotouc-77-brezen01-d    09:12 -- jít tamtéž při činnosti a při modlitbě
+kotouc-77-brezen01-d    10:40 -- práce pro někoho je taky práce pro Hospodáře
+kotouc-77-brezen01-d    11:18 -- pasení dobytka
+kotouc-77-brezen01-d    14:18 -- dělat si z Boha sluhu při vstupu do domu; místo prosebné modlitby
+kotouc-77-brezen01-d    17:11 -- počínání si v domě Otcově
+kotouc-77-brezen01-d    19:59 --   temnoty vnější
+kotouc-77-brezen01-d    21:07 --   
+kotouc-77-brezen01-d    23:29 -- důležitost lásky v poměru k činnosti
+kotouc-77-brezen01-d    27:07 -- příkaz sebelásky, považovat sebe za bližního
+kotouc-77-brezen01-d    28:15 -- správnost lásky odpovídá míře vzdání se sama sebe
