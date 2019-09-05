@@ -1,4 +1,4 @@
-exec mplayer -ss 28:15 kotouc-77-brezen01-d.mp3
+exec mplayer -ss 0 74-02-tatry.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -818,7 +818,7 @@ kotouc-U-Zdiar-a    48:08 -- role panny Marie: transformátor mezi bezčasovost�
 kotouc-U-Zdiar-a    49:31 -- ne moje, ale jedna jediná nesmrtelná duše; náboženství skrz poznání, ne víru
 kotouc-U-Zdiar-a    51:31 -- role panny Marie: umožnění poznávat
 kotouc-U-Zdiar-a    53:04 -- role panny Marie: učitelka lásky, moudrosti a správné míry oběti
-kotouc-U-Zdiar-a    59:48 -- (překryv)
+kotouc-U-Zdiar-a    59:48 -- (překryv; slyš @74-02-tatry:54:22)
 kotouc-U-Zdiar-a 01:21:07 -- události jako neoodělené nehistorizující
 kotouc-U-Zdiar-a 01:23:40 -- vlastnosti jako rozdělující, satanské, "takový já nejsem"
 kotouc-U-Zdiar-a 01:25:09 -- vůle - vlastnost, která dovede pod kříž
@@ -1435,3 +1435,35 @@ kotouc-77-brezen01-d    21:07 --
 kotouc-77-brezen01-d    23:29 -- důležitost lásky v poměru k činnosti
 kotouc-77-brezen01-d    27:07 -- příkaz sebelásky, považovat sebe za bližního
 kotouc-77-brezen01-d    28:15 -- správnost lásky odpovídá míře vzdání se sama sebe
+kotouc-77-brezen01-d    29:42 -- vůle milovat (!)
+kotouc-77-brezen01-d    31:50 -- algoritmus lásky
+kotouc-77-brezen01-d    32:13 --   1. krok: nemít nepřátele a přátele, mít jen bližního a sebe
+kotouc-77-brezen01-d    37:13 --     dávat lásku tomu, kdo ji potřebuje
+kotouc-77-brezen01-d    41:16 --   2. krok: přátelům odpouštět připoutanost a nepřátelům odpor
+kotouc-77-brezen01-d    42:37 --   3. krok: stav bližního má být mým stavem
+kotouc-77-brezen01-d    49:08 --   4. krok: řešení stavu bližního je mým řešením
+kotouc-77-brezen01-d    49:33 --   5. krok: uspokojení nad činem lásky není na místě
+kotouc-77-brezen01-d    51:07 -- nedostatek vůle, zacházení s vůlí, sjednocení
+kotouc-77-brezen01-d    54:34 --   zacházení s časem
+kotouc-77-brezen01-d 01:00:29 -- otázka: mám moc co dělat a překáží mi to na cestě
+kotouc-77-brezen01-d 01:03:48 -- břemeno lehké a jho sladké, Ježíš pomáhá nést břemeno oproti Starému zákonu
+kotouc-77-brezen01-d 01:11:57 --   my neseme pohybovou stránku břemene
+kotouc-77-brezen01-d 01:15:05 -- aplikace symbolismu zrození Ježíše Židům na nás; nesení břemene do Kristova narození
+kotouc-77-brezen01-d 01:18:10 -- vůle před zrozením Ježíše, moc myšlenky
+kotouc-77-brezen01-d 01:20:45 -- slovo Boží je skutek
+kotouc-77-brezen01-d 01:22:02 -- naše vůle je jako naše slovo; sjednotit vůli s vůlí Boží
+kotouc-77-brezen01-d 01:22:43 -- k pochopení Ježíše je třeba abstraktního myšlení, proto je křesťanstvo v tak bídném stavu poznání své nauky
+kotouc-77-brezen01-d 01:25:00 --   nepoužitelnost předchozích obdob Ježíše bez mistra
+kotouc-77-brezen01-d 01:25:57 --   přístup k Ježíšovi přes algoritmy a rozum díky matematice apod.
+kotouc-77-brezen01-d 01:27:31 -- dřina rozpojení ve sladkém jhu
+74-01     0 -- dovolit Ježíši konat
+74-01 05:46 -- (nemakoň) Vít Elger o režii
+74-01 05:43 -- režie nebo pozvání
+74-01 07:30 -- návod na prosebnou modlitbu
+74-01 19:07 --   jiná úroveň příčin a následků
+74-01 20:31 --     předvídatelnost života avatarova
+74-01 22:25 --     přirozenost zázraků
+74-01 23:28 --     přemýšlivá mysl jako služebník
+74-01 26:15 --     nutnost využít dané hřivny
+74-01 27:36 --     jak K.M. nakládá s otázkami od posluchačů
+74-02-tatry     0 -- (duplicita @kotouc-U-Zdiar-a:08:00)
