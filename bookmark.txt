@@ -1,4 +1,4 @@
-exec mplayer -ss 0 74-02-tatry.mp3
+exec mplayer -ss 0 74-03-Tatry-pohadka_o_Honzovi.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1466,4 +1466,16 @@ kotouc-77-brezen01-d 01:27:31 -- dřina rozpojení ve sladkém jhu
 74-01 23:28 --     přemýšlivá mysl jako služebník
 74-01 26:15 --     nutnost využít dané hřivny
 74-01 27:36 --     jak K.M. nakládá s otázkami od posluchačů
-74-02-tatry     0 -- (duplicita @kotouc-U-Zdiar-a:08:00)
+74-02-tatry        0 -- (duplicita @kotouc-U-Zdiar-a:08:00)
+74-02-tatry    54:06 -- moudrá láska Panny Marie, nutnost Panny Marie na cestě lásky
+74-02-tatry    55:05 -- Panna Maria jako matka trpící
+74-02-tatry    59:32 -- symbolika vlastností
+74-02-tatry 01:10:52 -- dvojí úkol Ježíšův, nekonečnost výkladu, dorůstání do věčnosti
+74-02-tatry 01:14:02 -- historicita událostí
+74-02-tatry 01:15:48 -- satanská stránka vlastností
+74-02-tatry 01:17:21 -- vedoucí vlastnost člověka
+74-02-tatry 01:23:32 -- úroveň člověka je dána právě převažující vlastností
+74-02-tatry 01:27:32 -- jednota událostí, osob, osudu a smyslu života
+74-03-Tatry-pohadka_o_Honzovi        0 -- (duplicita @kotouc-E01-a) jednota náboženství a světského ve starověkých kulturách, kasty
+74-03-Tatry-pohadka_o_Honzovi    05:48 -- mythus
+74-03-Tatry-pohadka_o_Honzovi    10:52 -- mithraismus
