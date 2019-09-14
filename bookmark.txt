@@ -1479,3 +1479,6 @@ kotouc-77-brezen01-d 01:27:31 -- dřina rozpojení ve sladkém jhu
 74-03-Tatry-pohadka_o_Honzovi        0 -- (duplicita @kotouc-E01-a) jednota náboženství a světského ve starověkých kulturách, kasty
 74-03-Tatry-pohadka_o_Honzovi    05:48 -- mythus
 74-03-Tatry-pohadka_o_Honzovi    10:52 -- mithraismus
+75-01A-Kaly        0 -- Buddhova cesta
+75-01A-Kaly    05:51 -- význam obecnosti všech věcí
+84-01B        0 -- 
