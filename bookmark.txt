@@ -1,4 +1,4 @@
-exec mplayer -ss 0 74-03-Tatry-pohadka_o_Honzovi.mp3
+exec mplayer -ss 19:13 75-01B-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1480,5 +1480,18 @@ kotouc-77-brezen01-d 01:27:31 -- dřina rozpojení ve sladkém jhu
 74-03-Tatry-pohadka_o_Honzovi    05:48 -- mythus
 74-03-Tatry-pohadka_o_Honzovi    10:52 -- mithraismus
 75-01A-Kaly        0 -- Buddhova cesta
-75-01A-Kaly    05:51 -- význam obecnosti všech věcí
-84-01B        0 -- 
+75-01A-Kaly    05:51 -- význam obecnosti všech věcí, uchopení nevyjádřitelné pravdy
+75-01A-Kaly    11:54 --   pochopení existence Boží podle Akvinského
+75-01A-Kaly    13:40 --   znaky obecné pravdy, zabarvení obecné pravdy východiskem
+75-01A-Kaly    16:05 --   obecné umění
+75-01A-Kaly    17:40 --   podobnost obecné pravdy činu
+75-01A-Kaly    19:29 -- modlitba nemůže mít spojovací účinek, neodpovídá-li úrovni života
+75-01A-Kaly    22:02 --   naštěpování života na spojovací modlitbu: vzdát se rodin, dělat zázraky na (nejmenším) bližním s nesvětským záměrem
+75-01A-Kaly    27:32 -- zkoušení studentů z logaritmů jako příklad spojovací činnosti
+75-01A-Kaly    41:15 -- spojovací činnost
+75-01A-Kaly    42:22 -- kdy je člověk schopen dělat zázraky
+75-01B-Kaly        0 -- jak dojí to stavu spojovací činnosti
+75-01B-Kaly    04:58 -- k Bohu lze z každé pozice kromě z vlastní síly
+75-01B-Kaly    08:16 -- neplakat nad sebou, to je sebeláska, ale plakat radostí lze
+75-01B-Kaly    10:17 -- desštník: ochrana před vzdálením se od Otcova domu
+75-01B-Kaly    19:13 -- dobrá vůle z každé pozice jít kupředu
