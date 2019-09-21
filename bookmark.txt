@@ -1,4 +1,4 @@
-exec mplayer -ss 19:13 75-01B-Kaly.mp3
+exec mplayer -ss 36:07 76-01-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1494,4 +1494,21 @@ kotouc-77-brezen01-d 01:27:31 -- dřina rozpojení ve sladkém jhu
 75-01B-Kaly    04:58 -- k Bohu lze z každé pozice kromě z vlastní síly
 75-01B-Kaly    08:16 -- neplakat nad sebou, to je sebeláska, ale plakat radostí lze
 75-01B-Kaly    10:17 -- desštník: ochrana před vzdálením se od Otcova domu
-75-01B-Kaly    19:13 -- dobrá vůle z každé pozice jít kupředu
+75-01B-Kaly    18:05 -- dobrá vůle z každé pozice jít kupředu
+75-01B-Kaly    19:36 -- arcihřích obejít se bez Otcova domu
+75-01B-Kaly    21:27 -- poznání vlastní pozice
+75-01B-Kaly    24:21 -- náraz na stěnu; nehojit rány, aby se zahojily, ale aby mě nerušily jít kupředu; nácvik odevzdanosti
+75-01B-Kaly    27:56 --   podobenství rotopedu
+75-01B-Kaly    29:02 -- odpor těla
+75-01B-Kaly    30:00 -- deštník dobré vůle
+75-01B-Kaly    31:59 -- sebeodevzdání, touha po vstupu
+75-01B-Kaly    33:03 -- se sebezáporem k zaujetí pro světskou věc
+75-01B-Kaly    34:48 -- zanechat prostředku, jakmile cítím odezvu
+75-01B-Kaly    36:22 -- Ramakrišna, dýka připravená k sebevraždě
+75-01B-Kaly    39:35 -- opuštění touhy
+76-01-Kaly        0 -- přát si dobře sloužit; koan o zenovém kuchaři a konvi dnem vzhůru
+76-01-Kaly    10:25 -- "druhý den"
+76-01-Kaly    10:29 -- cesta života
+76-01-Kaly    21:01 -- dosavadní zmocňování se věčného života; samovolnost a úloha tělesného života
+76-01-Kaly    30:45 -- otázka o nežádoucnosti příliš rozvinutého života
+prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
