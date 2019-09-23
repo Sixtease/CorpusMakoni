@@ -1,4 +1,4 @@
-exec mplayer -ss 36:07 76-01-Kaly.mp3
+exec mplayer -ss 0 76-02-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1511,4 +1511,20 @@ kotouc-77-brezen01-d 01:27:31 -- dřina rozpojení ve sladkém jhu
 76-01-Kaly    10:29 -- cesta života
 76-01-Kaly    21:01 -- dosavadní zmocňování se věčného života; samovolnost a úloha tělesného života
 76-01-Kaly    30:45 -- otázka o nežádoucnosti příliš rozvinutého života
+76-01-Kaly    40:05 -- srovnání s karmajogou a rádžajogou; rozdíl je v tom, že joga uskutečňuje postupně
+76-01-Kaly    46:57 --   (ticho)
+76-01-Kaly    47:09 --   u Ježíše jde o manipulaci s vůlí
+76-01-Kaly    49:46 -- otázka: není individuální vedení snazší než univerzální cesta?
+76-01-Kaly    52:39 --   možnost různých východisek při vedení Ježíšem
+76-01-Kaly    56:48 -- úměrnost odevzdání života dosaženému poznání
+76-01-Kaly 01:04:05 -- při sebemenší míře poznání, i halíř, o němž vím, že mám, mě může dostat do věčnosti
+76-01-Kaly 01:05:22 -- naučená víra a naučený život
+76-01-Kaly 01:12:40 --   naučit se lásce cestou života
+76-01-Kaly 01:17:22 -- vyloučení z poměrů při přechodu na vyšší úroveň: odchod Židů z Babylonie, znemožnění Mariina života židovky, ztráta rodiny křtem v Jordánu
+76-01-Kaly 01:20:13 -- shrnutí významu symboliky Ježíšova života; individuální výklad
+76-01-Kaly 01:21:31 -- východisto K.M. jako Šimona Cyrenejského
+76-01-Kaly 01:22:14 -- ne nutně služba společnosti, ale aby šlo o věc; pomoc nevěřícím vedením k zápalu pro věc
+76-01-Kaly 01:26:11 -- učení se lásce; rozlišování příjemného a nepříjemného
+76-01-Kaly 01:30:48 -- stav Židů v Babylonii je jako náš stav klanění se různým bohům
 prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
+76-02-Kaly        0 -- 
