@@ -1,4 +1,4 @@
-exec mplayer -ss 0 76-02-Kaly.mp3
+exec mplayer -ss 49:54 76-02-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1527,4 +1527,29 @@ kotouc-77-brezen01-d 01:27:31 -- dřina rozpojení ve sladkém jhu
 76-01-Kaly 01:26:11 -- učení se lásce; rozlišování příjemného a nepříjemného
 76-01-Kaly 01:30:48 -- stav Židů v Babylonii je jako náš stav klanění se různým bohům
 prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
-76-02-Kaly        0 -- 
+76-02-Kaly        0 -- mnohobožství a služba sama sobě
+76-02-Kaly    02:31 -- starozákonní nucení člověka ke službě zákonu
+76-02-Kaly    04:05 -- starozákonní Židé, kteří prošli celou Ježíšovou cestou: aspoň Mojžíš a Eliáš
+76-02-Kaly    05:33 -- následování Krista, nejen jeho komentáře
+76-02-Kaly    07:23 -- zbavit se modloslužebnictví, spojit vůli v jeden cíl a ten stanovit duchovně podle toho, na co stačím
+76-02-Kaly    07:46 -- stanovit si cíl podle toho, po čem dokážu toužit
+76-02-Kaly    08:26 -- cesta života je možná pouze když člověk nechce žít odděleně a chce osobně spolupracovat s Bohem jako služebník nebo otrok
+76-02-Kaly    10:00 -- rušení věcí ze Starého zákona nastoupením cesty lásky
+76-02-Kaly    12:34 -- vyčerpání každého prostředku; kvalitativní skoky na vyšší stupeň
+76-02-Kaly    16:15 -- ne oběti, ale milosrdenství, to je podstata kvalitativních kroků
+76-02-Kaly    17:40 -- nejhorší na cestě života je, když se mi někde zalíbí
+76-02-Kaly    20:00 -- podmínky pro první skok a pro udržení stavu narozeného Ježíše
+76-02-Kaly    20:41 --   rezignovat na dosavadné úroveň
+76-02-Kaly    22:37 --   přidat prostředek služby; bez člověka by se Bůh nevyvinul ve spasitele; člověk je transformátor časného na věčné
+76-02-Kaly    24:28 -- neschopnost abstraktního myšlení; sv. Antonín Paduánský; služba Bohu službou bližnímu
+76-02-Kaly    30:07 -- "třetí den"
+76-02-Kaly    30:15 -- co znamená vstoupit na vyšší stupeň
+76-02-Kaly    31:16 --   naše nevhodnost pro postup technikou
+76-02-Kaly    35:05 --   typ s kolísavou a stálou úrovní stavu mysli; propojení při extrémním zakolísání
+76-02-Kaly    38:47 --   touha po věčnosti při prázdnotě
+76-02-Kaly    40:27 --   při sjednocení zoufalstvím stačí být vděčen za zoufalství
+76-02-Kaly    42:07 --   moment vyprázdnění
+76-02-Kaly    43:12 --   pro rozbor situace zabráním vytěžení pro přechod do vyššího stavu
+76-02-Kaly    43:38 --     (ticho)
+76-02-Kaly    43:50 --     
+76-02-Kaly    49:54 --     
