@@ -1,4 +1,4 @@
-exec mplayer -ss 49:54 76-02-Kaly.mp3
+exec mplayer -ss 01:03:31 76-02-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1552,4 +1552,6 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 76-02-Kaly    43:12 --   pro rozbor situace zabráním vytěžení pro přechod do vyššího stavu
 76-02-Kaly    43:38 --     (ticho)
 76-02-Kaly    43:50 --     
-76-02-Kaly    49:54 --     
+76-02-Kaly    49:54 -- krize při přechodu na vyšší stupeň plyne ze zabydlení se na současné úrovni
+76-02-Kaly    51:58 -- vědomý přechod na vyšší stupeň
+76-02-Kaly 01:03:31 --   využití techniky
