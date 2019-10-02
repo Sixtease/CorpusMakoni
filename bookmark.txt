@@ -1,4 +1,4 @@
-exec mplayer -ss 36:13 76-03A-Kaly-5.mp3
+exec mplayer -ss 32:16 76-03B-Kaly-6.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1567,25 +1567,31 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 76-02-Kaly 01:24:27 -- stupně v životě Ježíšově
 76-02-Kaly 01:24:27 --   stav narození Ježíše v Betlémě: první z řady jistot, že věčný život je v základu našeho života
 76-02-Kaly 01:25:43 --     vývoj v rámci stupně
-76-03A-Kaly-5        0 -- (pokračování @76-02-Kaly:01:24:27)
-76-03A-Kaly-5        0 --   nutit se být v tom, co je mého Otce
-76-03A-Kaly-5    01:53 --   oddanost okolí
-76-03A-Kaly-5    03:55 --   konec oddanosti okolí
-76-03A-Kaly-5    04:47 --   odchod do Jordánu; význam nového jména při křtu; nový smysl života
-76-03A-Kaly-5    06:16 --     křest je začátek vědomého synovství Božího; schopnost plnit vůli Otcovu bez nucení
-76-03A-Kaly-5    09:25 --   já po křtu, světlonoš
-76-03A-Kaly-5    12:48 --     přijetí Satana převtělenéhu do Jidáše
-76-03A-Kaly-5    14:24 --   užití vůle po křtu: vůle se postít a riskovat smrt, vůle vzdorovat Satanovi a poté už jednota s vůlí Boží
-76-03A-Kaly-5    16:23 --   považovat sama sebe za nedobrého a menšího než je Otec
-76-03A-Kaly-5    17:02 --   osobní vedení
-76-03A-Kaly-5    19:14 --   zbavení se lidství a záměna za vyšší prostředek; vzdání se synovství po slavném vjezdu do Jeruzaléma
-76-03A-Kaly-5    21:29 --   úloha vlastností při přechodu do nadlidského stavu
-76-03A-Kaly-5    23:01 --   vzdalování se Boží vůle, Otcova domu a synovství
-76-03A-Kaly-5    23:22 --   svatá trojice, proměnlivost synovství
-76-03A-Kaly-5    24:02 --   Duch svatý jako podstata samovolných sil
-76-03A-Kaly-5    24:37 --   Bůh není síla
-76-03A-Kaly-5    25:19 --   konec potřeby osobního vedení, překonání lidství
-76-03A-Kaly-5    26:07 --   Ježíš na nebe vstoupil, my budeme vzati
-76-03A-Kaly-5    27:09 -- stupně nejsou předpisem lineárního vývoje, ale návodem na rozpoznání východiska
-76-03A-Kaly-5    29:18 --   možnost okamžité milosti
-76-03A-Kaly-5    31:50 -- izolace od země
+76-03A-Kaly-5     0 -- (pokračování @76-02-Kaly:01:24:27)
+76-03A-Kaly-5     0 --   nutit se být v tom, co je mého Otce
+76-03A-Kaly-5 01:53 --   oddanost okolí
+76-03A-Kaly-5 03:55 --   konec oddanosti okolí
+76-03A-Kaly-5 04:47 --   odchod do Jordánu; význam nového jména při křtu; nový smysl života
+76-03A-Kaly-5 06:16 --     křest je začátek vědomého synovství Božího; schopnost plnit vůli Otcovu bez nucení
+76-03A-Kaly-5 09:25 --   já po křtu, světlonoš
+76-03A-Kaly-5 12:48 --     přijetí Satana převtělenéhu do Jidáše
+76-03A-Kaly-5 14:24 --   užití vůle po křtu: vůle se postít a riskovat smrt, vůle vzdorovat Satanovi a poté už jednota s vůlí Boží
+76-03A-Kaly-5 16:23 --   považovat sama sebe za nedobrého a menšího než je Otec
+76-03A-Kaly-5 17:02 --   osobní vedení
+76-03A-Kaly-5 19:14 --   zbavení se lidství a záměna za vyšší prostředek; vzdání se synovství po slavném vjezdu do Jeruzaléma
+76-03A-Kaly-5 21:29 --   úloha vlastností při přechodu do nadlidského stavu
+76-03A-Kaly-5 23:01 --   vzdalování se Boží vůle, Otcova domu a synovství
+76-03A-Kaly-5 23:22 --   svatá trojice, proměnlivost synovství
+76-03A-Kaly-5 24:02 --   Duch svatý jako podstata samovolných sil
+76-03A-Kaly-5 24:37 --   Bůh není síla
+76-03A-Kaly-5 25:19 --   konec potřeby osobního vedení, překonání lidství
+76-03A-Kaly-5 26:07 --   Ježíš na nebe vstoupil, my budeme vzati
+76-03A-Kaly-5 27:09 -- stupně nejsou předpisem lineárního vývoje, ale návodem na rozpoznání východiska
+76-03A-Kaly-5 29:18 --   možnost okamžité milosti
+76-03A-Kaly-5 31:50 -- izolace od země; kumulace prany v nohou soustředěním; stoupání hadí síly idou a pingalou
+76-03A-Kaly-5 42:15 -- cesta hadí síly shora
+76-03A-Kaly-5 44:26 -- soustředění nemůže být technickou záležitostí; intelektuální pěstování lásky
+76-03B-Kaly-6     0 -- jak předejít pomalému postupu; cesta sebelásky
+76-03B-Kaly-6 07:42 -- technické opouštění sebe
+76-03B-Kaly-6 12:34 -- technika soustředění pomocí jména Božího
+76-03B-Kaly-6 32:16 -- vědomé vystupování modlitby
