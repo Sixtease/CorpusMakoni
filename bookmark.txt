@@ -1,4 +1,4 @@
-exec mplayer -ss 32:16 76-03B-Kaly-6.mp3
+exec mplayer -ss 14:01 76-04A-Kaly-7-IEOUA.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1594,4 +1594,13 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 76-03B-Kaly-6     0 -- jak předejít pomalému postupu; cesta sebelásky
 76-03B-Kaly-6 07:42 -- technické opouštění sebe
 76-03B-Kaly-6 12:34 -- technika soustředění pomocí jména Božího
-76-03B-Kaly-6 32:16 -- vědomé vystupování modlitby
+76-03B-Kaly-6 32:16 -- vědomé vystupování modlitby vs. modlete se neustále
+76-03B-Kaly-6 37:34 --   stav modlitby je žádoucí, přetrvávající forma je nežádoucí
+76-03B-Kaly-6 38:55 -- záměrnost modlitby, přetrvávání pomodlitebního stavu
+76-03B-Kaly-6 41:49 -- nežádoucí pomodlitební stavy
+76-03B-Kaly-6 43:18 -- modlitba nezačíná technikou, ale povznesením mysli k Bohu
+76-03B-Kaly-6 47:00 -- (ticho)
+76-04A-Kaly-7-IEOUA     0 -- vtékání do Boha
+76-04A-Kaly-7-IEOUA 06:22 -- ukázka IEOUA
+76-04A-Kaly-7-IEOUA 13:49 -- (ticho)
+76-04A-Kaly-7-IEOUA 14:01 -- další soustřeďovací prostředky
