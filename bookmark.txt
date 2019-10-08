@@ -1,4 +1,4 @@
-exec mplayer -ss 14:01 76-04A-Kaly-7-IEOUA.mp3
+exec mplayer -ss 0 76-05B-Kaly-10.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1603,4 +1603,39 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 76-04A-Kaly-7-IEOUA     0 -- vtékání do Boha
 76-04A-Kaly-7-IEOUA 06:22 -- ukázka IEOUA
 76-04A-Kaly-7-IEOUA 13:49 -- (ticho)
-76-04A-Kaly-7-IEOUA 14:01 -- další soustřeďovací prostředky
+76-04A-Kaly-7-IEOUA 14:01 -- soustředění do nitra
+76-04A-Kaly-7-IEOUA 22:14 -- vlité ticho
+76-04A-Kaly-7-IEOUA 23:55 --   jak se disponovat vlitému tichu
+76-04A-Kaly-7-IEOUA 28:10 -- spojitost mezi koncentrací a vlitým tichem
+76-04A-Kaly-7-IEOUA 34:04 -- soustředění do nohou je lepším východiskem při volání, do nitra při lásce
+76-04A-Kaly-7-IEOUA 38:36 -- volba soustřeďovacích prostředků jako otázka sebepoznání
+76-04A-Kaly-7-IEOUA 39:39 -- důkazy na cestě a jejich vztah k délce života a míře svatosti
+76-04A-Kaly-7-IEOUA 44:23 -- účelnost důkazů
+76-04B-Kaly-8-IEOUA     0 -- výhody toho, nemít důkazy
+76-04B-Kaly-8-IEOUA 02:05 -- nelze toužit po tom, o čem nemám představu; účelnost rozumové představy o Bohu
+76-04B-Kaly-8-IEOUA 04:20 -- opuštění představy a posílení touhy; Buddhova cesta podobná Kristově svojí obecností ale ne vypracovaností
+76-04B-Kaly-8-IEOUA 07:37 -- úvod k soustředění do nitra; zacházení se slovy a představami; budování vnitřního chtámu
+76-04B-Kaly-8-IEOUA 13:24 --   zpočátku se připravovat klidem
+76-04B-Kaly-8-IEOUA 14:05 --   co je vnitřní úprava
+76-04B-Kaly-8-IEOUA 14:43 --   podobnost klepání
+76-04B-Kaly-8-IEOUA 15:49 --   jak ke kompletnímu soustředění
+76-04B-Kaly-8-IEOUA 17:38 --   příklad na situaci ze zaměstnání
+76-04B-Kaly-8-IEOUA 19:52 --   příklad Jobův
+76-04B-Kaly-8-IEOUA 21:36 --   (nemakoň)
+76-04B-Kaly-8-IEOUA 21:56 --   
+76-04B-Kaly-8-IEOUA 22:29 -- příprava pro vedený vstup
+76-04B-Kaly-8-IEOUA 24:47 -- správné vystoupení z modlitby
+76-04B-Kaly-8-IEOUA 28:40 -- pozice, mudry
+76-04B-Kaly-8-IEOUA 31:42 -- vstup z krajní pozice; jak necivět
+76-04B-Kaly-8-IEOUA 35:27 -- uskutečnil někdo Makoňův předpis nebo je to pustá teorie? Uskutečnili ho spoluvězni v KZ
+76-04B-Kaly-8-IEOUA 39:38 -- klepat máme vytrvale, protože se neznáme
+76-04B-Kaly-8-IEOUA 40:55 -- nejen opakovat, ale polepšit se
+76-04B-Kaly-8-IEOUA 41:56 -- IEOUA
+76-04B-Kaly-8-IEOUA 44:38 -- (nemakoň) (hudba)
+76-05A-Kaly-9     0 -- (ticho)
+76-05A-Kaly-9    31 -- vstupování a vyhození od vstupu; lehké a těžké břemeno
+76-05A-Kaly-9 10:31 -- co je to brát Jeho břemeno
+76-05A-Kaly-9 16:25 -- rozlišování vlastních představ a jednání z Boží síly
+76-05A-Kaly-9 17:37 -- neúspěch při pokusu o spojení
+76-05A-Kaly-9 22:34 -- vědět, co mám dělat
+76-05B-Kaly-10     0 -- 
