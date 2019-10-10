@@ -1,4 +1,4 @@
-exec mplayer -ss 0 76-05B-Kaly-10.mp3
+exec mplayer -ss 17:52 77-01A-Zlin.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1638,4 +1638,33 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 76-05A-Kaly-9 16:25 -- rozlišování vlastních představ a jednání z Boží síly
 76-05A-Kaly-9 17:37 -- neúspěch při pokusu o spojení
 76-05A-Kaly-9 22:34 -- vědět, co mám dělat
-76-05B-Kaly-10     0 -- 
+76-05B-Kaly-10     0 -- jho je lehké, když je Jeho
+76-05B-Kaly-10 01:20 -- dobrovolné opuštění při vrcholném rozvoji stupně
+76-05B-Kaly-10 02:29 -- komplexnost Ježíšova vedení
+76-05B-Kaly-10 03:17 -- klepejte, ale sami si neotvírejte
+76-05B-Kaly-10 08:15 --   klepat, jako bych neklepal
+76-05B-Kaly-10 10:26 -- opuštění metody, ducha
+76-05B-Kaly-10 11:11 --   bezděčné odevzdání, jinak může být nalháváním
+76-05B-Kaly-10 12:13 -- nečekat spojení při koncentraci
+76-05B-Kaly-10 16:10 -- neodbytný přítel není odmítnut
+76-05B-Kaly-10 17:38 -- Sokratova meditace ve stoje; meditace vedle vertikálního objektu
+76-05B-Kaly-10 21:07 -- spor o vzkříšení Lk. 20. 27-40
+76-05B-Kaly-10 24:52 -- různé přípravy na soustředění; povídám, jen když to potřebuju; mám-li touhu, slovy ji neruším
+76-05B-Kaly-10 27:00 --   koncentrace je účinná pouze při vložení života
+76-05B-Kaly-10 29:14 -- metoda nespojuje, pouze disponuje
+76-06A-Kaly-11     0 -- (pokračování 76-05B-Kaly-10:29:14)
+76-06A-Kaly-11 01:37 -- 
+76-06B-Kaly-12     0 -- nikdo nepřijde k Otci než skrze mne
+76-06B-Kaly-12 05:13 -- kráčení po cestě Ježíšově
+76-06B-Kaly-12 09:07 -- pochopení Ježíšovy pravdy
+76-06B-Kaly-12 11:36 -- žití Ježíšova života; ztrácení pocitu oddělenosti
+76-06B-Kaly-12 14:25 -- cesta do Emaus
+76-06B-Kaly-12 16:47 -- (ticho)
+76-06B-Kaly-12 16:57 -- IEOUA
+76-06B-Kaly-12 23:35 -- (ticho)
+77-01A-Zlin     0 -- přechod k soustředění na srdce Ježíšovo Marie Markéty Alacoque
+77-01A-Zlin 04:30 -- osobní rada
+77-01A-Zlin 05:44 -- výběr cesty utrpení nebo bez utrpení Markéty Alacoque
+77-01A-Zlin 07:29 -- toutéž cestou znovu a znovu
+77-01A-Zlin 08:51 -- (ref SJ) neohraničenost člověka narozením; přežití židovského národa
+77-01A-Zlin 17:52 -- je nutné založit duchovní kulturu, která by způsobila rovnováhu mezi technikou života a uměním žít
