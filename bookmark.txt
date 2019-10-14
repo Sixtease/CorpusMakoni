@@ -1,4 +1,4 @@
-exec mplayer -ss 29:31 77-01A-Zlin.mp3
+exec mplayer -ss 0 77-01B-Zlin.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1673,3 +1673,11 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 77-01A-Zlin 23:53 -- ne příjemné / nepříjemné, ale dobré / špatné; země zaslíbená
 77-01A-Zlin 26:43 -- Ježíš žil před narozením v Betlémě
 77-01A-Zlin 29:31 -- plněním zákona přestává já být středem
+77-01A-Zlin 30:10 -- nestačí plnit zákon, je třeba pracovat k narození spasitele
+77-01A-Zlin 32:20 -- spasitel nepatří tomu, u koho se zrodil
+77-01A-Zlin 32:20 -- chceme-li být v tom, co je našeho Otce, dostaneme se do Jordánu, kde se chce něco jiného
+77-01A-Zlin 37:32 -- překonáme-li Satana, octneme se na kříži; nanebevzetí
+77-01A-Zlin 39:53 -- výměna svého kříže za Ježíšovo
+77-01A-Zlin 42:51 -- hřích vlastnění
+77-01A-Zlin 45:25 -- nevlastnění musí být vnitřní
+77-01B-Zlin     0 -- 
