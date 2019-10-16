@@ -1,4 +1,4 @@
-exec mplayer -ss 0 77-01B-Zlin.mp3
+exec mplayer -ss 24:30 77-02A-Zlin.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1652,7 +1652,7 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 76-05B-Kaly-10 24:52 -- různé přípravy na soustředění; povídám, jen když to potřebuju; mám-li touhu, slovy ji neruším
 76-05B-Kaly-10 27:00 --   koncentrace je účinná pouze při vložení života
 76-05B-Kaly-10 29:14 -- metoda nespojuje, pouze disponuje
-76-06A-Kaly-11     0 -- (pokračování 76-05B-Kaly-10:29:14)
+76-06A-Kaly-11     0 -- (pokračování @76-05B-Kaly-10:29:14)
 76-06A-Kaly-11 01:37 -- 
 76-06B-Kaly-12     0 -- nikdo nepřijde k Otci než skrze mne
 76-06B-Kaly-12 05:13 -- kráčení po cestě Ježíšově
@@ -1680,4 +1680,13 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 77-01A-Zlin 39:53 -- výměna svého kříže za Ježíšovo
 77-01A-Zlin 42:51 -- hřích vlastnění
 77-01A-Zlin 45:25 -- nevlastnění musí být vnitřní
-77-01B-Zlin     0 -- 
+77-01B-Zlin     0 -- (pokračování @77-01A-Zlin:45:25)
+77-01B-Zlin 03:52 -- padlí andělé; vysvětlení dualismu
+77-01B-Zlin 17:07 -- technika vyslovování jména Božího; účinek zvuků, smysl samohlásek
+77-01B-Zlin 24:15 -- co znamená vycházet z Otcova domu
+77-01B-Zlin 35:50 -- jak sebe nebo situaci odevzdat bez formulace
+77-01B-Zlin 44:53 -- jak se naučit milovat bližního jako sebe
+77-02A-Zlin     0 -- (pokračování @77-01B-Zlin:44:53)
+77-02A-Zlin 03:14 -- příhoda se zpožděným vlakem v Itálii
+77-02A-Zlin 13:00 -- království Boží je nálisím dobýváno
+77-02A-Zlin 22:46 -- cíl nejvyšší ale prostředky dosažitelné
