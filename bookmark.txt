@@ -1,4 +1,4 @@
-exec mplayer -ss 24:30 77-02A-Zlin.mp3
+exec mplayer -ss 39:12 77-02B-Zlin.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1690,3 +1690,35 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 77-02A-Zlin 03:14 -- příhoda se zpožděným vlakem v Itálii
 77-02A-Zlin 13:00 -- království Boží je nálisím dobýváno
 77-02A-Zlin 22:46 -- cíl nejvyšší ale prostředky dosažitelné
+77-02A-Zlin 24:19 -- komplexní využití lidských možností; vše pro Boha
+77-02A-Zlin 25:57 -- pomáhat podle toho, co člověk potřebuje a ne co si myslí že potřebuje
+77-02A-Zlin 27:07 -- dělat, co Bůh chce, ne co si přeju; neplnit svou vůli ale Otcovu; spravedlivé smýšlení
+77-02A-Zlin 28:47 -- co podle Ježíše dělat: být v tom, co je mého Otce; přát si být veden Ježíšem
+77-02A-Zlin 29:59 -- zrození Ježíše; ztráta schopnosti jednat podle vlastní vůle
+77-02A-Zlin 31:40 -- vzdát se ovoce svých skutků; ne uchopit Krista ale následovat ho
+77-02A-Zlin 33:16 -- následky následování; smrt člověka zrozeného v Betlémě na kříži
+77-02A-Zlin 36:18 -- nenásledovat lidi, ale Krista
+77-02A-Zlin 36:35 -- podmínky pro vstup do Jordánu; omezenost stavu po Jordánu; boj a vycházení se Satanem
+77-02A-Zlin 42:38 -- jaký je stav po vskříšení
+77-02A-Zlin 44:26 -- poprava člověka pro stav božství; závislost existence na dualismu
+77-02B-Zlin     0 -- království Boží dobývám násilím na sobě
+77-02B-Zlin 01:21 --   násilí plynoucí z poučenosti
+77-02B-Zlin 02:46 --   důležitost klidu; klepání
+77-02B-Zlin 06:01 --   chromý u Bethesdy; trpělivost
+77-02B-Zlin 08:26 --     pocit vlastní chromosti
+77-02B-Zlin 09:25 --   vzdání se sama sebe
+77-02B-Zlin 10:44 -- touha chopit se narozeného Boha; následování
+77-02B-Zlin 11:31 -- co je naše, je těžké; následuj Krista a on tě naučí lásce, která není tvoje
+77-02B-Zlin 14:07 -- tak dlouho činíme klepajíce násilí, až jsme přemoženi
+77-02B-Zlin 15:00 -- nejdokonalejší sebezápor je mystická koncentrace
+77-02B-Zlin 17:27 -- "Otče náš" na prvním místě; jednání podle Boží moudrosti
+77-02B-Zlin 19:47 -- (ref SJ2) smysl lidské činnosti; úroveň lidství
+77-02B-Zlin 23:01 --   vyčerpání lidských možností jako výchozí bod pro postup na vyšší stupeň
+77-02B-Zlin 24:27 --   užitím vůle k výchozímu bodu
+77-02B-Zlin 25:27 -- co je lidství
+77-02B-Zlin 28:49 --   k výchozímu bodu činností
+77-02B-Zlin 31:05 --   k výchozímu bodu láskou
+77-02B-Zlin 32:09 --   k výchozímu bodu poznáním
+77-02B-Zlin 33:15 -- z bodu lidství lze jít jednou z tří cest (činností, láskou, poznáním) nebo se jde dolů
+77-02B-Zlin 35:12 -- správná činnost
+77-02B-Zlin 39:12 -- činnost sama nestačí
