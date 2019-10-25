@@ -1,4 +1,4 @@
-exec mplayer -ss 39:12 77-02B-Zlin.mp3
+exec mplayer -ss 32:12 77-03B-Zlin.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1721,4 +1721,29 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 77-02B-Zlin 32:09 --   k výchozímu bodu poznáním
 77-02B-Zlin 33:15 -- z bodu lidství lze jít jednou z tří cest (činností, láskou, poznáním) nebo se jde dolů
 77-02B-Zlin 35:12 -- správná činnost
-77-02B-Zlin 39:12 -- činnost sama nestačí
+77-02B-Zlin 39:12 -- cesty činnosti, lásky a poznání se mísí
+77-02B-Zlin 43:22 -- využití výchozího bodu
+77-02B-Zlin 44:50 -- definice výchozího bodu je touha oproštěná od možnosti realizace lidskými prostředky
+77-02B-Zlin 45:05 -- nevracej se k sobě, ale povznes svou mysl k Bohu
+77-03A-Zlin-77-3-b     0 -- posvěcená činnost
+77-03A-Zlin-77-3-b 04:17 -- buďme úrodnou půdou
+77-03A-Zlin-77-3-b 06:55 -- "25.7.1977"
+77-03A-Zlin-77-3-b 07:04 -- účel sebezáporu
+77-03A-Zlin-77-3-b 08:38 --   činnost, která nespoutává ani tím, že se jí věnuju, ani hledáním následků, je svobodná vede ke spojení s věčným životem
+77-03A-Zlin-77-3-b 09:21 -- "Kaly 18. - 11. 8. 1977"
+77-03A-Zlin-77-3-b 09:30 -- jak zacházet se symbolickými částmi písma
+77-03A-Zlin-77-3-b 12:56 --   Kain a Ábel jako počátek dualismu
+77-03A-Zlin-77-3-b 18:43 -- jak se dostat přes dvěře, na které se klepe; nejvyšší cíl
+77-03A-Zlin-77-3-b 22:16 -- nejvyššího cíle se nelze chopit, přetrvávají jen následky
+77-03A-Zlin-77-3-b 23:59 -- naplnění různých částí zapři sama sebe, vezmi svůj kříž a následuj mě; království Boží pro sebe přivede před dveře; rezignace na chtění otvírá
+77-03A-Zlin-77-3-b 30:38 -- odevzdání bez formulace
+77-03A-Zlin-77-3-b 34:29 -- cizí formulace jako pomoc zpoza dveří
+77-03A-Zlin-77-3-b 36:28 -- Ježíš se připravoval, změny působili jiní: Archanděl Gabriel, Jan Křtitel, popravčí na Golgotě
+77-03A-Zlin-77-3-b 39:54 -- lživost formulace
+77-03A-Zlin-77-3-b 42:41 -- nutnost samovolnosti služby
+77-03A-Zlin-77-3-b 44:04 -- právo na učednictví mám po sebezapření a vzetí svého kříže
+77-03B-Zlin     0 -- klepání to je, když to je nejlepší výraz mého chtění
+77-03B-Zlin 04:10 -- proč se soustřeďovat do nohou
+77-03B-Zlin 20:33 -- kdo zvolil učedníky, Otec nebo Ježíš?
+77-03B-Zlin 29:21 --   "ve jménu tvém jsem ti je zachoval"
+77-03B-Zlin 32:12 -- posvěť se jméno Tvé
