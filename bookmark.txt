@@ -1,4 +1,4 @@
-exec mplayer -ss 32:12 77-03B-Zlin.mp3
+exec mplayer -ss 26:30 77-05A-Praha.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1746,4 +1746,29 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 77-03B-Zlin 04:10 -- proč se soustřeďovat do nohou
 77-03B-Zlin 20:33 -- kdo zvolil učedníky, Otec nebo Ježíš?
 77-03B-Zlin 29:21 --   "ve jménu tvém jsem ti je zachoval"
-77-03B-Zlin 32:12 -- posvěť se jméno Tvé
+77-03B-Zlin 32:12 -- posvěť se jméno Tvé; plnění úkolu stvoření; o jedení zvířat
+77-04A-Zlin     0 -- kritéria činnosti
+77-04A-Zlin 04:44 -- jak poznat, že jednám podle vůle Boží
+77-04A-Zlin 06:04 -- pokání K.M. po vzdálení se Bohu
+77-04A-Zlin 08:35 -- optimálně žitý den je meditací; napodobování Boží tvůrčí činnosti
+77-04A-Zlin 36:15 -- činnost a láska
+77-04A-Zlin 48:18 -- cesta lásky Jana Evangelisty
+77-04B-Zlin     0 -- (pokračování @77-04A-Zlin:48:18)
+77-04B-Zlin 02:51 -- chyby na cestě lásky
+77-04B-Zlin 05:55 -- nerozumnost na cestě lásky
+77-04B-Zlin 09:24 --   věčné zavržení za časný hřích
+77-04B-Zlin 11:43 -- sobectví jako nízky stupeň lásky
+77-04B-Zlin 13:33 -- skloubení lásky a sebepoznání
+77-04B-Zlin 15:53 -- učení se lásce
+77-04B-Zlin 31:08 --   krize na cestě lásky z přivlastňování lásky
+77-04B-Zlin 33:00 -- svatost učedníků
+77-04B-Zlin 35:41 -- (nemakoň) sen o rourách
+77-04B-Zlin 37:12 --   výklad snu
+77-04B-Zlin 42:50 -- poslušnost jako nejvyšší princip činnosti
+77-05A-Praha     0 -- omezenost starého zákona, symbolika událostí
+77-05A-Praha 02:19 -- úvod k výkladu o Jákobovi
+77-05A-Praha 03:36 --   vyprávění o Jákobovi
+77-05A-Praha 11:07 --   výklad
+77-05A-Praha 18:59 -- proč lze dnes vysvětlovat tajemství; porozumění a poznání
+77-05A-Praha 23:08 -- Bůh jako bytost a jako stav; poznávací schopnost
+77-05A-Praha 26:30 -- zákonodárce a zákon
