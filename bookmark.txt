@@ -1,4 +1,4 @@
-exec mplayer -ss 26:30 77-05A-Praha.mp3
+exec mplayer -ss 16:40 77-05B-Praha.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1772,3 +1772,12 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 77-05A-Praha 18:59 -- proč lze dnes vysvětlovat tajemství; porozumění a poznání
 77-05A-Praha 23:08 -- Bůh jako bytost a jako stav; poznávací schopnost
 77-05A-Praha 26:30 -- zákonodárce a zákon
+77-05A-Praha 30:34 --   Jákob zápasil s obrazem; nutnost porozumění
+77-05A-Praha 32:35 --   
+77-05A-Praha 33:12 --   úroveň platnosti zákona
+77-05A-Praha 40:42 --   nové jméno při přechodu na vyšší úroveň
+77-05A-Praha 44:16 --   nutnost osobního boje
+77-05B-Praha     0 -- nutnost krajního porozumění před poznáním; přes propast lze skočit jen všemi svými silami
+77-05B-Praha 01:50 -- poznávání na rajské úrovni
+77-05B-Praha 03:55 -- poslušnost Bohu
+77-05B-Praha 16:40 -- Rozdíl mezi Ježíšem a Kristem
