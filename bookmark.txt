@@ -1,4 +1,4 @@
-exec mplayer -ss 16:40 77-05B-Praha.mp3
+exec mplayer -ss 41:03 77-07B-78-01B-obrac._sled_stop.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1780,4 +1780,29 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 77-05B-Praha     0 -- nutnost krajního porozumění před poznáním; přes propast lze skočit jen všemi svými silami
 77-05B-Praha 01:50 -- poznávání na rajské úrovni
 77-05B-Praha 03:55 -- poslušnost Bohu
-77-05B-Praha 16:40 -- Rozdíl mezi Ježíšem a Kristem
+77-05B-Praha 16:40 -- Rozdíl mezi Ježíšem a Kristem; vývoj Ježíše geometrickou řadou
+77-05B-Praha 20:20 -- napodobování Ježíše a přechod do neosobního vedení Kristem
+77-05B-Praha 24:15 -- byl Ježíš na věčnosti nebo tam šel?
+77-05B-Praha 29:03 -- cesta poznání a cesta lásky
+77-05B-Praha 36:05 -- láska je naplněním Starého zákona
+77-05B-Praha 39:46 -- legitimnost cesty poznání
+77-05B-Praha 42:09 -- (nesrozumitelné)
+77-05B-Praha 45:58 -- (nemakoň)
+77-06A-Praha     0 -- (nesrozumitelné) pohádka
+77-06A-Praha 27:50 -- účinek otčenáše
+77-06A-Praha 33:18 --   neuveď nás v pokušení
+77-06A-Praha 40:04 -- (nesrozumitelné)
+77-06B-Praha     0 -- (nesrozumitelné)
+77-06B-Praha 40:00 -- porozumění snu
+77-06B-Praha 41:50 -- dosahování v běžné a duchovní činnosti
+77-07B-78-01B-obrac._sled_stop     0 -- paměť
+77-07B-78-01B-obrac._sled_stop 05:40 -- role strachu
+77-07B-78-01B-obrac._sled_stop 13:26 -- "Praha, nur 78"
+77-07B-78-01B-obrac._sled_stop 13:30 -- ich stellung, setkávání
+77-07B-78-01B-obrac._sled_stop 16:47 -- zážitek a vztah
+77-07B-78-01B-obrac._sled_stop 19:15 -- k bližnímu přistupuje Bůh, ne já
+77-07B-78-01B-obrac._sled_stop 20:17 -- účelem je spojení
+77-07B-78-01B-obrac._sled_stop 23:32 -- setkání s bližním
+77-07B-78-01B-obrac._sled_stop 24:27 -- duševní setkávání
+77-07B-78-01B-obrac._sled_stop 31:25 -- (nesrozumitelné) setkávání
+77-07B-78-01B-obrac._sled_stop 41:03 -- příprava na setkání, chci-li někoho obrátit
