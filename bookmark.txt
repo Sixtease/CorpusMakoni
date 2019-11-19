@@ -1,4 +1,4 @@
-exec mplayer -ss 0 78-02A-Praha-Kaly.mp3
+exec mplayer -ss 4:00 78-03A-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1817,4 +1817,28 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 77-07A-78-01A-obrac._sled_stop 21:56 -- učení se lásce
 77-07A-78-01A-obrac._sled_stop 37:52 -- čtení lásky
 77-07A-78-01A-obrac._sled_stop 44:13 -- trénování setkání s bližním na rodině a blízkých
-78-02A-Praha-Kaly     0 -- 
+78-02A-Praha-Kaly 26:39 -- spojení s Bohem láskou srdcem
+78-02A-Praha-Kaly 29:16 -- vnuknuté poznání
+78-02A-Praha-Kaly 32:15 -- snaha o vnuknití
+78-02A-Praha-Kaly 33:10 -- první dvě přikázání
+78-02A-Praha-Kaly 43:59 -- rozpoznání působení Božího
+78-02B-Praha-Kaly     0 -- (pokračování @78-02A-Praha-Kaly:43:59) komplexnost působení Božího
+78-02B-Praha-Kaly 03:50 -- jakou disciplínou pokračovat na cestě lásky, ne-li srdcem
+78-02B-Praha-Kaly 15:18 -- manipulace s vůlí a umenšování vlastní vůle
+78-02B-Praha-Kaly 18:55 -- role poslušnosti
+78-02B-Praha-Kaly 20:28 -- doteky Boží
+78-02B-Praha-Kaly 22:10 -- stylizace vs. discipnína
+78-02B-Praha-Kaly 23:28 -- různé systémy cesty lásky
+78-02B-Praha-Kaly 24:07 -- apriorní předsevzetí sebezáporu; proporcionalita; alchymie
+78-02B-Praha-Kaly 26:25 -- cesta jako miminko; věčný cíl, program na jeden den
+78-02B-Praha-Kaly 28:32 -- hledání nových prostředků
+78-02B-Praha-Kaly 30:40 -- lenivost, zrání, rekapitulace
+78-02B-Praha-Kaly 32:56 -- nedočkavost
+78-02B-Praha-Kaly 34:02 --   považovat se za nemocné
+78-02B-Praha-Kaly 36:12 --   
+78-02B-Praha-Kaly 37:44 -- být spolupracovníkem Božím
+78-02B-Praha-Kaly 39:29 -- každý den nanovo; dynamičnost systému
+78-02B-Praha-Kaly 43:21 -- extempore, klepání
+78-03A-Kaly     0 -- (pokračování @78-02B-Praha-Kaly:43:21)
+78-03A-Kaly    50 -- odevzdanost, trpnost na cestě lásky
+78-03A-Kaly 03:46 -- kšeftaření
