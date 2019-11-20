@@ -1,4 +1,4 @@
-exec mplayer -ss 4:00 78-03A-Kaly.mp3
+exec mplayer -ss 24:44 78-03A-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1842,3 +1842,15 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 78-03A-Kaly     0 -- (pokračování @78-02B-Praha-Kaly:43:21)
 78-03A-Kaly    50 -- odevzdanost, trpnost na cestě lásky
 78-03A-Kaly 03:46 -- kšeftaření
+78-03A-Kaly 04:30 -- míra osvobození od lásky k sobě je mírou pokroku na cestě lásky
+78-03A-Kaly 05:23 -- sladěnost úrovně modlitby a zevního života
+78-03A-Kaly 07:54 -- modlitba a její následky na dění
+78-03A-Kaly 09:42 -- nezaslouženost mystické modlitby
+78-03A-Kaly 12:42 -- rovnována života a modlitby způsobuje přechod na vyšší úroveň
+78-03A-Kaly 13:23 -- rušení života modlitbou
+78-03A-Kaly 14:39 -- modlitba jako závazný řád hodnot; otčenáš
+78-03A-Kaly 17:23 -- dispozice pro vlitou modlitbu
+78-03A-Kaly 19:37 -- obětování života Bohu v modlitbě
+78-03A-Kaly 22:30 -- zvyšování trpnosti a snižování proseb
+78-03A-Kaly 24:01 -- jednání Boží
+78-03A-Kaly 24:44 -- 
