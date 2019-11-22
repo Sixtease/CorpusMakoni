@@ -1,4 +1,4 @@
-exec mplayer -ss 24:44 78-03A-Kaly.mp3
+exec mplayer -ss 12:16 78-03B-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1853,4 +1853,15 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 78-03A-Kaly 19:37 -- obětování života Bohu v modlitbě
 78-03A-Kaly 22:30 -- zvyšování trpnosti a snižování proseb
 78-03A-Kaly 24:01 -- jednání Boží
-78-03A-Kaly 24:44 -- 
+78-03A-Kaly 24:44 -- dveře pro mě do království Božího a dveře u mě pro Boha; trvalé předsevzetí v modlitbě
+78-03A-Kaly 27:29 -- modlitba stoupajících citů, její využití a opuštění
+78-03A-Kaly 31:01 -- vnitřní ticho
+78-03A-Kaly 35:39 -- extaze
+78-03A-Kaly 37:08 -- spojení s Bohem za extazemi
+78-03A-Kaly 37:52 -- nazírání
+78-03A-Kaly 38:55 -- soustavným sebezáporem ke stavu nazírání
+78-03A-Kaly 39:40 -- těžkosti klášterní cesty lásky; boj se Satanem; rozvinutí života
+78-03B-Kaly     0 -- (pokračování @78-03A-Kaly:39:40)
+78-03B-Kaly 01:00 -- mysl jako lepší východisko ke sjednocení bytosti než cit
+78-03B-Kaly 05:13 -- cesta z celé duše
+78-03B-Kaly 09:45 -- mysl a její projevy
