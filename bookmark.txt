@@ -1,4 +1,4 @@
-exec mplayer -ss 12:16 78-03B-Kaly.mp3
+exec mplayer -ss 37:07 78-03B-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1865,3 +1865,13 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 78-03B-Kaly 01:00 -- mysl jako lepší východisko ke sjednocení bytosti než cit
 78-03B-Kaly 05:13 -- cesta z celé duše
 78-03B-Kaly 09:45 -- mysl a její projevy
+78-03B-Kaly 12:55 -- poměr vědomí k mysli
+78-03B-Kaly 14:28 -- mysl jako pravda
+78-03B-Kaly 16:00 -- chápání se mysli za projevy
+78-03B-Kaly 19:55 -- meze možností prostředku
+78-03B-Kaly 22:34 -- měj dobrou vůli ceslou myslí jít a já ti pomohu mysl ucelit
+78-03B-Kaly 26:33 -- lidství je prostředek, který musí odpadnout
+78-03B-Kaly 28:36 -- mysl jako svědek přežívající spojení
+78-03B-Kaly 29:30 -- Bůh se vměšuje projevy ne podstatou
+78-03B-Kaly 30:00 -- technika opakování jména Božího
+78-03B-Kaly 37:07 -- příprava k opakování jména Božího
