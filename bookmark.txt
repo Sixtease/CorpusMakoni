@@ -1,4 +1,4 @@
-exec mplayer -ss 0 78-04B-Kaly.mp3
+exec mplayer -ss 0 78-05A-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1885,3 +1885,7 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 78-04B-Kaly     0 -- (pokračování @78-04A-Kaly:33:30)
 78-04B-Kaly 07:30 --   vyslyšení modlitby
 78-04B-Kaly 13:20 --   
+78-04B-Kaly 19:27 -- otázka: může člověk postihnout absolutno?
+78-04B-Kaly 20:42 -- rekapitulace cesty lásky "pro Pavla"
+78-04B-Kaly 31:57 -- setkání s bližním a se sebou na cestě lásky
+78-05A-Kaly     0 -- 
