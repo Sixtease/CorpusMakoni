@@ -1,4 +1,4 @@
-exec mplayer -ss 32:20 78-05A-Kaly.mp3
+exec mplayer -ss 17:00 78-05B-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1894,3 +1894,9 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 78-05A-Kaly 18:58 --   otázka: je žádoucí upadat do emocí?; nečekat, až budu nějaký, a jít, jaký jsem
 78-05A-Kaly 25:09 --   mít sám sebe za poutníka; koncentrace na svět; styk se sebou jako s nepřítelem; vyhnání z ráje
 78-05A-Kaly 32:20 -- sváteční šat je povznesení mysli k Bohu
+78-05A-Kaly 37:03 -- kulminační bod zralosti pro styk s Bohem; pomoc zralému člověku
+78-05A-Kaly 43:52 -- prosebná modlitba za vytržení z vlažnosti
+78-05B-Kaly     0 -- (pokračování @78-05A-Kaly:43:52)
+78-05B-Kaly 01:53 -- nepostupovat proti sobě násilně; léčba lhostejnosti, která mi nevadí, rozborem
+78-05B-Kaly 08:58 -- zjednání nerovnováhy v modlitbě
+78-05B-Kaly 13:10 -- řeč jako symbol stvoření
