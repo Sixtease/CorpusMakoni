@@ -1,4 +1,4 @@
-exec mplayer -ss 17:00 78-05B-Kaly.mp3
+exec mplayer -ss 19:00 78-06A-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1900,3 +1900,18 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 78-05B-Kaly 01:53 -- nepostupovat proti sobě násilně; léčba lhostejnosti, která mi nevadí, rozborem
 78-05B-Kaly 08:58 -- zjednání nerovnováhy v modlitbě
 78-05B-Kaly 13:10 -- řeč jako symbol stvoření
+78-05B-Kaly 17:45 -- kdy je písmenové cvičení modlitbou
+78-05B-Kaly 19:56 -- sednout si na cvičení a nechat se dovézt k Bohu
+78-05B-Kaly 21:34 -- připravenost obětovat život
+78-05B-Kaly 23:01 -- technika a duch cvičení; rozhodující role touhy
+78-05B-Kaly 25:08 -- význam touhy a přípravy
+78-05B-Kaly 28:43 -- vstup Boha skrz ticho
+78-05B-Kaly 35:25 -- činnost, ticho, daní příležitosti Bohu vstoupit
+78-05B-Kaly 35:13 -- (ticho)
+78-05B-Kaly 35:29 -- vyrovnávání nerovnováhy života a modlitby
+78-05B-Kaly 43:26 -- (ticho)
+78-06A-Kaly     0 -- z jaké moci K.M. mluví
+78-06A-Kaly 05:06 -- strach vzdálit se z Otcova domu
+78-06A-Kaly 06:20 -- poznání
+78-06A-Kaly 08:22 -- nač být vděčen Bohu
+78-06A-Kaly 10:58 -- pokora
