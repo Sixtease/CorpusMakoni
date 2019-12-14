@@ -1,4 +1,4 @@
-exec mplayer -ss 19:00 78-06A-Kaly.mp3
+exec mplayer -ss 14:49 78-06B-Kaly.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1915,3 +1915,12 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 78-06A-Kaly 06:20 -- poznání
 78-06A-Kaly 08:22 -- nač být vděčen Bohu
 78-06A-Kaly 10:58 -- pokora
+78-06A-Kaly 21:34 -- vděčnost
+78-06A-Kaly 32:30 -- já jako svědek tohoto světa nebo Boha
+78-06A-Kaly 35:49 -- vývojový stupeň Honzy hledajícího princeznu
+78-06A-Kaly 36:25 -- nevědomé plnění podmínek
+78-06A-Kaly 39:05 -- stoupání na vyšší schod díky omezení hmotou
+78-06A-Kaly 39:51 -- "Gottwaldov 17. září 1978"
+78-06A-Kaly 39:57 -- jak přistupovat k utrpení svému a jiných
+78-06B-Kaly     0 -- porozumění Boží vůli; František z Assisi
+78-06B-Kaly 08:22 -- pocit, že něco mohu
