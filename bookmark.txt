@@ -1,4 +1,4 @@
-exec mplayer -ss 48:59 78-07.mp3
+exec mplayer -ss 0 79-01.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1930,14 +1930,23 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 78-06B-Kaly 28:38 -- co nebo kdo je naší hřivnou
 78-06B-Kaly 38:44 -- symbolika soukolí bližních: nepřítel je brusný nástroj
 78-06B-Kaly 45:35 -- připodobnění se Bohu v bystrosti vědomí
-78-07     0 -- (pokračování @78-06B-Kaly:45:35) rozšiřovíní vědomí
-78-07 02:45 -- rozdíl mezi citem a láskou
-78-07 09:17 -- zacházení s minulostí
-78-07 10:24 -- "Praha 30. září 1978"
-78-07 10:29 -- různá úroveň poznání u lidí
-78-07 21:47 -- průnik do věčnosti životem v přítomnosti
-78-07 24:09 -- (nesrozumitelné)
-78-07 30:44 -- důležitost světských problémů; zlatý klíč
-78-07 37:57 -- jak nést zodpovědnost za události ve svém životě (výborné)
-78-07 44:52 -- kdo je začátečníkem
-78-07 48:59 -- jak sharmonizovat modlitbu s kolísavým stavem člověka
+78-07        0 -- (pokračování @78-06B-Kaly:45:35) rozšiřovíní vědomí
+78-07    02:45 -- rozdíl mezi citem a láskou
+78-07    09:17 -- zacházení s minulostí
+78-07    10:24 -- "Praha 30. září 1978"
+78-07    10:29 -- různá úroveň poznání u lidí
+78-07    21:47 -- průnik do věčnosti životem v přítomnosti
+78-07    24:09 -- (nesrozumitelné)
+78-07    30:44 -- důležitost světských problémů; zlatý klíč
+78-07    37:57 -- jak nést zodpovědnost za události ve svém životě (výborné)
+78-07    44:52 -- kdo je začátečníkem
+78-07    48:59 -- jak sharmonizovat modlitbu s kolísavým stavem člověka
+78-07    53:40 -- vybalení z projevů; vůně věčnosti v kávě
+78-07 01:00:46 -- záznam nesmrtelné duše; vědomé lidství
+78-07 01:06:32 -- "Gottwaldov, 4. února 1979"
+78-07 01:06:37 -- shrnutí Makoňovy symboliky a teologie (ref CV)
+78-07 01:12:46 -- panna Marie
+78-07 01:20:10 -- Josef
+78-07 01:24:39 -- umírající člověk
+78-07 01:27:00 -- oběť
+79-01        0 -- 
