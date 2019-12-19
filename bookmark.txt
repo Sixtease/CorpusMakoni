@@ -1,4 +1,4 @@
-exec mplayer -ss 0 79-01.mp3
+exec mplayer -ss 25:48 79-01.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1949,4 +1949,12 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 78-07 01:20:10 -- Josef
 78-07 01:24:39 -- umírající člověk
 78-07 01:27:00 -- oběť
-79-01        0 -- 
+79-01        0 -- Boží láska ke slabému člověku; jít špatností k Bohu
+79-01    05:39 -- potřeba mistra; Kristus jako mistr
+79-01    08:01 -- vzpomínka na Otcův dům; dobrovolné promarněné
+79-01    12:32 -- chudoba ducha
+79-01    15:00 -- nemít vědomí o světě neznamená být bez vědomí
+79-01    16:48 -- jak se setkat s Božím nic
+79-01    19:42 --   setkání s Bohem a následky
+79-01    21:45 -- rezignace
+79-01    25:48 -- 
