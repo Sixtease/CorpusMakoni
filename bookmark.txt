@@ -1,4 +1,4 @@
-exec mplayer -ss 25:48 79-01.mp3
+exec mplayer -ss 50:00 79-01.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1957,4 +1957,8 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 79-01    16:48 -- jak se setkat s Božím nic
 79-01    19:42 --   setkání s Bohem a následky
 79-01    21:45 -- rezignace
-79-01    25:48 -- 
+79-01    25:48 -- samovolná činnost
+79-01    27:56 -- poznání pravdy boží
+79-01    32:59 -- (ticho)
+79-01    33:07 -- povídavost při modlitbě
+79-01    46:00 -- cesta celou myslí
