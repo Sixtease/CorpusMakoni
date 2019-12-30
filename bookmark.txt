@@ -1,4 +1,4 @@
-exec mplayer -ss 01:17:20 79-01.mp3
+exec mplayer -ss 53:00 79-07-G.-Zliv.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1971,3 +1971,26 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 79-01 01:09:12 -- i překonavší vesmír vesmíru za mnoho vděčí
 79-01 01:17:20 -- návod k prosebné modlitbě
 79-01 01:27:25 -- sebevýchova sebezáporem
+79-06-Praha-G        0 -- poslušnost
+79-06-Praha-G    10:56 -- kvietismus
+79-06-Praha-G    14:16 -- shrnutí křesťanské cesty s paralelou různých jog
+79-06-Praha-G    27:04 -- proč Bůh nestvořil člověka dokonalého
+79-06-Praha-G    28:17 -- správné využití sebelásky v indické tradici
+79-06-Praha-G    32:02 -- (nemakoň) (Elger čte Makoňův dopis Antonínovi)
+79-06-Praha-G    34:55 -- následky krizí
+79-06-Praha-G    36:42 -- čtení: spor o Ježíšovu moc, podobenství o dvou bratrech, podobenství o vinařích
+79-06-Praha-G    41:09 --   výklad
+79-06-Praha-G    50:38 --   převod do praktického života; negativní poslušnost
+79-06-Praha-G    57:47 --   dotaz: je individuální, co se nemá dělat?
+79-06-Praha-G 01:02:01 --   objektivní hledisko a sebeobhajoba
+79-06-Praha-G 01:06:02 --   
+79-06-Praha-G 01:10:43 -- rozbor tradice (ref SJ III) (špatně srozumitelné)
+79-07-G.-Zliv        0 -- poslušnost vůle Boží; kvalita činnosti
+79-07-G.-Zliv    04:16 -- rozpoznání, co je vůle Boží
+79-07-G.-Zliv    08:08 -- 
+79-07-G.-Zliv    12:26 -- charakter sebezáporu
+79-07-G.-Zliv    21:24 -- "Plzeň, 17. září 1979"
+79-07-G.-Zliv    21:28 -- stupně na cestě lásky
+79-07-G.-Zliv    28:49 --   
+79-07-G.-Zliv    35:14 --   srovnání existenční cesty a cesty poznání s cestou lásky
+79-07-G.-Zliv    41:31 --   celobytostná cesta při stupních lásky
