@@ -1,4 +1,4 @@
-exec mplayer -ss 53:00 79-07-G.-Zliv.mp3
+exec mplayer -ss 26:20 79-08-Zliv.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -1994,3 +1994,13 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 79-07-G.-Zliv    28:49 --   
 79-07-G.-Zliv    35:14 --   srovnání existenční cesty a cesty poznání s cestou lásky
 79-07-G.-Zliv    41:31 --   celobytostná cesta při stupních lásky
+79-07-G.-Zliv    57:55 --   proč je mysl vyšší úroveň než duše
+79-07-G.-Zliv 01:08:00 --   celou myslí svou; vzdát se tažení od Boha
+79-07-G.-Zliv 01:12:40 -- na cestě svými vlastnostmi je třeba vše obětovat
+79-07-G.-Zliv 01:12:16 -- nakládání se sebeklamem vlastnění
+79-07-G.-Zliv 01:23:12 -- láska k sobě jako podloží pro vzestup po stupních lásky
+79-07-G.-Zliv 01:28:17 -- vracení darů Bohu
+79-08-Zliv        0 -- nad kým se Bůh smilovává
+79-08-Zliv    03:17 -- úskalí slovní modlitby; lidské milosrdenství jako vstup do prosebné modlitby
+79-08-Zliv    11:55 -- neomezovat se na ctnosti; Eliášova trpně prosebná modlitba
+79-08-Zliv    21:39 -- vzývání ducha svatého
