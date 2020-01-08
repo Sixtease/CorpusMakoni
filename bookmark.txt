@@ -1,4 +1,4 @@
-exec mplayer -ss 26:20 79-08-Zliv.mp3
+exec mplayer -ss 54:30 79-08-Zliv.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2004,3 +2004,10 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 79-08-Zliv    03:17 -- úskalí slovní modlitby; lidské milosrdenství jako vstup do prosebné modlitby
 79-08-Zliv    11:55 -- neomezovat se na ctnosti; Eliášova trpně prosebná modlitba
 79-08-Zliv    21:39 -- vzývání ducha svatého
+79-08-Zliv    32:34 -- hospodaření bez vlastnění
+79-08-Zliv    36:24 -- co je následování Krista
+79-08-Zliv    39:03 -- práce pro sebe a pro Boha, podobenství o dvou bratrech
+79-08-Zliv    46:15 -- nutnost rozvinutí vlastního života
+79-08-Zliv    48:40 -- manipulace s vůlí
+79-08-Zliv    49:40 -- znovuzrození révy vinařským nožem
+79-08-Zliv    54:30 -- 
