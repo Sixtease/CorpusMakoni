@@ -1,4 +1,4 @@
-exec mplayer -ss 54:30 79-08-Zliv.mp3
+exec mplayer -ss 01:22:26 79-08-Zliv.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2010,4 +2010,10 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 79-08-Zliv    46:15 -- nutnost rozvinutí vlastního života
 79-08-Zliv    48:40 -- manipulace s vůlí
 79-08-Zliv    49:40 -- znovuzrození révy vinařským nožem
-79-08-Zliv    54:30 -- 
+79-08-Zliv    54:30 -- nechat se vést neúspěchy; andělská pomoc; poznání lásky Boží
+79-08-Zliv 01:01:25 -- přechod z klidu a z neklidu
+79-08-Zliv 01:06:55 -- přechod z úrovně na vyšší
+79-08-Zliv 01:11:47 -- tříbení zdola a shora
+79-08-Zliv 01:12:42 -- dvě tváře lítosti
+79-08-Zliv 01:20:18 -- zapřít se, když chci dělat neplechu
+79-08-Zliv 01:22:26 -- 
