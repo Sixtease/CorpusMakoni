@@ -1,4 +1,4 @@
-exec mplayer -ss 01:22:26 79-08-Zliv.mp3
+exec mplayer -ss 17:46 79-09-Zliv-Kaly-P.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2016,4 +2016,10 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 79-08-Zliv 01:11:47 -- tříbení zdola a shora
 79-08-Zliv 01:12:42 -- dvě tváře lítosti
 79-08-Zliv 01:20:18 -- zapřít se, když chci dělat neplechu
-79-08-Zliv 01:22:26 -- 
+79-08-Zliv 01:22:26 -- nebezpečí přílišného sebezlepšování; sebelítost; hospodaření se silami a slabostmi
+79-08-Zliv 01:28:58 -- Marie a Marta; světlo rozumu a srdce
+79-09-Zliv-Kaly-P        0 -- nezainteresovaná činnost
+79-09-Zliv-Kaly-P    05:00 -- "Kaly, 21. října 1979"
+79-09-Zliv-Kaly-P    05:05 -- s Bohem jsou spojeni všichni; marnotratný syn; aktivní a pasivní spojení s Bohem
+79-09-Zliv-Kaly-P    17:39 -- "Praha, 17. listopadu 1979"
+79-09-Zliv-Kaly-P    17:46 -- 
