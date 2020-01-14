@@ -1,4 +1,4 @@
-exec mplayer -ss 17:46 79-09-Zliv-Kaly-P.mp3
+exec mplayer -ss 33:00 79-09-Zliv-Kaly-P.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2022,4 +2022,4 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 79-09-Zliv-Kaly-P    05:00 -- "Kaly, 21. října 1979"
 79-09-Zliv-Kaly-P    05:05 -- s Bohem jsou spojeni všichni; marnotratný syn; aktivní a pasivní spojení s Bohem
 79-09-Zliv-Kaly-P    17:39 -- "Praha, 17. listopadu 1979"
-79-09-Zliv-Kaly-P    17:46 -- 
+79-09-Zliv-Kaly-P    17:46 -- Eckhart, jiskra duše, jít jako nic k ničemu přirozenosti Boží
