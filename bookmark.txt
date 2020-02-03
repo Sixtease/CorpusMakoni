@@ -1,4 +1,4 @@
-exec mplayer -ss 18:24 80-01B.mp3
+exec mplayer -ss 35:00 80-02A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2042,3 +2042,13 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 80-01B 12:20 -- svatý Pavel
 80-01B 14:38 -- únik od Boha, temná noc
 80-01B 18:24 -- 
+80-01B 27:01 -- světec a zasvěcenec
+80-01B 42:24 -- stvořitelská a spasitelská funkce Boží
+80-01B 44:07 -- lidé pracují ke ztrátě života
+80-02A     0 -- 
+80-02A 07:09 -- zlačnění na poušti a koryto marnotratného syna
+80-02A 09:37 -- ctnostný život jedince a společnosti
+80-02A 17:12 -- 
+80-02A 18:52 -- "16. května 1980"
+80-02A 18:58 -- středověké prameny v moderním myšlení
+80-02A 29:15 -- Bohu nelze rozumět
