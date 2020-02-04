@@ -1,4 +1,4 @@
-exec mplayer -ss 35:00 80-02A.mp3
+exec mplayer -ss 0 80-02B.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2051,4 +2051,8 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 80-02A 17:12 -- 
 80-02A 18:52 -- "16. května 1980"
 80-02A 18:58 -- středověké prameny v moderním myšlení
-80-02A 29:15 -- Bohu nelze rozumět
+80-02A 29:15 -- úlohy boží trojice
+80-02A 35:32 -- nástup ke spáse, marnotratný syn
+80-02A 39:50 -- zvíře, rostlina, člověk
+80-02A 42:07 -- evoluce a genesis
+80-02B     0 -- 
