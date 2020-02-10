@@ -1,4 +1,4 @@
-exec mplayer -ss 0 80-02B.mp3
+exec mplayer -ss 40:29 80-03A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2055,4 +2055,30 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 80-02A 35:32 -- nástup ke spáse, marnotratný syn
 80-02A 39:50 -- zvíře, rostlina, člověk
 80-02A 42:07 -- evoluce a genesis
-80-02B     0 -- 
+80-02B     0 -- rozvinutí života
+80-02B 05:19 -- chování v otcově domě
+80-02B 09:00 -- uchopení Boha a patření Bohu
+80-02B 11:59 -- hospodařit s tělem a okolnostmi jako s nástroji v rukou Božích
+80-02B 15:05 -- sebelítost
+80-02B 16:19 -- starost
+80-02B 17:56 -- tři základní principy: 1) nemyslet na zbytečnosti a nedělat zbytečnosti, 2) považovat sebe za služebníka, 3) ohleduplnost
+80-02B 21:11 -- nejít vlastními silami
+80-02B 23:04 -- od začátku se odevzdávat Bohu, nechtít Boha, ale chtít být jeho
+80-02B 28:14 -- potrava pro automatismus II
+80-02B 33:21 --   modlete se neustále
+80-02B 34:22 --   pocit oddělenosti
+80-02B 36:48 --   řídit se automatismem II, zabíjení Krista
+80-02B 38:00 -- nárok na pomoc Boží
+80-02B 41:01 -- spatitelský princip
+80-03A     0 -- vnitřní nevlastnění, lidské vlastnosti, Jidáš, rozum
+80-03A 06:05 -- vykořisťování, využití světla rozumu, nárok na pomoc Boží
+80-03A 06:44 -- Makoňův překlad obsahu do češtiny
+80-03A 07:45 -- omezené možnosti lidských vlastností
+80-03A 08:31 -- modlitba Boží v člověku, jednání Boží skrze člověka
+80-03A 17:27 -- odevzdání mysli nakonec
+80-03A 20:56 -- míra sebepoznání, sebeodevzdání a kvalita přechodu
+80-03A 24:55 -- opuštěnost od ukřižovaného Ježíše
+80-03A 25:56 -- Boží péče o člověka
+80-03A 28:54 -- vmýšlení se; práce na poli hospodářově vylučováním vlastní osobnosti
+80-03A 39:10 -- neoddělitelnosti Ježíšových slov a činů
+80-03A 40:29 -- Lk 13,25-33
