@@ -1,4 +1,4 @@
-exec mplayer -ss 40:29 80-03A.mp3
+exec mplayer -ss 24:38 80-04A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2081,4 +2081,14 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 80-03A 25:56 -- Boží péče o člověka
 80-03A 28:54 -- vmýšlení se; práce na poli hospodářově vylučováním vlastní osobnosti
 80-03A 39:10 -- neoddělitelnosti Ježíšových slov a činů
-80-03A 40:29 -- Lk 13,25-33
+80-03A 40:29 -- Lk 13,25-33 odevzdání všeho pro nástup Ježíšova učednictví
+80-04A     0 -- funkce Satana jako udržovatele dvojnosti
+80-04A 02:26 -- mnoho avatarů a jednorozenství Ježíšovo
+80-04A 02:50 -- ustavičné rození spasitelovo
+80-04A 04:41 -- proč Komenskému shořely spisy
+80-04A 07:08 -- neohlížet se za tím, co mám opustit
+80-04A 08:30 -- proč byl Jan Křtitel sťat
+80-04A 16:34 -- modlitba je klepání; komu bude otevřeno
+80-04A 17:36 -- jak nezklouzávat do starých kolejí
+80-04A 18:58 -- "18. května 1980"
+80-04A 19:08 -- odkud začíná být člověk živý; vedení jistotami a tušením
