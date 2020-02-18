@@ -1,4 +1,4 @@
-exec mplayer -ss 24:38 80-04A.mp3
+exec mplayer -ss 26:00 prevzate-kotouc-80-05AB.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2091,4 +2091,20 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 80-04A 16:34 -- modlitba je klepání; komu bude otevřeno
 80-04A 17:36 -- jak nezklouzávat do starých kolejí
 80-04A 18:58 -- "18. května 1980"
-80-04A 19:08 -- odkud začíná být člověk živý; vedení jistotami a tušením
+80-04A 19:08 -- odkud začíná být člověk živý; vedení jistotami a tušením; cesta KM podle Weinfurtera
+80-04A 26:26 -- poslušnost vede ke kontaktům se svatými
+80-04A 30:08 -- patřit Bohu nebo ho chtít vlastnit; ulpění na blaženosti
+80-04A 35:29 -- odpor ke světu po setkání s Bohem
+80-04A 39:48 -- přlibližování k Bohu bez smyslových vjemů
+80-04B     0 -- (pokračování @80-04A:39:48)
+80-04B 01:17 -- odchod od nesmrtelné duše k vůli Otcově
+80-04B 08:35 -- vzpomínka marnotratného syna na nebe, ne na ráj
+80-04B 13:57 -- různá promarnění na různých stupních
+80-04B 29:58 -- rovnováha na různých stupních; syntetické čtení Bible; stylizace života
+80-04B 36:27 -- čakry
+80-04B 41:36 -- "Gottwaldov, 14. června 1978"
+80-04B 41:40 -- nestvořená část člověka tvora; dělání místa v duši pro Boha
+prevzate-kotouc-80-05AB.mp3        0 -- (pokračování @80-04B:41:40) kdo je nebeský otec; vztah toho, co je, a toho, co se stává
+prevzate-kotouc-80-05AB.mp3    05:55 --   poslušnost vůči Bohu; jistota o tom, co je
+prevzate-kotouc-80-05AB.mp3    07:20 -- jednání Ježíšovo s lidskou sobeckostí
+prevzate-kotouc-80-05AB.mp3    20:25 -- uvědomělý sebezápor
