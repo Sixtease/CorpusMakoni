@@ -1,4 +1,4 @@
-exec mplayer -ss 26:00 prevzate-kotouc-80-05AB.mp3
+exec mplayer -ss 1:08:00 prevzate-kotouc-80-05AB.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2108,3 +2108,9 @@ prevzate-kotouc-80-05AB.mp3        0 -- (pokračování @80-04B:41:40) kdo je ne
 prevzate-kotouc-80-05AB.mp3    05:55 --   poslušnost vůči Bohu; jistota o tom, co je
 prevzate-kotouc-80-05AB.mp3    07:20 -- jednání Ježíšovo s lidskou sobeckostí
 prevzate-kotouc-80-05AB.mp3    20:25 -- uvědomělý sebezápor
+prevzate-kotouc-80-05AB.mp3    33:15 --   nutnost tvůrčího sebezáporu
+prevzate-kotouc-80-05AB.mp3    42:18 --   trpný sebezápor
+prevzate-kotouc-80-05AB.mp3    47:44 --   vývoj a skok
+prevzate-kotouc-80-05AB.mp3    50:52 --   moc hřivny
+prevzate-kotouc-80-05AB.mp3    53:18 --   jednání z vlastní síly
+prevzate-kotouc-80-05AB.mp3    57:47 -- otázka: jak se naučit lásce k Bohu
