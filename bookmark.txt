@@ -1,4 +1,4 @@
-exec mplayer -ss 1:08:00 prevzate-kotouc-80-05AB.mp3
+exec mplayer -ss 27:37 80-06B.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2032,7 +2032,7 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 79-09-Zliv-Kaly-P 01:08:46 -- jiskra duše jako spojka
 79-09-Zliv-Kaly-P 01:14:41 --   spojka v kontextu hadí síly
 79-09-Zliv-Kaly-P 01:17:43 --   spojka mezi čakramy; šakti
-80-01A     0 -- automatismus 2, stavy bdělosti, spánku a ráje
+80-01A     0 -- automatismus II, stavy bdělosti, spánku a ráje
 80-01A 13:00 -- dokumentovat Ježíšovy výroky jeho životem; milosrdenství
 80-01A 25:00 -- lidská vůle
 80-01A 33:45 -- potrava pro automatismus II: nezainteresovaná činnost, modlitba
@@ -2114,3 +2114,26 @@ prevzate-kotouc-80-05AB.mp3    47:44 --   vývoj a skok
 prevzate-kotouc-80-05AB.mp3    50:52 --   moc hřivny
 prevzate-kotouc-80-05AB.mp3    53:18 --   jednání z vlastní síly
 prevzate-kotouc-80-05AB.mp3    57:47 -- otázka: jak se naučit lásce k Bohu
+prevzate-kotouc-80-05AB.mp3 01:11:07 -- otázka o lidských vlastnostech, aby vedly ke spojení s Bohem
+prevzate-kotouc-80-05AB.mp3 01:22:04 -- Elifas Léví magické spisy, magická a mystická modlitba
+prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
+80-06A     0 -- (pokračování @prevzate-kotouc-80-05AB:01:28:37)
+80-06A 03:50 --   neosobní vedení v těle
+80-06A 06:11 --   posmrtný život
+80-06A 09:36 -- (ticho)
+80-06A 09:43 -- mystická koncentrace: uspořádání vesmírových prvků, tvůrčí princip
+80-06A 15:24 --   přechod od tvůrčího principu ke spasení
+80-06A 19:23 --     koncentrace ticha
+80-06A 33:35 -- jednání automatismu II
+80-06A 36:57 -- karma a dharma
+80-06B     0 -- (pokračování @80-06A:36:57) roztříštěnost jednání
+80-06B 03:49 -- slepé jednání
+80-06B 06:49 -- "Gottwaldov, 5. července 1980"
+80-06B 06:54 -- existence Boží a stvořeného
+80-06B 09:41 --   akášický záznam Petruščín
+80-06B 11:15 --   
+80-06B 12:12 -- nic nelze promarnit; ztracené je, co nemohu mít v mysli  
+80-06B 13:22 --   smysl stvoření je vše promarnit a vzpomenout si na Boha
+80-06B 15:20 -- ustavičnost tvoření, odpočinku a spásy; předčasné křižování; přechod ke spáse
+80-06B 24:28 -- člověk bojující proti Bohu neví, co činí, a pokračuje v tvůrčí činnosti Boží a bylo by lépe, kdyby to nečinil
+80-06B 27:37 --   nevěda slouží Bohu
