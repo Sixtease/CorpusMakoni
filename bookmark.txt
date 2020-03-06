@@ -1,4 +1,4 @@
-exec mplayer -ss 27:37 80-06B.mp3
+exec mplayer -ss 0 80-07B.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2137,3 +2137,33 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-06B 15:20 -- ustavičnost tvoření, odpočinku a spásy; předčasné křižování; přechod ke spáse
 80-06B 24:28 -- člověk bojující proti Bohu neví, co činí, a pokračuje v tvůrčí činnosti Boží a bylo by lépe, kdyby to nečinil
 80-06B 27:37 --   nevěda slouží Bohu
+80-06B 33:40 -- "Kaly první den, šestého července roku tisícího devítistého osmdesátého"
+80-06B 33:51 -- proč Ježíš potavil sv. Petra do čela církve
+80-06B 41:30 --   dělat věci pro společnost
+80-06B 45:04 --   převod dosavadní činnosti do duchovní úrovně
+80-07A     0 -- k souladu činnosti a tažení Božímu zduchovněním činnosti
+80-07A 03:58 --   jak na to, aby modlitba nerušila v činnosti
+80-07A 05:43 -- rozhodnutí celobytostně jít není zárukou, že to tak bude; musí se odevzdat vždy vše, ale výsledně se odevzdá jen část
+80-07A 11:46 -- není-li co odevzdat, zbytečně se odevzdávám; je potřeba vlastnit, abych mohl odevzdat
+80-07A 14:07 -- řemeslo a umění
+80-07A 18:40 -- "Kaly, den druhý"
+80-07A 18:43 -- rozvinout život; mít co odevzdat
+80-07A 22:31 -- pracovat pro sebe, hospodář přijde a dá mi do ruky hřivnu
+80-07A 26:30 -- nutnost skoků na duchovní cestě
+80-07A 27:47 -- Milarepa; sebelítost
+80-07A 29:56 -- aplikace Starého zákona na život; křesťanská morálka je levná a nedomyšlená
+80-07A 32:00 -- co je to celý člověk
+80-07A 36:16 -- nikdy nedojdeme někdy k tomu, že by vše bylo Bůh
+80-07A 39:00 -- čím blíž Bohu, tím nenasycenější Boha
+80-07A 41:28 -- proč rozvíjet lidské porozumění
+80-07A 45:30 -- příprava ke skoku je mimo hmotnou úroveň
+80-07B     0 -- (pokračování @80-07A:45:30)
+80-07B 08:12 -- váha zrozeného Ježíše dává sílu upřednostňovat duchovní před světským; částečné zrození Ježíškovo
+80-07B 11:44 -- V Jordánu se přichází o život
+80-07B 12:20 --   vypořádání se s já
+80-07B 14:59 --   Ježíš je menší než Otec
+80-07B 16:09 -- pochod a klid
+80-07B 18:54 -- pokoj seslaný při křtu
+80-07B 22:08 -- moudrost nejistoty
+80-07B 24:00 -- nelze se sám pokřtít
+80-07B 24:46 -- bytosti
