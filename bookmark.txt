@@ -1,4 +1,4 @@
-exec mplayer -ss 0 80-07B.mp3
+exec mplayer -ss 26:24 80-08A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2166,4 +2166,18 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-07B 18:54 -- pokoj seslaný při křtu
 80-07B 22:08 -- moudrost nejistoty
 80-07B 24:00 -- nelze se sám pokřtít
-80-07B 24:46 -- bytosti
+80-07B 24:46 -- bytosti; Káma a citový a pohlavní život; salamandři, víly
+80-07B 29:50 -- cesta Inda nejogína: odčinit karmu a odebrat se do ústraní
+80-07B 32:42 --   artha: materiální zajištění
+80-07B 33:32 --   dharma
+80-07B 35:28 -- otázka: jak překonat bohatství
+80-07B 43:59 -- jak nechat působit Boží vůli
+80-08A     0 -- duch pokory, nevlastnění
+80-08A 03:49 -- podfuk na sebe sama; jít i hodinu před smrtí
+80-08A 09:54 -- sladké jho umělcovo; sebepoznání nuly; symbolika řady čísel; Bůh 10
+80-08A 14:31 -- "Kaly, den třetí"
+80-08A 14:40 -- "sen 8.7.80 Kaly"
+80-08A 14:45 --   čtení zápisu snu o činžovním domě
+80-08A 18:04 --   oprava líčení snu
+80-08A 19:03 --   výklad snu
+80-08A 26:24 -- 
