@@ -1,4 +1,4 @@
-exec mplayer -ss 26:24 80-08A.mp3
+exec mplayer -ss 25:06 80-09A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2180,4 +2180,23 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-08A 14:45 --   čtení zápisu snu o činžovním domě
 80-08A 18:04 --   oprava líčení snu
 80-08A 19:03 --   výklad snu
-80-08A 26:24 -- 
+80-08B     0 -- (pokračování @80-08A:19:03) vyšší patra jsou trpnost; křest Ježíšův: nižší prostředek pro vyšší účel; bez touhy ani s touhou
+80-08B 09:03 -- prostředník k trpnému odevzdání
+80-08B 11:10 --   správný duch činnosti; bližní se mi stává Ježíšem Kristem
+80-08B 13:18 --   je-li mi bližní prostředníkem, jsem na poli hospodářově
+80-08B 13:47 -- modlitba ticha nemusí vést k extazi
+80-08B 15:28 -- "čtvrtý den měsíce července roku 1980"
+80-08B 15:34 -- (nemakoň:MS) čtení z Cesty bílého mraku
+80-08B 32:52 -- komentář k Cestě bílého mraku
+80-08B 42:26 -- nutnost meditace; co je meditace
+80-09A     0 -- (pokračování @80-08B:42:26) příprava na koncentraci
+80-09A 03:40 -- touha při písmenové koncentraci; obsahová podpora zaujatosti
+80-09A 08:41 -- jak obětovat radost Bohu
+80-09A 12:42 --   vrácení obětované radosti je volání Boží
+80-09A 14:00 --   odlivy z radosti; hospodaření s radostí
+80-09A 19:32 -- "Kaly, pátý den 1980"
+80-09A 19:38 -- (nemakoň:MS) úryvek o otázkách a odpovědích
+80-09A 19:51 --   odpověď o otázkách a odpovědích
+80-09A 21:51 -- mantram
+80-09A 24:44 -- (nemakoň) čtený úryvek
+80-09A 25:06 -- strach dovolit Bohu odpovědět mi
