@@ -1,4 +1,4 @@
-exec mplayer -ss 25:06 80-09A.mp3
+exec mplayer -ss 07:00 80-10A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2198,5 +2198,31 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-09A 19:38 -- (nemakoň:MS) úryvek o otázkách a odpovědích
 80-09A 19:51 --   odpověď o otázkách a odpovědích
 80-09A 21:51 -- mantram
-80-09A 24:44 -- (nemakoň) čtený úryvek
-80-09A 25:06 -- strach dovolit Bohu odpovědět mi
+80-09A 24:44 -- (nemakoň) čtený úryvek: strach dovolit Bohu odpovědět mi
+80-09A 25:06 -- lék na všechno
+80-09A 26:18 -- úloha vlastního úsilí; několik Ježíšových podobenství a jejich syntéza
+80-09A 43:57 --   postavení služebníka na poli
+80-09A 45:30 -- nenechat se zneklidnit minulostí
+80-09B     0 -- být intenzivně v přítomnosti
+80-09B 01:46 -- přitomnost slibu Božího
+80-09B 02:15 -- pozvání ke království Božímu
+80-09B 05:38 -- kdo (ne)hledá, nalézá
+80-09B 12:31 -- smysl narození Ježíšova; kdo je pasák ovcí
+80-09B 15:24 -- narození Jana Křtitele; avatar nemůže jednat sám
+80-09B 19:19 -- přestěhování na úroveň vyšší trpnosti; činnost jako dech, modlitba jako jídlo
+80-09B 23:13 -- "šestý den v Kalech"
+80-09B 23:16 -- jak se modlit v pravdě
+80-09B 29:37 -- modlitba za sebe, za mnohé, za nikoho
+80-09B 36:50 --   naše touha je podmíněna Boží touhou po nás
+80-09B 37:50 --   
+80-09B 38:40 -- oděná pravda
+80-09B 40:06 -- účel oděvu pravdy
+80-09B 41:46 -- magucká modlitba pro spojení s Bohem
+80-10A     0 -- (pokračování @80-09B:41:46)
+80-10A 02:11 -- kopat na jednom místě
+80-10A 03:56 -- modlitba za nikoho je modlitba v duchu a v pravdě
+80-10A 18:16 -- jako nic; boží touha po tvoření
+80-10A 21:51 -- stát se služebníkem Božím
+80-10A 35:18 -- vstup do domu Hospodářova
+80-10A 38:08 -- 
+80-10A 41:40 -- co dělat před spánkem
