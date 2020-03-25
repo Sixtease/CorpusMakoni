@@ -1,4 +1,4 @@
-exec mplayer -ss 07:00 80-10A.mp3
+exec mplayer -ss 18:09 80-11A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2226,3 +2226,16 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-10A 35:18 -- vstup do domu Hospodářova
 80-10A 38:08 -- 
 80-10A 41:40 -- co dělat před spánkem
+80-10B     0 -- (pokračování @80-10A:41:40) symbolika kříže
+80-10B 02:17 -- vylezení na kříž součástí braní kříže
+80-10B 04:12 -- "sedmý den v Kalech o přirozenosti lásky"
+80-10B 04:22 -- zvíře člověk
+80-10B 09:18 -- dospělost
+80-10B 18:26 -- jak k dospělosti
+80-10B 27:23 -- relativnost stavu dospělosti
+80-10B 29:30 -- potřeba fyzické dospělosti; rozdíl mezi mužem a ženou
+80-10B 40:43 -- přirozenost lásky
+80-11A     0 -- 
+80-11A 03:27 -- milovat rozumně, být milován
+80-11A 10:00 -- učit se být milován
+80-11A 18:09 -- vzdát se vlastní lásky
