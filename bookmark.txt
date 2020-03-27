@@ -1,4 +1,4 @@
-exec mplayer -ss 18:09 80-11A.mp3
+exec mplayer -ss 29:58 80-11B.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2238,4 +2238,22 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-11A     0 -- 
 80-11A 03:27 -- milovat rozumně, být milován
 80-11A 10:00 -- učit se být milován
-80-11A 18:09 -- vzdát se vlastní lásky
+80-11A 18:09 -- vzdát se vlastní lásky; Boží vedení láskou
+80-11A 22:08 -- přechody od svojí k božské lásce
+80-11A 23:05 --   láska sama sebe křižuje
+80-11A 23:51 --   prostředek a duch prostředku, opakování jména Božího
+80-11A 28:18 -- co člověku jde samo, vede k přechodu k síle Boží
+80-11A 32:23 -- pro zachování touhy je třeba rozběh; Molinos
+80-11A 33:36 -- nikdy se nespokojit s dosaženým
+80-11A 38:42 -- cesta ze své lásky a vůle k Boží; charakter lásky na druhém břehu
+80-11A 43:16 -- chtění milovat
+80-11A 46:41 -- od Boha přicházíme; nezastřená láska v dítěti
+80-11B     0 -- odkud poznávám Boha
+80-11B 01:16 -- paměť při koncentraci
+80-11B 04:03 -- stavy po těle
+80-11B 08:09 -- vzpomínka na úspěšný vstup
+80-11B 11:35 -- soustředění na části těla; kritika Weinfurtera; vyjít z času a prostoru
+80-11B 17:40 -- vyslyšet volání Boží; správné používání prostředku
+80-11B 22:43 -- "Brno 13. července 1980"
+80-11B 22:50 -- podmínky pro trvalé získání na cestu k Bohu
+80-11B 29:58 -- podmínky pro trvalé získání na cestu k Bohu
