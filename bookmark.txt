@@ -1,4 +1,4 @@
-exec mplayer -ss 29:58 80-11B.mp3
+exec mplayer -ss 32:33 80-12.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2256,4 +2256,24 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-11B 17:40 -- vyslyšet volání Boží; správné používání prostředku
 80-11B 22:43 -- "Brno 13. července 1980"
 80-11B 22:50 -- podmínky pro trvalé získání na cestu k Bohu
-80-11B 29:58 -- podmínky pro trvalé získání na cestu k Bohu
+80-11B 29:58 -- nezaujaté, neosobní jednání
+80-11B 31:24 -- indická cesta technikou
+80-11B 33:52 -- prakticky se osvědčit v poznané pravdě
+80-11B 36:41 -- pro každého jít tam, kde je
+80-11B 37:46 -- nevýhoda náboženského založení
+80-11B 38:16 -- poslušnost událostem
+80-11B 40:40 -- písmenová cvičení
+80-11B 45:35 -- síla slova Božího
+80-11B 47:00 -- začkoli budete prosit ve jmému mém, já vám dám
+80-12        0 -- (pokračování @80-11B:47:00) magická síla modlitby
+80-12       40 -- cesta, pravda a život je obsah spasitelského působení
+80-12    01:29 -- prosit ve jménu Ježíšově; být učedníky
+80-12    03:32 -- prosby za ducha svatého
+80-12    04:49 -- co je spása
+80-12    05:45 -- negovat se a vyprázdnit se
+80-12    07:05 -- obecný sebezápor: u dítěte, disciplínou; trpná stránka sebezáporu; rozdat vše chudým
+80-12    16:11 -- lépe se upřímně neodevzdat než předstírat odevzdání
+80-12    18:17 -- jak se dorůstá odevzdání jáčka
+80-12    23:13 -- Sv. Prokop a orající Satan; rozvinutí jáčka; úpadek církve od r. 324; upálení Husa
+80-12    26:21 -- přikázání milovat bližního jako sebe
+80-12    32:33 -- 
