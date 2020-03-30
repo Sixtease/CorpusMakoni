@@ -1,4 +1,4 @@
-exec mplayer -ss 32:33 80-12.mp3
+exec mplayer -ss 36:58 80-12.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2276,4 +2276,6 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-12    18:17 -- jak se dorůstá odevzdání jáčka
 80-12    23:13 -- Sv. Prokop a orající Satan; rozvinutí jáčka; úpadek církve od r. 324; upálení Husa
 80-12    26:21 -- přikázání milovat bližního jako sebe
-80-12    32:33 -- 
+80-12    32:33 -- prostotou ke schopnosti být jedno s bližním
+80-12    34:46 -- prostota jako rozklad na elementární operace
+80-12    36:58 -- 
