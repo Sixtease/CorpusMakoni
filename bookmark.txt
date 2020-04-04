@@ -1,4 +1,4 @@
-exec mplayer -ss 36:58 80-12.mp3
+exec mplayer -ss 01:14:21 80-13.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2278,4 +2278,35 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-12    26:21 -- přikázání milovat bližního jako sebe
 80-12    32:33 -- prostotou ke schopnosti být jedno s bližním
 80-12    34:46 -- prostota jako rozklad na elementární operace
-80-12    36:58 -- 
+80-12    36:58 -- moderní rozvinutost a starověká prostota
+80-12    40:12 -- vyučováni od Boha
+80-12    42:36 -- soudit živé i mrtvé
+80-12    47:11 -- hněv Boží
+80-12    49:48 -- jak se stát živým
+80-12    50:11 -- sv. Terezie a klam vlastnictví
+80-12    53:38 -- království Boží násilí trpí a násilím je dobýváno
+80-12    59:36 -- otázka: není násilníkem člověk spasený dřív než vesmír?
+80-12 01:00:47 -- jen rozvíjením děje se na nás může nalepit milost Boží
+80-12 01:02:42 -- opakování situací; prožitek cizí zkušenosti
+80-12 01:04:27 -- nestačí se očišťovat, je třeba lásky
+80-12 01:07:04 -- dostat se nad řád
+80-12 01:13:51 -- po nás se chce účinně prokázat dobrou vůli, ne vše zmoci vlastními silami
+80-12 01:15:12 -- cesta nikdy nekončí
+80-12 01:16:25 -- "Stáňova chata 18. srpna 1980"
+80-12 01:16:33 -- vysvětlení pohádky na dobrou noc: dobro a zlo
+80-13        0 -- (pokračování @80-12:01:16:33) 
+80-13    13:29 --   vstup Ježíšův do pekel
+80-13    15:39 -- naivní představa spasení
+80-13    16:52 -- o život jde i jinak než při hrozbě smrti
+80-13    18:27 -- prosebná modlitba
+80-13    27:38 -- vyslyšení Bohem
+80-13    30:00 -- klamný a pravý soucit
+80-13    31:49 -- jak je to s člověkem spojeným s Bohem: podobenství o bambusovém stvolu
+80-13    34:47 -- vymazání individuality
+80-13    37:40 -- návrat do Boha možný jen z krajního bodu, zralosti; zvířata si počkají
+80-13    40:12 -- křest Janův a Ježíšův: pokání a neosobní vedení
+80-13    46:14 --   důvod důrazu na křest
+80-13    47:09 --   duchovní zdraví
+80-13    48:03 --   křest je základ pro automatismus II; duch a forma křtu
+80-13    49:06 -- režim dne ke spojení s Bohem (výborné)
+80-13 01:14:21 -- úroveň služby
