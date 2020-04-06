@@ -1,4 +1,4 @@
-exec mplayer -ss 01:14:21 80-13.mp3
+exec mplayer -ss 31:23 80-14.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2309,4 +2309,24 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-13    47:09 --   duchovní zdraví
 80-13    48:03 --   křest je základ pro automatismus II; duch a forma křtu
 80-13    49:06 -- režim dne ke spojení s Bohem (výborné)
-80-13 01:14:21 -- úroveň služby
+80-13 01:14:21 -- různá příprava pro různou službu
+80-13 01:17:13 -- univerzální formulka pro ranní vstup do služby
+80-13 01:19:11 --   buněčná harmonie
+80-13 01:23:11 --   odít se vděčností, že mohu sloužit Bohu
+80-13 01:24:19 -- příprava na vstup do domu vždy nově; musím ji zvládnout sám; odít se slavnostním rouchem
+80-13 01:27:10 -- "Stáňova chata, 20. srpna 1980"
+80-13 01:27:15 -- pojem duše
+80-14        0 -- Ježíšova demonstrace Božího spasitelského úkolu; Ježíšovo utrpení
+80-14    04:08 -- "Stáňova chata, 21. srpna 1980"
+80-14    04:13 -- možnost návratu do stavu ráje; meč archanděla Michaela
+80-14    06:41 -- vyhnání z ráje a odchod z nebe
+80-14    08:28 -- vědomí kontaktu s nebem
+80-14    09:15 -- "Stáňova chata, 22. srpna 1980"
+80-14    09:19 -- poslední soud
+80-14    17:16 -- vskříšení ve světle reinkarnace
+80-14    19:31 -- z učednictví Ježíšova do učednictví Ducha svatého
+80-14    20:29 -- Boží láska a dary
+80-14    21:30 -- setkání v těle a v duchu
+80-14    23:28 -- co má právo vzklíčit
+80-14    26:53 -- režim dne
+80-14    31:23 -- 
