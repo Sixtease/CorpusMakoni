@@ -1,4 +1,4 @@
-exec mplayer -ss 31:23 80-14.mp3
+exec mplayer -ss 01:21:19 80-14.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2329,4 +2329,16 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-14    21:30 -- setkání v těle a v duchu
 80-14    23:28 -- co má právo vzklíčit
 80-14    26:53 -- režim dne
-80-14    31:23 -- 
+80-14    31:23 -- pravý a nepravý střed života; vědět s Bohem
+80-14    34:28 -- proč byl zázrak nahlédnutí na svoji věčnou podstatu; rozhřešení nad životem
+80-14    38:13 -- po vtažení do Boha byla zpověď nutná pro pokoření skutkem
+80-14    41:44 -- co svážete na zemi, sváže se na nebi
+80-14    44:08 -- "Brno, 11. října 1980"
+80-14    44:13 -- obnova těla k nesmrtelnosti; existenční cesta
+80-14    49:00 -- proč Ježíš nebyl dobrý
+80-14    53:46 --   láska absolutní a projevená
+80-14    55:15 -- osobní vedení v indické tradici
+80-14 01:03:52 -- Ježíšovo překonání párů dvojic
+80-14 01:08:08 -- zázraky koná vedle absolutního Božího dobra i lidský činitel; jít jako nic až za kříž
+80-14 01:14:19 -- účel svobodné vůle
+80-14 01:21:19 -- obcování svatých
