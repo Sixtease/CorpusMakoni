@@ -1,4 +1,4 @@
-exec mplayer -ss 01:21:19 80-14.mp3
+exec mplayer -ss 31:00 80-16.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2342,3 +2342,14 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-14 01:08:08 -- zázraky koná vedle absolutního Božího dobra i lidský činitel; jít jako nic až za kříž
 80-14 01:14:19 -- účel svobodné vůle
 80-14 01:21:19 -- obcování svatých
+80-14 01:28:49 -- kdy je možno se spojit s Bohem
+80-16        0 -- propasti po každém kroku; překonání relativního dobra a zla; sestup do pekel
+80-16    04:37 -- obcování svatých
+80-16    05:39 -- od ukřižování ke království Božímu
+80-16    08:19 -- většina indických jogínů do království Božího nedošla
+80-16    10:10 -- kdo mě zapře před lidmi, toho zapřu před Bohem
+80-16    12:39 -- sv. Pavel a konec světa, koruna spravedlnosti
+80-16    19:28 -- prostředky pro extazi a trvalé spojení
+80-16    23:20 -- slabá místa v epištolách; nenásledovatelnost nikoho krom Krista
+80-16    25:20 -- následky křtu
+80-16    31:01 -- závaznost lidství
