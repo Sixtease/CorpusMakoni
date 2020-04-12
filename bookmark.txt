@@ -1,4 +1,4 @@
-exec mplayer -ss 0 80-17A.mp3
+exec mplayer -ss 0 80-17B.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2363,5 +2363,17 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-16 01:08:16 -- rozbor jména Karel Makoň
 80-16 01:16:41 -- prosebná modlitba
 80-16 01:21:24 -- výklad Otčenáše
-80-16 01:33:39 -- Otčenáš ve spojitosti s Ježíšovým životem
-80-17A     0 -- 
+80-16 01:33:39 -- shrnutí Ježíšova života
+80-17A     0 -- (pokračování @80-16:01:33:39)
+80-17A 02:17 --   jak zrodit Ježíše
+80-17A 08:23 --   vyprázdnění od sebe; nastoupení nového smyslu života bez váhání; jiná stránka prosebné modlitby
+80-17A 11:35 --   
+80-17A 23:20 --   moment spásy a stav spásy
+80-17A 24:33 --   rekrutování a přetvoření vlastností; i Jidáš křtil
+80-17A 30:19 --   vedení od církve končí osobním vedením
+80-17A 33:50 --   fáze po puštění učedníků od Ježíše
+80-17A 36:17 -- prosebná modlitbe ve vztahu k Ježíšovu životu
+80-17A 39:41 -- podle křesťanů se to Bohu vymklo z ruky
+80-17B     0 -- mistrovství prosebné modlitby
+80-17B 02:12 -- světec a zasvěcenec
+80-17B 06:51 -- spása vírou
