@@ -1,4 +1,4 @@
-exec mplayer -ss 38:28 80-17B.mp3
+exec mplayer -ss 0 80-18.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2378,7 +2378,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-17B 02:12 -- světec a zasvěcenec
 80-17B 06:51 -- spása vírou
 80-17B 14:54 -- nebrat si příklad z chyb sv. Terezie; nelze jít jako někdo jiný; lze jít analogicky
-80-17B 17:08 -- jak může bůh odvrhnout někoho, kdo se k němu v důvěře modlí? Protože se modlí za stvořené, ne za spásu
+80-17B 17:08 -- jak může Bůh odvrhnout někoho, kdo se k němu v důvěře modlí? Protože se modlí za stvořené, ne za spásu
 80-17B 21:01 -- lze se modlit tak vznešeně, aby už člověk nebyl sám sebou?
 80-17B 24:16 -- kdo je jat modlitbou
 80-17B 27:30 -- Albertus Magnus; spojení vědy a teologie; spojení modlitby a života; porozumění Božím vnuknutím
@@ -2386,3 +2386,10 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-17B 33:45 -- jednota modlitby se životem
 80-17B 35:08 -- nelze být jen pasivní; Albertus Magnus; teologie musí jít vstříc vědě
 80-17B 38:28 -- pojem spasení
+80-17B 42:19 --   věčnost stavu, dočasné přebývání
+80-18        0 -- (pokračování @80-17B:42:19)
+80-18    16:00 -- extaze není radost, ale vytržení na jinou úroveň; Ježíšovy extaze v Jordánu a na kříži
+80-18    20:00 -- extaze jako dočasné přijetí jiného jména; autentičnost evangelií
+80-18    24:52 -- důvody dočasnosti extaze
+80-18    30:26 -- za extaze se lze dostat jen mocí Boží
+80-18    35:09 -- 
