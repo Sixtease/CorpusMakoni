@@ -1,4 +1,4 @@
-exec mplayer -ss 0 80-18.mp3
+exec mplayer -ss 0 81-02B.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2392,4 +2392,66 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-18    20:00 -- extaze jako dočasné přijetí jiného jména; autentičnost evangelií
 80-18    24:52 -- důvody dočasnosti extaze
 80-18    30:26 -- za extaze se lze dostat jen mocí Boží
-80-18    35:09 -- 
+80-18    35:09 -- Ježíšova lidská slabost; dobrovolná cesta; jediný vzor v Ježíši
+80-18    40:23 -- vlastní silou se nedá dostat ani k extazi
+80-18    41:18 -- extatická fáze podle katolické církve; extaze jako zastaralý prostředek
+80-18    45:55 -- být poddán okolí, nejsem-li si vědom spojení s Bohem
+80-18    48:57 -- tradiční rozpojední života a modlitby
+80-18    58:44 -- svět je ve zlu postaven; být dokonalý jako Otec; tvrdá kritika tradice
+80-18 01:05:06 -- děti jsouce zlé mají základnu pro vstup do království Božího
+80-18 01:06:53 -- rovnovážný postup u Ježíše
+80-18 01:08:11 --   bdělé čekání učedníků při Ježíšově ukřižování, vstupu do pekla a na nebesa
+80-18 01:09:16 --   komplexnost a návaznost biblické symboliky
+80-18 01:11:58 -- vstup dítěte do nebe přes ráj
+80-18 01:15:56 -- učit dítě soustavně hodnotit
+80-18 01:19:26 -- vnější události pocházejí z vnitřku; oprávněná starost o Ježíše po fázi dětství
+80-18 01:23:23 -- vnuknutí a tušení
+80-18 01:27:27 -- důležitost života oproti modlitbě
+80-18 01:32:27 -- shrnutí střední fáze modlitby
+80-18 01:34:35 -- poslední třetí fáze modlitby
+80-19A     0 -- Boží vnuknutí poskytuje sílu
+80-19A 01:35 -- události v Ježíšově životě lze vyložit jen v souvislosti s předchozími událostmi; ochota vzdát se darů
+80-19A 08:27 -- je modlitba vyslyšena na kříži?
+80-19A 10:25 -- pojďte ke mně všichni; spása Jidášova (výborné)
+80-19A 14:02 -- kořeny lidské bytosti; láska ještě nemůže být vůdčím prvkem ve světě
+80-19A 21:43 -- mít sebe za nic
+80-19A 23:48 -- význam hlásek
+80-19A 30:09 -- "Gottwaldov, 19. března 1981"
+80-19A 30:16 -- co je pokrok na duchovní cestě; opuštění sebe a návrat k sobě
+80-19A 33:24 -- pravá meditace
+80-19A 38:14 -- činnost svými silami nikdy není spojovací modlitba
+80-19A 41:20 -- na přechod od povídavé modlitby není jednotný recept, záleží na sebepoznání
+80-19A 43:02 -- konkrétní důvěra v Boží vedení
+80-19A 44:42 -- sebeumrtvování
+80-X-diskuse-Praha     0 -- zapírání sebe a zapírání Krista
+80-X-diskuse-Praha 04:48 -- touha po spáse a Boží touha po mně; být v rukou Božích; první přikázání je nevlastnit
+80-X-diskuse-Praha 10:13 -- ztráta rodiny, ztráta víry
+80-X-diskuse-Praha 11:18 -- není podmínkou víra, ale Jan 3,14
+80-X-diskuse-Praha 13:40 -- proč nemohl dát Ducha svatého hned
+80-X-diskuse-Praha 15:35 -- jednat pro sebe nebo vyhovět pocitu správnosti
+81-01B     0 -- 
+81-01B 01:23 -- zajišťování jistoty učedníkům
+81-01B 05:42 -- jistota učedníků
+81-01B 06:11 -- "20. března 1981"
+81-01B 06:15 -- Sladké jho: rozpojení; úroveň a naplnění Starého záokna
+81-01B 09:58 -- vnitřní život SZ proroků a jejich vedení židů (výborné)
+81-01B 18:02 -- zkušenost přináší narození mesiáše
+81-01B 18:55 -- shrnutí starozákonního rozpojení: proroci vedli lid k tomu, aby se dal vést
+81-01B 25:47 -- dvě příčiny utrpení
+81-01B 27:51 -- rozpojit se znamená poslouchat, vyjít ze sebe
+81-01B 32:00 -- jak máme bez proroků jít k Bohu? naše stylizace je dokonalejší
+81-01B 46:39 -- nebyla stylizace starověkých otroků dokonalejší? To ale nebyli členové národa
+81-02A     0 -- (pokračování @81-01B:46:39) starověké společnosti a stylizace života
+81-02A 04:50 -- postavit zastaralé na novou základnu; zchudnutí šlechty
+81-02A 08:22 -- člověk neví, že spásu hledat pro sebe je marné; neví, co dělá
+81-02A 11:29 -- čas nelze prorokovat; fakta lze prorokovat díky zkušenosti
+81-02A 15:51 -- úrovně Ježíšova poučování; význam metody
+81-02A 18:05 -- význam společnosti
+81-02A 19:54 --   lidský prvek; války jsou tu kvůli mně
+81-02A 20:39 --   záchrana Jeruzaléma
+81-02A 21:53 -- není žádný osud
+81-02A 23:01 -- nestačí se rozpojit, třeba nový smysl života
+81-02A 24:26 -- příklad přijetí nového smyslu života; druhý díl SJ ve zkratce
+81-02A 34:20 -- činnost musí být doplněna trpností
+81-02A 35:28 -- spojení láskou
+81-02B     0 -- 
