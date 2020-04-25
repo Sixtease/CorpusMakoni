@@ -1,4 +1,4 @@
-exec mplayer -ss 0 81-02B.mp3
+exec mplayer -ss 19:00 81-03A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2454,4 +2454,29 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-02A 24:26 -- příklad přijetí nového smyslu života; druhý díl SJ ve zkratce
 81-02A 34:20 -- činnost musí být doplněna trpností
 81-02A 35:28 -- spojení láskou
-81-02B     0 -- 
+81-02B     0 -- s Ježíšem se dát ukřižovat
+81-02B 05:26 -- Janova cesta pod kříž
+81-02B 11:23 -- omezování lásky na cit
+81-02B 17:03 -- sebeopuštění ve spánku
+81-02B 18:49 -- dokonalost přípravy
+81-02B 31:38 -- boj se strážcem prahu
+81-02B 36:30 -- přechod u magika a mystika
+81-02B 38:08 -- extaze není třeba, jde-li se ničím
+81-02B 40:40 -- náležet Bohu mohu jen tím, čeho se u sebe vzdám
+81-02B 46:06 -- setrvačnost modlitby; ne úměra, ale závislost modlitby na sebeztrátě
+81-03A     0 -- ztotožnění s pomíjejícím organismem
+81-03A 01:13 -- Abraham jako předobraz Krista
+81-03A 02:56 -- vyšší než prosebná modlitba je oběť
+81-03A 07:07 -- co je a co není modlitba
+81-03A 09:41 -- modlitba v duchu a pravdě
+81-03A 14:29 -- jak těžké je dostat se do království Božího
+81-03A 16:54 -- příliš vlastní vůle
+81-03A 18:42 -- ne předurčenost, ale dispozice; dělej, k čemu máš dispozice a pak toho nech; klepání
+81-03A 20:28 -- ne muset, ale moci
+81-03A 23:37 -- být veden
+81-03A 27:52 -- povinnost nebo potřeba
+81-03A 31:25 -- jak se propracovat k tomu, aby modlitba byla potřebou
+81-03A 34:12 --   nepoznaná modlitba
+81-03A 37:59 --   
+81-03A 40:06 -- svlečení se na modlitbu
+81-03A 43:17 -- 
