@@ -1,4 +1,4 @@
-exec mplayer -ss 19:00 81-03A.mp3
+exec mplayer -ss 0 81-04A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2479,4 +2479,21 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-03A 34:12 --   nepoznaná modlitba
 81-03A 37:59 --   
 81-03A 40:06 -- svlečení se na modlitbu
-81-03A 43:17 -- 
+81-03A 43:17 -- utrpení a radost
+81-03B     0 -- "21. března 1981, první jarní den"
+81-03B    15 -- Ježíšova modlitba, při níž měl učedníky ve vědomí
+81-03B 06:33 -- Makoňova vyšší modlitba
+81-03B 08:39 -- posloupnost stupňů modlitby podle tradice
+81-03B 12:22 -- život z inspirace (učedníci) a z obsahu inspirace (Ježíš)
+81-03B 14:54 -- zlý duch v nás; zabití modlícího se od gestapáka
+81-03B 16:17 -- slepá víra
+81-03B 17:10 -- význam klášterů pro zachování tradice
+81-03B 19:44 -- nakládání s historickým vývojem; čest pro Zemi, že na ni sestoupil Bůh
+81-03B 24:53 -- jak využít symboliky Ježíšova života pro běžný lidský život
+81-03B 27:54 -- vývoj v biblických symbolech: zlatá doba, genesis
+81-03B 32:30 --   Abraham; omezenost a účel rozumu; vykročení do nejistoty
+81-03B 38:22 --     co je zaslíbená země
+81-03B 42:20 --     
+81-03B 46:45 --     co se nedá zachránit, od toho je třeba utéct
+81-03B 48:75 --   shrnutí symboliky Starého zákona
+81-04A     0 -- 
