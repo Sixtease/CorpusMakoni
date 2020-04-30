@@ -1,4 +1,4 @@
-exec mplayer -ss 0 81-04A.mp3
+exec mplayer -ss 0 81-04B.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2496,4 +2496,18 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-03B 42:20 --     
 81-03B 46:45 --     co se nedá zachránit, od toho je třeba utéct
 81-03B 48:75 --   shrnutí symboliky Starého zákona
-81-04A     0 -- 
+81-04A     0 -- nelze použít týž prostředek jako na předchozím stupni; biblický návod k životu
+81-04A 08:41 -- ne proroctví, ale zkušenost; v semeni lze vidět strom, vzrůst stromu ale není předurčen
+81-04A 11:43 -- nemilosrdný Bůh mstitel a soudce
+81-04A 16:14 -- zrození Ježíše
+81-04A 26:13 -- sedm lidských částí: átman, buddhi, manas a 4 těla
+81-04A 27:47 -- útěk do Egypta
+81-04A 29:18 -- vědomí o vězení v těle
+81-04A 30:42 -- fáze oddanosti okolí; technika života
+81-04A 34:56 -- dovršení fáze oddanosti okolí
+81-04A 36:40 -- aktivní a trpná stránka křtu v Jordánu
+81-04A 37:39 -- vyšší stavy nelze vysvětlit bez zkušenosti
+81-04A 43:02 -- Podobenství o marnotratném synu podle Ježíšova ducha
+81-04A 45:59 -- fáze od křtu k ukřižování
+81-04A 48:27 -- Ježíšova cesta lásky
+81-04B     0 -- 
