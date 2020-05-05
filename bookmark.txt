@@ -1,4 +1,4 @@
-exec mplayer -ss 0 81-04B.mp3
+exec mplayer -ss 32:00 81-05A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2509,5 +2509,27 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-04A 37:39 -- vyšší stavy nelze vysvětlit bez zkušenosti
 81-04A 43:02 -- Podobenství o marnotratném synu podle Ježíšova ducha
 81-04A 45:59 -- fáze od křtu k ukřižování
-81-04A 48:27 -- Ježíšova cesta lásky
-81-04B     0 -- 
+81-04A 48:27 -- Ježíšova cesta lásky; různé podoby lásky u učedníků
+81-04B     0 -- (pokračování @81-04A:48:27)
+81-04B 07:26 --   ostatky Lazara, Marka, Petra a Pavla
+81-04B 10:00 --   
+81-04B 10:35 -- přechod od osobního k neosobnímu vedení
+81-04B 18:41 -- chyba tradice, že příliš spoléhala na lidské schopnosti; zavírání do klášterů
+81-04B 23:24 -- chyba tradice, že k vyšším stupňům modlitby chtěli spět vývojově a přes extaze
+81-04B 25:52 -- utrpení spojené s vypadením z extaze není přirozenou součástí cesty
+81-04B 26:54 -- sebepoznání od Boha; být ničím
+81-04B 28:23 -- Janovo a Terezino přiblížení ke kříži
+81-04B 30:54 -- jít znova od ničeho; bohatý mládenec
+81-04B 33:22 -- bohatství mezi mnou a Bohem
+81-04B 36:50 -- reakce příbuzných K.M. na jeho mystiku
+81-04B 39:38 -- modlitba za učedníky
+81-04B 41:03 -- hořící srdce; nepoznání vskříšeného Ježíše
+81-04B 42:09 -- prokletí fíkovníku
+81-05A     0 -- zastavení paměti proti neklidu
+81-05A 11:05 -- jak vyloučit ze života rušivé akce: cele směřovat k učednictví; vyloučit, na co nestačím
+81-05A 16:59 --   co když na to nestačím, ale musím
+81-05A 20:30 --   radostně přisluhovat
+81-05A 20:51 --   vysvětlení žákům, že neučím ze sebe: podobenství druhého dechu
+81-05A 22:27 --   vyloučení situace
+81-05A 24:23 -- co je prosebná modlitba
+81-05A 32:35 -- 
