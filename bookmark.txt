@@ -1,4 +1,4 @@
-exec mplayer -ss 40:54 81-06A.mp3
+exec mplayer -ss 0 81-07A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2557,4 +2557,15 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-06A 19:50 -- láska podle Pavla a podle Ježíše; následování Ježíšova příkladu
 81-06A 21:43 -- "Brno, 16. května 1981"
 81-06A 21:48 -- karma a Boží zákonitosti
-81-06A 40:54 -- 
+81-06B     0 -- (pokračování @81-06A:21:48) každá zákonitost je příležitostí k ukázání Boží slávy
+81-06B 03:42 -- shrnutí karmických zákonitostí: Bůh soudce, otec, činitel, osvětitel
+81-06B 13:51 -- nemilosrdnost Boží a slepé fungování zákonitostí
+81-06B 14:25 -- vtělování Boží; rozvinutí života
+81-06B 22:42 -- Máří Magdalena jako Ježíšova partnerka
+81-06B 23:25 -- dobrovolný odstup od rozvinutého života
+81-06B 24:42 -- podobenství o schodišti; úrovně od Jordánu
+81-06B 34:56 -- nesprávnost váhání
+81-06B 38:19 -- překážka v cestování mezi úrovněmi; představy o andělech
+81-06B 45:08 -- pozice vůči Bohu
+81-06B 48:21 -- život věčný
+81-07A     0 -- 
