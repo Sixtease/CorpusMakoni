@@ -1,4 +1,4 @@
-exec mplayer -ss 0 81-07A.mp3
+exec mplayer -ss 01:20:30 81-08.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2568,4 +2568,33 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-06B 38:19 -- překážka v cestování mezi úrovněmi; představy o andělech
 81-06B 45:08 -- pozice vůči Bohu
 81-06B 48:21 -- život věčný
-81-07A     0 -- 
+81-07A     0 -- (pokračování @81-06B:48:21)
+81-07A 01:11 --   jednání z moci Ducha svatého
+81-07A 05:00 --   
+81-07A 08:17 -- jako v nebi tak i na zemi
+81-07A 11:15 -- potřeba člověka na poznání Boha
+81-07A 13:38 -- individuální otčenáš
+81-07A 16:27 -- činy nepřinášejí lineárně odezvu
+81-07A 26:56 -- "17. května 1981"
+81-07A 27:03 -- umění žít
+81-07A 36:30 -- trojjedinost Boží; poznání Boha jako stvořitele podle starozákonního receptu
+81-07B     0 --   okruhy zákonitostí
+81-07B 07:59 --   přítomný okamžik
+81-07B 11:35 --   tvůrčí činnost Boží
+81-07B 13:12 --   páry dvojic; přitažlivost a odstředivost
+81-07B 16:17 --   z okruhu Boha soudce k okruhu Boha otce
+81-07B 19:25 --   disciplínou k dalšímu vzestupu; podmínky pro užitek ctností
+81-07B 21:42 -- osobní vedení Bohem není vrchol; Bůh jediným činitelem
+81-07B 26:41 -- láskyplná pomoc lidem; věčný život jako spolupráce s Bohem
+81-07B 30:40 -- na vyšších úrovních je třeba vyšší formy modlitby; vedení Duchem svatým; křest po sestoupení Ducha svatého
+81-07B 43:16 -- učedník Páně osvícený Duchem svatým měl za sebou celou biblickou historii
+81-07B 44:53 -- odrůstání víře; objektivní poznání Boha
+81-08        0 -- (pokračování @81-07B:44:53)
+81-08    17:15 -- mnoho povolaných, málo vyvolených
+81-08    24:57 -- předurčenost; sv. Pavel a Jan
+81-08    34:36 -- jak Ramakrišna házel lidi do řeky Wang
+81-08    36:42 -- Kristův záměr s učedníky; příbytek v nebi; symbolismus Ježíše
+81-08    46:03 --   křesťanství je první kolektivní cesta
+81-08    51:45 -- kdo věří ve mě, bude konat větší skutky než já, neboť jdu k Otci
+81-08 01:01:26 -- buďte jako děti
+81-08 01:11:00 -- rozdej jmění chudým a následuj mě; povolání Matoušovo; jidáš svatý patron ekonomů
