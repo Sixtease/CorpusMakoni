@@ -1,4 +1,4 @@
-exec mplayer -ss 01:20:30 81-08.mp3
+exec mplayer -ss 56:00 81-09.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2598,3 +2598,14 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-08    51:45 -- kdo věří ve mě, bude konat větší skutky než já, neboť jdu k Otci
 81-08 01:01:26 -- buďte jako děti
 81-08 01:11:00 -- rozdej jmění chudým a následuj mě; povolání Matoušovo; jidáš svatý patron ekonomů
+81-08 01:24:30 --   neberte / berte si meč a měšec
+81-08 01:27:11 --   komuny; vnější majetek
+81-08 01:32:32 -- buďte dokonalí jako Otec, milujte ze vší síly
+81-09        0 -- nevhodnost skromnosti
+81-09    02:00 -- nehodní lidé jako nástroje Boží; zpovědník sv. Terezie; podstata úřadu nad kvalitou úředníka
+81-09    07:15 -- Ježíš jde pro každého tam, kde onen je; děti
+81-09    12:30 -- vegetariánství
+81-09    19:30 -- "Praha, 12. září 1981"
+81-09    19:35 -- buddhistická nauka velkého a malého vozu
+81-09    51:13 -- Oshova aplikace buddhismu
+81-09    53:09 -- extaze
