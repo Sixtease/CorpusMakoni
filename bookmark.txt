@@ -1,4 +1,4 @@
-exec mplayer -ss 56:00 81-09.mp3
+exec mplayer -ss 38:00 81-10.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2609,3 +2609,17 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-09    19:35 -- buddhistická nauka velkého a malého vozu
 81-09    51:13 -- Oshova aplikace buddhismu
 81-09    53:09 -- extaze
+81-09    58:21 -- nic nedělat
+81-09 01:02:44 -- "Praha, 13. září 1981"
+81-09 01:02:50 -- starověká a Ježíšova cesta
+81-09 01:34:24 -- Ježíš jako vymodlený avatar
+81-10        0 -- (pokračování @81-09:01:34:24)
+81-10    02:29 -- časoprostorový symbolismus
+81-10    10:13 -- osvícení zastupuje extazi
+81-10    17:20 --   proč se můžeme dostat na konec cesty za jednu inkarnaci
+81-10    24:59 --   zachování úrovně výkladu
+81-10    27:58 --   automatismus II jako cizopasník
+81-10    30:08 --   
+81-10    38:40 -- "Brno, 12. prosince 1981"
+81-10    38:44 -- frekvence vědomí; styk s oním světem; nadpřirozené události
+81-10 01:28:34 --   umělé dýchání pránou
