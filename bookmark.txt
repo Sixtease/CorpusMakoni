@@ -1,4 +1,4 @@
-exec mplayer -ss 38:00 81-10.mp3
+exec mplayer -ss 01:01:30 81-11.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2622,4 +2622,19 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-10    30:08 --   
 81-10    38:40 -- "Brno, 12. prosince 1981"
 81-10    38:44 -- frekvence vědomí; styk s oním světem; nadpřirozené události
-81-10 01:28:34 --   umělé dýchání pránou
+81-10 01:28:34 --   umělé dýchání pránou; smrt manželčina
+81-11        0 -- (pokračování @81-10:38:44) posmrtný život
+81-11    08:51 --   trvání astrálního života
+81-11    22:27 --     přivolání zemřelého
+81-11    26:02 --     Wiesner kádrující K.M. ze záhrobí
+81-11    33:30 -- nejisté přechodné setkání se světlem Božím po smrti
+81-11    35:27 -- po smrti buď do astrálu nebo k Bohu, podle okamžiku smrti
+81-11    36:35 -- těžkosti přechodu mezi úrovněmi
+81-11    40:54 -- lidská iniciativa pro znovunavázání spojení
+81-11    42:02 -- transformace záhrobního záření na sluneční; kradení ze záhrobního světa
+81-11    45:04 -- co je to duchovní slunce; závislost života na záření
+81-11    46:10 -- jak starozákonní oběť naklonila Boží přízeň; síla představy a víry
+81-11    48:35 -- dinosauři
+81-11    52:22 --   biologická paměť a reinkarnace
+81-11    53:35 -- splynutí s Bohem podle Indů; rovnoběžnost k životu Božímu; v astrálním světě nejsme u Boha; styk se svatými
+81-11 01:01:30 -- 
