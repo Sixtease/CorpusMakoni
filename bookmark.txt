@@ -1,4 +1,4 @@
-exec mplayer -ss 01:01:30 81-11.mp3
+exec mplayer -ss 0 81-12.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2637,4 +2637,13 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-11    48:35 -- dinosauři
 81-11    52:22 --   biologická paměť a reinkarnace
 81-11    53:35 -- splynutí s Bohem podle Indů; rovnoběžnost k životu Božímu; v astrálním světě nejsme u Boha; styk se svatými
-81-11 01:01:30 -- 
+81-11 01:01:30 -- setkat se lze jen se svatým, jenž měl podobnou cestu
+81-11 01:02:33 -- převtělování tisíců bytostí do jednoho roztěkaného člověka
+81-11 01:04:35 -- astrologie
+81-11 01:08:44 -- opakování zkoušek v nových vtěleních; různost myšlení různých národů; československá fabrika v Hajdarabádu; věřit po svém
+81-11 01:13:46 -- "13. prosince 1982"
+81-11 01:13:51 -- technika se zaujetím
+81-11 01:16:14 --   zaujetí neplyne z vůle ale z poznání shora
+81-11 01:21:18 --   evropské napodobování indických technik
+81-11 01:24:48 -- co je království Boží; hořčičné semeno
+81-12        0 -- 
