@@ -1,4 +1,4 @@
-exec mplayer -ss 0 81-12.mp3
+exec mplayer -ss 0 81-13A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2645,5 +2645,20 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-11 01:13:51 -- technika se zaujetím
 81-11 01:16:14 --   zaujetí neplyne z vůle ale z poznání shora
 81-11 01:21:18 --   evropské napodobování indických technik
-81-11 01:24:48 -- co je království Boží; hořčičné semeno
-81-12        0 -- 
+81-11 01:24:48 -- co je království Boží; hořčičné semeno; soustředění do prsou
+81-12        0 -- přemáhání od Boha; dobrá vůle; nemožnost dosáhnout, jen dosahovat
+81-12    07:50 -- Vánoce; sluneční záření
+81-12    10:59 -- společné osudy manželky K.M. a její přítelkyně
+81-12    17:32 --   Jindřich Novotný a ručník s rakem
+81-12    19:35 -- převtělování částí bytostí
+81-12    24:49 -- oddělení od Boha stvořitele; věčná individualita
+81-12    32:20 --   podobenství o řece a moři
+81-12    33:06 -- rozdělení věčnosti na dvě átman a buddhi; funkce Boží reálně rozdělené; neexistence stvořitelova
+81-12    41:10 --   zkušenost s nestvořenou skutečností; Bůh je i není; Bůh jako lidský pojem
+81-12    45:29 --   buddhi a átman
+81-12    47:10 -- potřeba Božího kroku k nám
+81-12    49:06 -- nepřímá úměra námahy k výsledkům; zasazování do pole hospodářova
+81-12    58:43 -- závislost království Božího na člověku
+81-12 01:01:12 -- podobenství o sítě hozené do moře; andělské přebírání dobrého od zlého
+81-12 01:19:58 -- podobenství o kvasu ve třech měřicích mouky; podobenství o pokladu na poli; nemluvit o cestě
+81-13A     0 -- 
