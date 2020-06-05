@@ -1,4 +1,4 @@
-exec mplayer -ss 0 81-13A.mp3
+exec mplayer -ss 35:00 81-13A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2661,4 +2661,15 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-12    58:43 -- závislost království Božího na člověku
 81-12 01:01:12 -- podobenství o sítě hozené do moře; andělské přebírání dobrého od zlého
 81-12 01:19:58 -- podobenství o kvasu ve třech měřicích mouky; podobenství o pokladu na poli; nemluvit o cestě
-81-13A     0 -- 
+81-13A     0 -- (pokračování @81-12:33:06)
+81-13A 01:44 --   panna Maria jako spona
+81-13A 03:27 -- ustání role nesmrtelné duše a samskáry
+81-13A 06:18 -- manas, Boží vědomí vtělené do člověka; promrhání nebo zachování vědomí po fyzické smrti
+81-13A 08:19 -- správcovství v křesťanství; model pro moderní myšlení
+81-13A 10:56 -- omezení přemýšlivého myšlení
+81-13A 12:25 -- dopis pro umírajícího přítele Říhu
+81-13A 15:25 -- "Praha, 30. ledna 1982"
+81-13A 15:30 -- automatické spuštění automatismu II
+81-13A 19:56 -- Josef Svoboda, vysvětlení jména Makoň
+81-13A 27:21 -- dýchat za automatismus II, přítomný okamžik
+81-13A 29:18 -- zázrak jako vývojová nebo skoková událost
