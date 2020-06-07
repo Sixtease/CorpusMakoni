@@ -1,4 +1,4 @@
-exec mplayer -ss 35:00 81-13A.mp3
+exec mplayer -ss 11:00 82-01B.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2673,3 +2673,12 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 81-13A 19:56 -- Josef Svoboda, vysvětlení jména Makoň
 81-13A 27:21 -- dýchat za automatismus II, přítomný okamžik
 81-13A 29:18 -- zázrak jako vývojová nebo skoková událost
+81-13A 38:11 -- dokud nesplatíš poslední halíř; splácení láskou
+81-13A 41:20 -- zázraky nejsou
+81-13A 44:05 -- Jan pod křížem totožný s Ježíšem
+81-13A 44:46 -- umírající neztratí sama sebe; ztotožnění s tím, kdo myslí
+81-13A 48:15 -- představa o cestě k Bohu jako mapa
+82-01A 0 -- (duplicita @81-13A:15:25)
+82-01B     0 -- (pokračování @81-13A:48:15)
+82-01B 05:16 -- sebepoznání jako znalost mapy; zákonitost zázraku
+82-01B 07:25 -- zaujatost důležitější než činnost
