@@ -1,4 +1,4 @@
-exec mplayer -ss 11:00 82-01B.mp3
+exec mplayer -ss 33:58 82-02.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2682,3 +2682,23 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-01B     0 -- (pokračování @81-13A:48:15)
 82-01B 05:16 -- sebepoznání jako znalost mapy; zákonitost zázraku
 82-01B 07:25 -- zaujatost důležitější než činnost
+82-01B 09:09 -- tancem do transu pro odpočinek od sebe
+82-01B 12:00 -- neutrální činnost
+82-01B 12:56 -- při činnosti myslet na činnost; žít intenzivně v přítomnosti
+82-01B 14:58 -- složitá intenzivní činnost na rozdíl od jednoduché není modlitbou, musí být následována modlitbou na vyšší úrovni
+82-01B 17:48 -- vnitřní nedělání; z dění do nedění
+82-01B 23:36 -- zasvěcení strachem; oživení a živení automatismu II
+82-01B 25:33 -- vývojiové fáze podle Ježíšova vzoru
+82-01B 32:42 -- jít i slabostí a špatností
+82-01B 37:00 -- nezáleží na čase, ale na strachu, poslušnosti a informovanosti; i čas je symbol
+82-01B 40:25 -- Ježíš oproti starověku dbá na kvalitu, ne kvantitu
+82-01B 43:18 -- "Praha, 31. ledna 1982"
+82-01B 43:24 -- převádění zkušenosti do slov; zkrácený vývoj v matčině lůně
+82-02        0 -- indická zasvěcovací tradice
+82-02    09:57 -- Yesudianovo vedení Makoňova překladu; indické předávání tradice
+82-02    12:15 -- stylizace života po operacích
+82-02    23:14 -- k narození Ježíšovu netřeba času ani milosti, stačí to dovolit
+82-02    26:06 -- Jan a ostatní učedníci
+82-02    28:00 -- doba nazrála k odhalování tajemství
+82-02    29:59 -- zastarání prostředků po přechodu na vyšší úroveň
+82-02    33:58 -- extaze
