@@ -1,4 +1,4 @@
-exec mplayer -ss 33:58 82-02.mp3
+exec mplayer -ss 01:20:00 82-02.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2688,7 +2688,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-01B 14:58 -- složitá intenzivní činnost na rozdíl od jednoduché není modlitbou, musí být následována modlitbou na vyšší úrovni
 82-01B 17:48 -- vnitřní nedělání; z dění do nedění
 82-01B 23:36 -- zasvěcení strachem; oživení a živení automatismu II
-82-01B 25:33 -- vývojiové fáze podle Ježíšova vzoru
+82-01B 25:33 -- vývojoové fáze podle Ježíšova vzoru
 82-01B 32:42 -- jít i slabostí a špatností
 82-01B 37:00 -- nezáleží na čase, ale na strachu, poslušnosti a informovanosti; i čas je symbol
 82-01B 40:25 -- Ježíš oproti starověku dbá na kvalitu, ne kvantitu
@@ -2701,4 +2701,15 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-02    26:06 -- Jan a ostatní učedníci
 82-02    28:00 -- doba nazrála k odhalování tajemství
 82-02    29:59 -- zastarání prostředků po přechodu na vyšší úroveň
-82-02    33:58 -- extaze
+82-02    33:58 -- extaze; různá témata
+82-02    47:16 -- vyšší zákonitost
+82-02    49:47 -- opustit rodinu při křtu; opakovaný přechod
+82-02    51:56 -- nevíme, co činíme, jinak bychom ani nemohli
+82-02    53:47 -- v Jordánu se zažije, že Věčnost je jediný činitel
+82-02    56:25 -- Ježíš nedělal zázraky, ty dělá Boží moc v každém poslušném
+82-02    58:32 -- na kříži se překonává lidství; práce v příbytku u Boha
+82-02 01:03:04 -- cesta je z frekvence do ne-frekvence
+82-02 01:03:44 -- poslání K.M. vysvětlit cestu; podobenství o svatbě a o pannách s olejem; nemilosrdné zákonitosti
+82-02 01:08:17 -- neprotivit se společnosti
+82-02 01:09:40 -- brát ohled na opuštěnou úroveň
+82-02 01:13:17 -- vědět, co mám dělat především
