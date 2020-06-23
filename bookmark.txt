@@ -1,4 +1,4 @@
-exec mplayer -ss 01:20:00 82-02.mp3
+exec mplayer -ss 01:21:00 82-04.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2713,3 +2713,46 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-02 01:08:17 -- neprotivit se společnosti
 82-02 01:09:40 -- brát ohled na opuštěnou úroveň
 82-02 01:13:17 -- vědět, co mám dělat především
+82-02 01:26:05 -- kde jsem modlitbou, tam mám být životem; nelpět na prostředku; sv. Terezie a Jan z Kříže
+82-02 01:29:07 -- "Brno, 13. února 1982"
+82-02 01:29:12 -- klec Sluneční soustavy; sbalení a překonání časoprostoru
+82-03        0 -- (pokračování @82-02:01:29:12)
+82-03       18 -- duše připravené ke vtělení; lidské hloubky
+82-03    13:57 -- bytí a pocit bytí
+82-03    17:37 -- manželství
+82-03    31:23 -- co se chce vtělit; dojem a paměť
+82-03    39:05 --   rotor a stator, dění a nedění
+82-03    43:10 --   nalepení rance na genetický zápis; složitost Evropanů
+82-03    51:10 -- jak se odevzdat Bohu
+82-03    55:08 -- spojení s Bohem závisí na kvalitě cesty
+82-03    59:25 -- nalezení smyslu života
+82-03 01:02:56 -- pomoc od světců
+82-03 01:07:10 -- pomoc od nesmrtelné duše
+82-03 01:07:53 -- prosit, jako bych neprosil
+82-03 01:12:10 -- nutnost rozvinout život
+82-03 01:14:01 -- napodobování K.M.
+82-03 01:27:40 -- Sladké Jho je návod podle Ježíše Krista přes poznání K.M.
+82-03 01:30:38 -- "Brno, 14. února 1982"
+82-03 01:30:44 -- mechanika přenosu karmy
+82-03 01:35:08 -- Job a Satan
+82-04        0 -- (pokračování @82-03:01:35:08)
+82-04    04:39 -- ovlivňování zemřelých myšlenkami
+82-04    07:23 -- vedení dětí k duchovním cvičením
+82-04    13:09 -- zjednodušené pojetí karmy
+82-04    14:40 -- hodnota mše za mrtvého; očistná fáze před astrálním životem
+82-04    22:10 -- zpopelnění, astrální tělo
+82-04    28:39 -- prokletí náhlé smrti; výlučnost karmických balíků
+82-04    31:57 -- děděná genialita
+82-04    32:18 -- Ježíš sestoupil do pekel
+82-04    37:29 -- vybalení obrazů
+82-04    44:30 -- jogická dechová cvičení v kontextu křesťanství
+82-04    45:59 -- sv. Ignác z Loyoly; siddhis; nemilosrdnost Boží
+82-04    49:00 -- Jezuité
+82-04    49:45 -- Ilona Borská, průběžná aktualizace výkladu Mohameda
+82-04    50:30 -- Pio, Vianney; hromadné zpovědi
+82-04    54:22 -- správná zpověď
+82-04 01:00:06 -- rozumové odpovědi na otázky o Bohu; disponování se Boží milosti
+82-04 01:05:40 -- hřích v křesťanství a ve východních tradicích
+82-04 01:10:55 -- cesta, po které se nedá kráčet; vedení obrazem
+82-04 01:13:13 -- sumerské prameny Starého zákona; geocentrismus
+82-04 01:16:48 -- stvoření
