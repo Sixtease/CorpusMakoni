@@ -1,4 +1,4 @@
-exec mplayer -ss 01:21:00 82-04.mp3
+exec mplayer -ss 20:17 82-06.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2756,3 +2756,30 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-04 01:10:55 -- cesta, po které se nedá kráčet; vedení obrazem
 82-04 01:13:13 -- sumerské prameny Starého zákona; geocentrismus
 82-04 01:16:48 -- stvoření
+82-04 01:21:48 -- obdobné zákonitosti na různých úrovních
+82-04 01:26:07 -- extaze a cesta bez nich v různých tradicích
+82-04 01:28:25 -- léčení, odpouštění hříchů, přivolávání Ducha svatého
+82-04 01:32:53 -- kdo uvěří, bude spasen
+82-04 01:35:08 -- doslovný výklad Mohameda
+82-04 01:36:27 -- ospravedlnění ne skutky, ale z milosti
+82-05        0 -- (pokračování @82-04:01:36:27)
+82-05    06:24 -- když modlitba nejde
+82-05    17:50 -- přechod do samovolnosti; různá motivace pro vůli
+82-05    21:56 -- hlídání člověka od Boha
+82-05    24:28 -- osobní vedení člověka se nehodí pro ostatní
+82-05    30:05 -- nabytá jistota z vyšší úrovně a její trvalost
+82-05    33:33 --   jistota spadlá z nebe zároveň s prostředkem pro její obnovení
+82-05    37:10 --   potřebuje nadpřirozená jistota posilovat?
+82-05    39:29 --   oslabení vzpomínky na nabytou jistotu
+82-05    42:35 -- (vynechávka) použití funkcí Božích
+82-05    47:54 -- linearita a samovolnost použití funkcí Božích
+82-05    55:14 -- ztráta pocitu tělesnosti a přežití těla
+82-05    57:51 -- "Praha, 22. května 82"
+82-05    57:54 -- duchovní cesta je správná manipulace s vůlí
+82-05 01:04:16 --   troglodyt, Adam a Eva; narození v Betlémě
+82-05 01:13:44 --   rozvinutí lidského života; lidská a Boží vůle
+82-05 01:16:57 --   láskyplná činnost
+82-05 01:19:39 -- jít jako nic
+82-06        0 -- (pokračování @82-05:01:19:39)
+82-06    12:56 --   zázraky
+82-06    20:17 -- legendární rovina
