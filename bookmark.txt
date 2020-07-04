@@ -1,4 +1,4 @@
-exec mplayer -ss 20:17 82-06.mp3
+exec mplayer -ss 01:03:49 82-06.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2782,4 +2782,11 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-05 01:19:39 -- jít jako nic
 82-06        0 -- (pokračování @82-05:01:19:39)
 82-06    12:56 --   zázraky
-82-06    20:17 -- legendární rovina
+82-06    20:17 -- legenda o tom, jak 25 Indů režírovalo Makoňův život
+82-06    28:34 -- výklad legendy
+82-06    39:22 -- překlad Jogy dvou světů a zjevení Yesudianova
+82-06    51:02 -- význam Jogy dvou světů
+82-06    53:29 -- K.M. nesmí nic mít ze své práce; píše pro 21. století
+82-06    54:43 -- k čemu dal Ježíš návod, neděláme na jeden pokus
+82-06 01:00:42 -- dodržovat církevní přikázání a jak si počínat při přijímání
+82-06 01:03:49 -- 
