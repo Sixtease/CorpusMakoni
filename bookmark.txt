@@ -1,4 +1,4 @@
-exec mplayer -ss 01:03:49 82-06.mp3
+exec mplayer -ss 0 82-07.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2789,4 +2789,10 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-06    53:29 -- K.M. nesmí nic mít ze své práce; píše pro 21. století
 82-06    54:43 -- k čemu dal Ježíš návod, neděláme na jeden pokus
 82-06 01:00:42 -- dodržovat církevní přikázání a jak si počínat při přijímání
-82-06 01:03:49 -- 
+82-06 01:03:49 -- K.M. ví, na co se chceme ptát
+82-06 01:04:39 -- cesta ve dvojici; manželství K.M.
+82-06 01:12:50 -- láska ne citová ale volní
+82-06 01:27:26 -- sv. Pavel píše Upanišady; důležitost Ježíšových činů oproti slovům
+82-06 01:32:25 -- duchovní úroveň církve; zavržení Krista od církve; správné kněžství
+82-06 01:36:17 -- uzavření okruhu mezi lidskou a Boží vůlí
+82-07        0 -- nekonkrétní stav vůle a konkrétní následky
