@@ -1,4 +1,4 @@
-exec mplayer -ss 0 82-07.mp3
+exec mplayer -ss 27:00 82-07.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2795,4 +2795,6 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-06 01:27:26 -- sv. Pavel píše Upanišady; důležitost Ježíšových činů oproti slovům
 82-06 01:32:25 -- duchovní úroveň církve; zavržení Krista od církve; správné kněžství
 82-06 01:36:17 -- uzavření okruhu mezi lidskou a Boží vůlí
-82-07        0 -- nekonkrétní stav vůle a konkrétní následky
+82-07        0 -- nekonkrétní stav vůle a konkrétní následky; důležitost lidského prvku
+82-07    09:32 -- "23. května 1982"
+82-07    09:39 -- cesta života pro sebe a moderní cesta
