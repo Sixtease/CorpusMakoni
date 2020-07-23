@@ -1,4 +1,4 @@
-exec mplayer -ss 01:24:14 82-07.mp3
+exec mplayer -ss 07:30 82-08.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2811,4 +2811,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-07 01:11:01 -- duchovně mrtvý člověk
 82-07 01:15:14 -- přechod mezi zvířecím a lidským životem; paměť bránící jít za Bohem
 82-07 01:18:42 -- vycházet ze sebe nebo jít do sebe?
-82-07 01:24:14 -- duše, duch, ego
+82-07 01:24:14 -- duše, duch, ego; nesmrtelnost duše
+82-07 01:32:14 -- splynutí s Bohem vs. příbytek u Boha
+82-08        0 -- (pokračování @82-07:01:32:14)
+82-08    04:14 -- duch jako základ mysli
