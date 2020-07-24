@@ -1,4 +1,4 @@
-exec mplayer -ss 07:30 82-08.mp3
+exec mplayer -ss 32:38 82-08.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2814,4 +2814,12 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-07 01:24:14 -- duše, duch, ego; nesmrtelnost duše
 82-07 01:32:14 -- splynutí s Bohem vs. příbytek u Boha
 82-08        0 -- (pokračování @82-07:01:32:14)
-82-08    04:14 -- duch jako základ mysli
+82-08    13:02 -- spočinutí mysli v Bohu
+82-08    15:38 -- zdokonalující se sebevzdání; podobenství o vakuu
+82-08    19:13 -- jsme pomocníci Boží radosti ze stvoření
+82-08    20:09 -- "Gottwaldov, 6. června 1982"
+82-08    20:14 -- milost jako druh zákonitosti
+82-08    25:19 -- nelze pomýšlet na milost na základě zásluh
+82-08    27:43 -- zlo
+82-08    32:38 -- vraždila se mláďátka zrozená před Ježíšem
+82-08          -- Jidáš se zavraždil kvůli konci dvojnosti
