@@ -1,4 +1,4 @@
-exec mplayer -ss 32:38 82-08.mp3
+exec mplayer -ss 01:01:01 82-08.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2822,4 +2822,10 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-08    25:19 -- nelze pomýšlet na milost na základě zásluh
 82-08    27:43 -- zlo
 82-08    32:38 -- vraždila se mláďátka zrozená před Ježíšem
-82-08          -- Jidáš se zavraždil kvůli konci dvojnosti
+82-08    33:51 -- Jidáš se zavraždil kvůli konci dvojnosti; dorůstání do typu zla; jít slabostí
+82-08    36:30 -- dobro a soud
+82-08    38:49 -- utrpení ze zákona
+82-08    40:05 -- hranice zákonitostí; co je vidět z astrálního světa
+82-08    44:25 --   překonání meze tím, že život přeměním ve stav
+82-08    46:45 -- měli lidé před Kristem Ježíšův příklad?; nevědomost křesťanů; spása krví na kříži
+82-08    58:26 -- přechod ze samovolné činnosti
