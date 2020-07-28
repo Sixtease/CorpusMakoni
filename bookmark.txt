@@ -1,4 +1,4 @@
-exec mplayer -ss 01:01:01 82-08.mp3
+exec mplayer -ss 01:28:00 82-08.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2829,3 +2829,9 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-08    44:25 --   překonání meze tím, že život přeměním ve stav
 82-08    46:45 -- měli lidé před Kristem Ježíšův příklad?; nevědomost křesťanů; spása krví na kříži
 82-08    58:26 -- přechod ze samovolné činnosti
+82-08 01:02:50 -- nic na každém přechodu
+82-08 01:09:53 -- proč Bůh obětoval svého syna
+82-08 01:13:48 -- "Gottwaldov, 6. června 1982"
+82-08 01:13:54 -- (ticho)
+82-08 01:14:01 -- dlouhá utázka, jaký je Bůh a jak usilovat o neznámé království Boží
+82-08 01:14:45 --   tento život má týž smysl jako hledání království Božího
