@@ -1,4 +1,4 @@
-exec mplayer -ss 01:28:00 82-08.mp3
+exec mplayer -ss 46:00 82-09.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2835,3 +2835,10 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-08 01:13:54 -- (ticho)
 82-08 01:14:01 -- dlouhá utázka, jaký je Bůh a jak usilovat o neznámé království Boží
 82-08 01:14:45 --   tento život má týž smysl jako hledání království Božího
+82-08 01:34:03 -- fáze, kde nejde o věc
+82-09        0 -- osvědčit se v malém
+82-09    01:02 -- pocit oddělenosti, navázání na vesmír
+82-09    06:59 -- pomalost vedení událostmi
+82-09    13:48 -- jak se zbavit utrpení
+82-09    30:13 -- lze se zbavit utrpení bez krize?
+82-09    37:40 -- hmotné a duchovní příčiny utrpení
