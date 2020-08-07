@@ -1,4 +1,4 @@
-exec mplayer -ss 46:00 82-09.mp3
+exec mplayer -ss 01:17:18 82-09.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2842,3 +2842,8 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-09    13:48 -- jak se zbavit utrpení
 82-09    30:13 -- lze se zbavit utrpení bez krize?
 82-09    37:40 -- hmotné a duchovní příčiny utrpení
+82-09    57:24 -- jediná příčina utrpení je patření sobě; vedení událostmi
+82-09    59:32 -- překračování mezí zákonitostí
+82-09 01:14:07 -- osobní a obecné vztahy
+82-09 01:17:12 -- "Gottwaldov, 18. června 1982"
+82-09 01:17:18 -- pohled zasvěcených jinověrců na křesťany
