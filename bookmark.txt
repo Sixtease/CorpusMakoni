@@ -1,4 +1,4 @@
-exec mplayer -ss 53:30 82-10.mp3
+exec mplayer -ss 01:15:57 82-10.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2858,3 +2858,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-10    44:07 -- z vlastněné jistoty to spravované nejistoty
 82-10    47:20 --   poslušnost; Boží nemilosrdnost
 82-10    51:02 -- moudrost nejistoty; čím míň vím, tím prudčeji se mohu sebe vzdát
+82-10    59:59 -- vymazání já
+82-10 01:07:36 -- účel Starého zákona
+82-10 01:10:28 -- milost za milost bereme; vlastnění Krista
+82-10 01:15:57 -- změna kvality touhy
