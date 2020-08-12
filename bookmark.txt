@@ -1,4 +1,4 @@
-exec mplayer -ss 01:15:57 82-10.mp3
+exec mplayer -ss 17:00 82-11.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2862,3 +2862,9 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-10 01:07:36 -- účel Starého zákona
 82-10 01:10:28 -- milost za milost bereme; vlastnění Krista
 82-10 01:15:57 -- změna kvality touhy
+82-10 01:32:38 -- na vyšším stupni přestat chránit své
+82-10 01:34:35 -- hypotetický člověk neschopný cokoliv odevzdat
+82-11        0 -- (pokračování @82-10:01:34:35)
+82-11    02:35 -- škodlivost nevědomosti; každý život znamená posun kupředu
+82-11    04:24 -- výběr balíků
+82-11    14:43 --   balíky po smrti
