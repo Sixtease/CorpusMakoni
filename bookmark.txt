@@ -1,4 +1,4 @@
-exec mplayer -ss 17:00 82-11.mp3
+exec mplayer -ss 51:04 82-11.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2867,4 +2867,13 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-11        0 -- (pokračování @82-10:01:34:35)
 82-11    02:35 -- škodlivost nevědomosti; každý život znamená posun kupředu
 82-11    04:24 -- výběr balíků
-82-11    14:43 --   balíky po smrti
+82-11    14:43 --   balíky po smrti; oddělenost záhrobního života od vtělitelného dojmu
+82-11    20:42 --   hovor se zemřelými; život na druhém břehu
+82-11    25:16 --   přechod do plného astrálního života; vzpomínky na vtělení; dobíjení baterky mumifikací; podvědomí v astrálu; ne-věčnost na onom světě
+82-11    32:01 --   
+82-11    38:26 --   kdo odchází do věčného života
+82-11    42:05 --   malé a velké já
+82-11    44:46 --   nově nabalený balík může tížit
+82-11    47:24 -- nechtít Krista pro tento život
+82-11    51:04 -- svobodná vůle a předurčenost
+82-11    54:14 -- nic přirozenosti Boží
