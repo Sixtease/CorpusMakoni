@@ -1,4 +1,4 @@
-exec mplayer -ss 51:04 82-11.mp3
+exec mplayer -ss 14:00 82-12.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2877,3 +2877,11 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-11    47:24 -- nechtít Krista pro tento život
 82-11    51:04 -- svobodná vůle a předurčenost
 82-11    54:14 -- nic přirozenosti Boží
+82-11 01:04:33 -- setkání s čit
+82-11 01:12:53 -- podmíněnost předurčenosti
+82-11 01:25:44 -- čtyři předurčenosti, předurčenost partnera
+82-11 01:29:19 -- rozvinutost života včetně manželství
+82-11 01:34:11 -- "Gottwaldov, 20. června 1982"
+82-11 01:34:16 -- nevěřící následovníci Ježíšovi; vědomá cesta od Bohu k Bohu
+82-12        0 -- (pokračování @82-11:01:34:16)
+82-12    04:32 --   přikrývky vědomí hmotným, astrálním světem, rájem atp.
