@@ -1,4 +1,4 @@
-exec mplayer -ss 14:00 82-12.mp3
+exec mplayer -ss 1:07:00 82-12.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2885,3 +2885,10 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-11 01:34:16 -- nevěřící následovníci Ježíšovi; vědomá cesta od Bohu k Bohu
 82-12        0 -- (pokračování @82-11:01:34:16)
 82-12    04:32 --   přikrývky vědomí hmotným, astrálním světem, rájem atp.
+82-12    14:35 --   příznaky stanutí v Otcově domě
+82-12    19:15 -- odchod z Otcova domu na kříži
+82-12    28:40 -- je možné v tomto životě osamostatnit vědomí?
+82-12    47:44 --   (hučení)
+82-12    48:10 --   (ticho)
+82-12    48:21 --   
+82-12    51:15 -- kdy si člověk vzpomíná na otcovský dům: odpočinek; žena pěti mužů u studny
