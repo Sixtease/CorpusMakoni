@@ -1,4 +1,4 @@
-exec mplayer -ss 23:00 82-14.mp3
+exec mplayer -ss 52:00 82-14.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2922,4 +2922,9 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-13 01:25:31 --     cesta z něčeho do ničeho, za dimenze
 82-13 01:33:06 --   cesta poznání a Ježíš Kristus
 82-14        0 -- (pokračování @82-13:01:33:06)
-82-14    19:15 -- konec světa
+82-14    19:15 -- konec světa; osobní vůle; jak si Bůh přeje
+82-14    24:26 -- intuice jako vědecká milost
+82-14    32:46 -- absolutní vrchol, hřivny a vyprázdnění u vědce
+82-14    36:06 -- tanec Kálí na hřbetě Šivově
+82-14    41:36 -- kdykoliv je zapotřebí, intuice tady je
+82-14    48:18 -- toto je pravá, ale relativní skutečnost
