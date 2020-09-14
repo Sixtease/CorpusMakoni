@@ -1,4 +1,4 @@
-exec mplayer -ss 52:00 82-14.mp3
+exec mplayer -ss 04:50 82-15.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2928,3 +2928,14 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-14    36:06 -- tanec Kálí na hřbetě Šivově
 82-14    41:36 -- kdykoliv je zapotřebí, intuice tady je
 82-14    48:18 -- toto je pravá, ale relativní skutečnost
+82-14    53:15 -- hříchy proti Duchu svatému na cestě poznání
+82-14    56:20 -- rozhodnutí na cestě poznání
+82-14 01:20:29 -- cesta poznání jako soustava vidění
+82-14 01:21:20 -- vadí, když nevím, jak se rozhodnout?
+82-14 01:23:26 -- soustavná korekce po rozhodnutí z vlastní vůle
+82-14 01:32:14 -- proč Jan Evangelista nezemřel násilně
+82-14 01:35:16 -- starou lásku netřeba zavrhnout, ale staré poznání ano
+82-14 01:37:31 -- kdo je nevěřící
+82-15        0 -- (duplicita @82-14:01:35:25)
+82-15    01:26 -- krize na cestě poznání; jít za člověkem do jeho současného vědeckého poznání
+82-15    04:50 -- proč chtěl Ježíš vodu od ženy?
