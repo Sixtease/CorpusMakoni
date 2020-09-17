@@ -1,4 +1,4 @@
-exec mplayer -ss 04:50 82-15.mp3
+exec mplayer -ss 0 82-16.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2939,3 +2939,19 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-15        0 -- (duplicita @82-14:01:35:25)
 82-15    01:26 -- krize na cestě poznání; jít za člověkem do jeho současného vědeckého poznání
 82-15    04:50 -- proč chtěl Ježíš vodu od ženy?
+82-15    11:23 -- cesta poznání po linii vnitřní modlitby: smysly a mysl
+82-15    29:26 --   citový život
+82-15    37:37 --   známka správné cesty: zbystřování a rozšiřování vědomí
+82-15    39:52 -- rovnováha mezi vnitřní modlitbou a životem na cestě poznání
+82-15    44:57 --   podobenství o mořeplavbě
+82-15    46:23 --   
+82-15    48:59 -- jak se zbavit nánosů vědomí: intenzivně žít
+82-15    55:59 -- satipatthána
+82-15    57:29 -- úrovně přikrývek vědomí
+82-15 01:00:09 -- cesta poznání u K.M.
+82-15 01:13:42 -- modlitba jako zdroj poznání
+82-15 01:18:27 --   poslušnost na cestě poznání
+82-15 01:26:40 --   milovat Boha víc než sebe; podobenství o cedníku
+82-15 01:30:09 --   
+82-15 01:30:41 -- uskutečnění před poznáváním?
+82-15 01:33:06 -- sebevyprázdnění nikdy vlastním řádem
