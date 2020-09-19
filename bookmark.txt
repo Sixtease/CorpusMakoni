@@ -1,4 +1,4 @@
-exec mplayer -ss 0 82-16.mp3
+exec mplayer -ss 35:20 82-16.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2955,3 +2955,15 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-15 01:30:09 --   
 82-15 01:30:41 -- uskutečnění před poznáváním?
 82-15 01:33:06 -- sebevyprázdnění nikdy vlastním řádem
+82-16        0 -- nutnost průběžné kontroly, zda systém vede od člověka nebo k člověku
+82-16    01:09 -- nutnost přehodnocování systému
+82-16    05:05 -- jak poznat poznání odjinud
+82-16    08:46 -- je neposlechnutí poznání hříchem proti Duchu svatému?
+82-16    10:25 -- radost na cestě
+82-16    12:56 -- slova K.M. jsou jen podnět, je třeba spoléhat na Boha
+82-16    16:59 -- opora o soustavu
+82-16    19:27 -- co je sebazápor
+82-16    24:44 -- radost prostředkem nebo cílem
+82-16    27:18 -- důležitost přítomného okamžiku na cestě poznání
+82-16    31:47 -- interakce věčného s časným; dojem a nesmrtelná duše
+82-16    35:20 -- posmrtné štěpení dojmu a astrálního života
