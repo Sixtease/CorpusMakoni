@@ -1,4 +1,4 @@
-exec mplayer -ss 35:20 82-16.mp3
+exec mplayer -ss 01:30:18 82-16.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2966,4 +2966,20 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-16    24:44 -- radost prostředkem nebo cílem
 82-16    27:18 -- důležitost přítomného okamžiku na cestě poznání
 82-16    31:47 -- interakce věčného s časným; dojem a nesmrtelná duše
-82-16    35:20 -- posmrtné štěpení dojmu a astrálního života
+82-16    35:20 -- posmrtný život v astrálu nebo v ráji; lidé vtělení z ráje
+82-16    40:17 -- pomoc od Boha; nezávislost na radách; oč lze prosit
+82-16    51:36 -- modlitba za lásku na cestě poznání
+82-16    54:49 -- modlitba za světské věci
+82-16    59:26 -- nevrátit se do Betléma; nebýt zde doma
+82-16 01:03:00 -- shrnutí: obohacení cesty věřícího o poznání
+82-16 01:03:25 -- nechtít něco vědět
+82-16 01:05:19 -- jak si vycucat lásku z prstu
+82-16 01:07:55 -- dětská prostota
+82-16 01:10:51 -- jaká moudrost vede k poznání Boha
+82-16 01:15:40 -- pravé osvícení odvádí od sebe
+82-16 01:22:52 -- jak Bůh zabíjí člověka
+82-16 01:25:48 -- láska volí drastické prostředky, je-li člověk neposlušen
+82-16 01:26:57 -- chybná modlitba za svoji lásku
+82-16 01:28:42 -- zatím největší poznání K.M. je, že Bůh nás nedostižně miluje
+82-16 01:30:13 -- "Kaly, 7. července 1982"
+82-16 01:30:18 -- kdo je věřící
