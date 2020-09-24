@@ -1,4 +1,4 @@
-exec mplayer -ss 01:30:18 82-16.mp3
+exec mplayer -ss 39:00 82-17.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2983,3 +2983,12 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-16 01:28:42 -- zatím největší poznání K.M. je, že Bůh nás nedostižně miluje
 82-16 01:30:13 -- "Kaly, 7. července 1982"
 82-16 01:30:18 -- kdo je věřící
+82-17        0 -- (pokračování @82-16:01:30:18)
+82-17    06:11 -- cesta poznání pro nevěřícího; velkorysost vs. malichernost
+82-17    14:19 --   Makoňova teologie
+82-17    20:14 --   
+82-17    20:38 -- jedině nevěřící může dokonale poznávat Boha
+82-17    26:57 -- naučit se cestě nevěřícího; klec musí být reálná, aby ji šlo opustit
+82-17    29:18 -- lze podle návodu NZ rozšířit vědomí ve světě?
+82-17    32:51 -- na cestě poznání je podstatná část života službou ostatním lidem
+82-17    36:37 -- bezedné rozdávání
