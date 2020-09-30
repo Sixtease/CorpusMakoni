@@ -1,4 +1,4 @@
-exec mplayer -ss 39:00 82-17.mp3
+exec mplayer -ss 01:27:00 82-17.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -2988,7 +2988,20 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-17    14:19 --   Makoňova teologie
 82-17    20:14 --   
 82-17    20:38 -- jedině nevěřící může dokonale poznávat Boha
-82-17    26:57 -- naučit se cestě nevěřícího; klec musí být reálná, aby ji šlo opustit
-82-17    29:18 -- lze podle návodu NZ rozšířit vědomí ve světě?
-82-17    32:51 -- na cestě poznání je podstatná část života službou ostatním lidem
-82-17    36:37 -- bezedné rozdávání
+82-17    26:57 --   naučit se cestě nevěřícího; klec musí být reálná, aby ji šlo opustit
+82-17    29:18 --   lze podle návodu NZ rozšířit vědomí ve světě?
+82-17    32:51 --   na cestě poznání je podstatná část života službou ostatním lidem
+82-17    36:37 --   bezedné rozdávání; záměna prostředků; zachování nevíry
+82-17    45:08 -- poznávat myslí, silou atd
+82-17    50:27 -- zaujatost; sekulárnost vědy
+82-17 01:00:20 -- přírodovědecké vidění Boha u K.M.
+82-17 01:02:09 -- výběr zralých plodů; mnoho lásek
+82-17 01:05:24 -- prostá základna
+82-17 01:06:33 -- vyprázdnění od negativního a pozitivního
+82-17 01:11:51 -- pečlivé správcovství
+82-17 01:13:45 -- správcovství u věřícího a nevěřícího
+82-17 01:14:38 -- člověk bez nesmrtelné duše
+82-17 01:17:55 -- co je smrtelná duše
+82-17 01:18:58 -- vědomí jako nesmrtelný základ stvořeného
+82-17 01:22:09 -- lidské a vyšší hodnocení života
+82-17 01:25:58 -- mechanika zrození člověka
