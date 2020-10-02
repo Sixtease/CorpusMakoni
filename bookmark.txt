@@ -1,4 +1,4 @@
-exec mplayer -ss 01:27:00 82-17.mp3
+exec mplayer -ss 28:03 82-18.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -3004,4 +3004,15 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-17 01:17:55 -- co je smrtelná duše
 82-17 01:18:58 -- vědomí jako nesmrtelný základ stvořeného
 82-17 01:22:09 -- lidské a vyšší hodnocení života
-82-17 01:25:58 -- mechanika zrození člověka
+82-17 01:25:58 -- mechanika zrození člověka; přírodní zákonitosti; vtělování
+82-17 01:31:16 -- zahrady ohraničené jimým plotem než smrtí; elementální, astrální atd.
+82-18        0 -- shoda a moudrost v pohádkách různých kultur
+82-18    01:27 -- ztráta já
+82-18    10:47 -- funkce já ve vnitřní modlitbě; úměrnost vůle a funkce já
+82-18    14:59 --   začít s meditací
+82-18    16:03 --   spása je vstup Spasitele
+82-18    16:41 --   modlitba po spáse: přát si být v tom, co je Otce, tj. poznat Boha
+82-18    19:13 --   bytí v tom, co je Otce, se jeví jiným než smyslovým poznáváním
+82-18    25:06 --   po ukřižování
+82-18    27:30 --   shrnutí
+82-18    28:03 -- k čemu je vědět o funkci já
