@@ -1,4 +1,4 @@
-exec mplayer -ss 28:03 82-18.mp3
+exec mplayer -ss 01:10:52 82-18.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -379,7 +379,7 @@ kotouc-P01-a 01:08:48 -- život v čase a život v přítomnosti (boží)
 kotouc-P01-a 01:09:40 -- hra lásky na schovávanou s věčností
 kotouc-P01-a 01:10:53 -- nové začátky a pamětné navazování; nejsem-li ve Věčnosti, pak abych mohl vstoupit, musím opustit předešlé, nelze navázat; staré má být opuštěno a využito, ne zničeno
 kotouc-P01-a 01:15:07 -- 
-kotouc-P01-a 01:19:03 -- (nemakoň: četba dopisu od Víta pro Stáňu 25.4.1973)
+kotouc-P01-a 01:19:03 -- (nemakoň:VEl) četba dopisu pro Stáňu 25.4.1973
 kotouc-P01-c        0 -- zpětná vazba účastníkům Kalů 1973
 kotouc-P01-c    14:18 -- jak rozeznat dobrou a špatnou vnitřní modlitbu
 kotouc-P01-c    27:01 -- život je účelová půjčka
@@ -1457,7 +1457,7 @@ kotouc-77-brezen01-d 01:25:00 --   nepoužitelnost předchozích obdob Ježíše
 kotouc-77-brezen01-d 01:25:57 --   přístup k Ježíšovi přes algoritmy a rozum díky matematice apod.
 kotouc-77-brezen01-d 01:27:31 -- dřina rozpojení ve sladkém jhu
 74-01     0 -- dovolit Ježíši konat
-74-01 05:46 -- (nemakoň) Vít Elger o režii
+74-01 05:46 -- (nemakoň:VEl) o režii
 74-01 05:43 -- režie nebo pozvání
 74-01 07:30 -- návod na prosebnou modlitbu
 74-01 19:07 --   jiná úroveň příčin a následků
@@ -2186,7 +2186,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-08B 13:18 --   je-li mi bližní prostředníkem, jsem na poli hospodářově
 80-08B 13:47 -- modlitba ticha nemusí vést k extazi
 80-08B 15:28 -- "čtvrtý den měsíce července roku 1980"
-80-08B 15:34 -- (nemakoň:MS) čtení z Cesty bílého mraku
+80-08B 15:34 -- (nemakoň:MSk) čtení z Cesty bílého mraku
 80-08B 32:52 -- komentář k Cestě bílého mraku
 80-08B 42:26 -- nutnost meditace; co je meditace
 80-09A     0 -- (pokračování @80-08B:42:26) příprava na koncentraci
@@ -2195,7 +2195,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 80-09A 12:42 --   vrácení obětované radosti je volání Boží
 80-09A 14:00 --   odlivy z radosti; hospodaření s radostí
 80-09A 19:32 -- "Kaly, pátý den 1980"
-80-09A 19:38 -- (nemakoň:MS) úryvek o otázkách a odpovědích
+80-09A 19:38 -- (nemakoň:MSk) úryvek o otázkách a odpovědích
 80-09A 19:51 --   odpověď o otázkách a odpovědích
 80-09A 21:51 -- mantram
 80-09A 24:44 -- (nemakoň) čtený úryvek: strach dovolit Bohu odpovědět mi
@@ -2910,7 +2910,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-13    44:23 --   absence domimantní hodnoty v současnosti; náboženství budou zachraňovat aktivisté cesty poznání
 82-13    48:12 --   překážky na cestě poznání a víry
 82-13    49:44 --   ne cesta poznání ale systém poznání
-82-13    57:52 --   (nemakoň:MS) dotaz: je cesta jen na úrovni smyslů a rozumu?
+82-13    57:52 --   (nemakoň:MSk) dotaz: je cesta jen na úrovni smyslů a rozumu?
 82-13    58:18 --     vlastnosti cesty poznání
 82-13 01:04:54 --   cesta víry vs. cesta poznání
 82-13 01:10:24 --   opuštění víry na kříži
@@ -3015,4 +3015,17 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-18    19:13 --   bytí v tom, co je Otce, se jeví jiným než smyslovým poznáváním
 82-18    25:06 --   po ukřižování
 82-18    27:30 --   shrnutí
-82-18    28:03 -- k čemu je vědět o funkci já
+82-18    28:03 -- k čemu je vědět o funkci já: chybné použití vůle
+82-18    30:41 -- zaživší Ježíše před jeho narozením; obrazná řeč nesmrtelné duše
+82-18    33:16 -- sebeobět jako protiváha k prosebné modlitbě
+82-18    40:48 -- stupně prosebné modlitby; kdo unese modlit se Otčenáš; žalmy
+82-18    44:26 -- (nemakoň:VEl) otázka o rozporu zákazu prosit a výkladu prosebné modlitby
+82-18    44:45 --   prosba je nebezpečná věc a je třeba ji používat poučeně
+82-18    48:40 -- prosba za nadpozemské hodnoty
+82-18    51:31 -- je prosebná modlitba hloupá?
+82-18    53:10 -- od Boha k sobě nebo od sebe k Bohu; kladete blbé otázky
+82-18    53:33 -- "Kaly, 9. července 1982"
+82-18    53:37 -- shrnutí prosebné modlitby a úvod k meditativní
+82-18    59:41 -- prosba ve jménu Kristově
+82-18 01:01:50 -- úloha prosebné modlitby mimo jméno Kristovo; analýza vnitřních podmínek pro chvíle osvícení
+82-18 01:10:52 -- 
