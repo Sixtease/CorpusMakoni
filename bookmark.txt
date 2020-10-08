@@ -1,4 +1,4 @@
-exec mplayer -ss 01:10:52 82-18.mp3
+exec mplayer -ss 16:00 82-19.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -3028,4 +3028,14 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-18    53:37 -- shrnutí prosebné modlitby a úvod k meditativní
 82-18    59:41 -- prosba ve jménu Kristově
 82-18 01:01:50 -- úloha prosebné modlitby mimo jméno Kristovo; analýza vnitřních podmínek pro chvíle osvícení
-82-18 01:10:52 -- 
+82-18 01:10:52 -- prosit za to, co cítím, co potřebuju
+82-18 01:17:07 -- vyřazení Otčenáše pro nepoctivost a periodické zkoušení pro test současné úrovně
+82-18 01:19:04 -- úměrnost účinku prosebné modlitby k sebevyprázdnění / polepšení
+82-18 01:22:11 -- celobysostnost prosebné modlitby; prosebná modlitba neformulovaná; biblické příklady úspěšné prosebné modlitby
+82-18 01:33:02 --   sahání na posvátná místa
+82-18 01:34:16 -- vztah setníka a služebníka
+82-18 01:35:36 -- schéma prosba - ale ne má, ale tvá vůle se staň
+82-19        0 -- (pokračování @82-18:01:35:36) Ježíšovo utrpení na kříži; lámání hnátů
+82-19    02:46 -- neformulovaná prosebná modlitba
+82-19    07:24 -- je třeba vzít na sebe chorobu toho, za jehož uzdravení se modlím?
+82-19    10:49 -- rozjímavá modlitba
