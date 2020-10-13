@@ -1,4 +1,4 @@
-exec mplayer -ss 16:00 82-19.mp3
+exec mplayer -ss 50:53 82-19.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -3039,3 +3039,10 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-19    02:46 -- neformulovaná prosebná modlitba
 82-19    07:24 -- je třeba vzít na sebe chorobu toho, za jehož uzdravení se modlím?
 82-19    10:49 -- rozjímavá modlitba
+82-19    20:02 -- obsah rozjímání, aby vedl se spojení
+82-19    24:18 -- jít k Bohu dominantní vlastností: závislost pokroku na dominantní vlastnosti
+82-19    29:01 -- účinné použití lidských vlastností na cestě k Bohu: nemít jinou starost a povinnost než království Boží
+82-19    34:33 -- zapojení negativních vlastností: ukojit, aby nepřekážely (výborné)
+82-19    43:55 -- rozjímání z odevzdání propojeného já
+82-19    46:32 -- příklad boje s alkoholismem: Ramakrišna a Latu
+82-19    50:53 --   pohádka
