@@ -1,4 +1,4 @@
-exec mplayer -ss 50:53 82-19.mp3
+exec mplayer -ss 01:10:02 82-19.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -3045,4 +3045,8 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-19    34:33 -- zapojení negativních vlastností: ukojit, aby nepřekážely (výborné)
 82-19    43:55 -- rozjímání z odevzdání propojeného já
 82-19    46:32 -- příklad boje s alkoholismem: Ramakrišna a Latu
-82-19    50:53 --   pohádka
+82-19    50:53 --   pohádka; syntéza
+82-19    54:58 -- za rozjímavou modlitbu; nedostatečnost tradice; sjednocení bytosti; Ježíšův recept
+82-19 01:02:36 -- snazší sjednocení nectnostného člověka
+82-19 01:03:50 -- exercicie Ignáce z Loyoly; ctnost jako prerekvizita mystiky
+82-19 01:10:02 -- dispozice k Boží milosti
