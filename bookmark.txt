@@ -1,4 +1,4 @@
-exec mplayer -ss 01:10:02 82-19.mp3
+exec mplayer -ss 0 82-20.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -3049,4 +3049,9 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-19    54:58 -- za rozjímavou modlitbu; nedostatečnost tradice; sjednocení bytosti; Ježíšův recept
 82-19 01:02:36 -- snazší sjednocení nectnostného člověka
 82-19 01:03:50 -- exercicie Ignáce z Loyoly; ctnost jako prerekvizita mystiky
-82-19 01:10:02 -- dispozice k Boží milosti
+82-19 01:10:02 -- dispozice k Boží milosti: lakúny místo milostí
+82-19 01:14:01 -- podrobný návod na vytvoření lakúny pro přivolání milosti; rozjímavý život
+82-19 01:22:18 -- někdy je dobré jít na chvíli do ústraní (nesrozumitelné)
+82-19 01:23:13 -- soustředění: zaujetím k samadhi bez potřeby času
+82-19 01:33:13 -- soustředění musí být na obsah předmětu, nejen na předmět
+82-20        0 -- 
