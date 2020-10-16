@@ -1,4 +1,4 @@
-exec mplayer -ss 0 82-20.mp3
+exec mplayer -ss 17:31 82-20.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -3054,4 +3054,9 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-19 01:22:18 -- někdy je dobré jít na chvíli do ústraní (nesrozumitelné)
 82-19 01:23:13 -- soustředění: zaujetím k samadhi bez potřeby času
 82-19 01:33:13 -- soustředění musí být na obsah předmětu, nejen na předmět
-82-20        0 -- 
+82-20        0 -- koncentrace ani ztráta pocitu tělesnosti nezaručují vzestup, musí být naštěpován obsah
+82-20    01:57 -- náhrada automatismu I automatismem II; fyzika prány
+82-20    05:00 -- modlitba do nebe, stříbrný déšť Anežky České
+82-20    06:19 -- soustředění do těla; tělo jako síto, na němž při koncentraci ulpí lidské
+82-20    09:58 -- předměty koncentrace: obraz, zvuk, touha; přechod za předmět koncentrace
+82-20    14:41 -- koncentrace na různé části těla
