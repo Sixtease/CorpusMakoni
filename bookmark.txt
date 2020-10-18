@@ -1,4 +1,4 @@
-exec mplayer -ss 17:31 82-20.mp3
+exec mplayer -ss 01:24:27 82-20.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -3059,4 +3059,14 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-20    05:00 -- modlitba do nebe, stříbrný déšť Anežky České
 82-20    06:19 -- soustředění do těla; tělo jako síto, na němž při koncentraci ulpí lidské
 82-20    09:58 -- předměty koncentrace: obraz, zvuk, touha; přechod za předmět koncentrace
-82-20    14:41 -- koncentrace na různé části těla
+82-20    14:41 -- koncentrace na různé části těla; mysl na sebe bere tvar předmětu soustředění
+82-20    21:10 -- soustředění na Boha, až na to budu mít čas
+82-20    23:17 -- ne jak na soustředění, ale jak získat touhu; soustředění na tělo a na nebe
+82-20    27:12 -- nutnost touhy pro soustředění, jinak se usne; nařízená koncentrace (místy nesrozumitelné)
+82-20    39:28 -- soustředění do nohou se zauzlením, hadí síla v anahatě (místy nesrozumitelné)
+82-20    53:33 -- v jakém duchu se má dělat písmenová koncentrace, aby chránila před chorobami
+82-20 01:02:10 -- bezprostřední příprava na koncentraci
+82-20 01:05:55 -- indukce při skupinové koncentraci
+82-20 01:08:10 -- "Kaly, 10. července 1982"
+82-20 01:08:16 -- mše jako starověký obřad theofágie
+82-20 01:24:27 -- 
