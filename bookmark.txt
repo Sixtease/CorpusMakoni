@@ -1,4 +1,4 @@
-exec mplayer -ss 01:24:27 82-20.mp3
+exec mplayer -ss 34:51 82-21A.mp3
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -3069,4 +3069,18 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-20 01:05:55 -- indukce při skupinové koncentraci
 82-20 01:08:10 -- "Kaly, 10. července 1982"
 82-20 01:08:16 -- mše jako starověký obřad theofágie
-82-20 01:24:27 -- 
+82-20 01:24:27 -- ryba jako symbol Ježíše Krista
+82-20 01:25:36 -- slovo Mithra
+82-20 01:26:30 -- zabití zvířete; obelhání já; neuveď nás v pokušení; Makoňův dětský zápas s alkoholem
+82-20 01:35:00 -- mše svatá; kněžské sebeobelhávání
+82-21A     0 -- (pokračování @82-20:01:35:00)
+82-21A 04:17 --   vyznání hříchů
+82-21A 06:28 --   krédo
+82-21A 08:07 --   kyrie eleison; sláva Bohu
+82-21A 11:07 --   epištola a evangelium
+82-21A 17:32 --   věřím
+82-21A 20:38 --   obětování
+82-21A 27:24 --   proměnění člověka
+82-21A 30:46 --   přijímání
+82-21A 30:46 --   otčenáš
+82-21A 34:51 --   beránku Boží
