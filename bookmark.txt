@@ -1,4 +1,4 @@
-exec mplayer -ss 34:51 82-21A.mp3
+http://radio.makon.cz/zaznam/82-22#ts=1137
 
 78-03B-Kaly -- mysl jako prostředek cesty k Bohu lepší než cit
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
@@ -3083,4 +3083,25 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 82-21A 27:24 --   proměnění člověka
 82-21A 30:46 --   přijímání
 82-21A 30:46 --   otčenáš
-82-21A 34:51 --   beránku Boží
+82-21A 34:51 --   beránku Boží; svatý svatý; přijímání
+82-21A 37:47 --   požehnání
+82-21A 39:02 -- znát své potřeby; Makoňova současná modlitba za lásku k Bohu
+82-21A 43:04 -- rada člověku, kterému záleží na pozemském životě: znát se a mít dobrou vůli; sebeoběť je radost; nebýt středem
+82-21B     0 -- (pokračování @82-21A:43:04)
+82-21B 02:20 -- obětování své lásky při mši
+82-21B 06:57 -- velkorysost přístupu ke mši
+82-21B 11:13 -- sebeobětování v Duchu během mše svaté (čtení)
+82-21B 24:55 -- mše je opakováním Ježíšovy oběti
+82-21B 26:00 -- jak slepý pan Válek ucítil proměňování v kostele
+82-21B 27:06 -- jak se za mě Ježíš obětoval
+82-21B 30:34 -- "Gottwaldov, 18. září 1982"
+82-21B 30:43 -- individuální průchod branou smrti
+82-21B 34:18 -- panna Marie ve starém zákoně a jako věčná Boží funkce
+82-21B 43:47 --   nesmrtelná duše je matkou lásky v člověku
+82-21B 45:20 -- význam proměny vody ve víno
+82-22     0 -- sebeobět ve vnitřní modlitbě jako při poslední večeři
+82-22 02:13 --   individuální charakter cesty
+82-22 03:22 -- připravenost spočívá v rozhodnutí
+82-22 07:07 -- krach neškodí; někdo nebo něco mimo člověka musí pomoct
+82-22 08:31 -- neuvědomělá rozjímavá modlitba
+82-22 12:27 -- jak se za jednoho života vědomě spojit s Bohem; rozhodnutí a sebepoznání
