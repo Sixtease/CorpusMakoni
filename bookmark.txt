@@ -1,4 +1,4 @@
-http://radio.makon.cz/zaznam/83-15B#ts=0
+http://radio.makon.cz/zaznam/83-16#ts=600
 
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -3495,5 +3495,13 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 83-15A 31:18 -- mantrická cvičení v křesťanství
 83-15A 32:37 -- trpělivost; ctnosti
 83-15A 37:00 -- zlatý klíč
-83-15A 39:18 -- tibetská kniha mrtvých
-83-15B     0 -- 
+83-15A 39:18 -- převádění umírajících
+83-15B     0 -- (pokračování @83-15A:39:18)
+83-15B 12:30 -- poznávání správného v dětství K.M.
+83-15B 21:16 -- poznávání života v kameni ústy
+83-15B 22:48 -- sestup supramentálních kritérií do mysli
+83-15B 28:53 -- opuštění vývoje při smrti
+83-15B 34:46 -- pesimismus jako nemoc
+83-15B 37:25 -- láska jako první a poslední poučka při hledání pravdy
+83-15B 44:06 -- stvoření za šest dní
+83-16        0 -- (pokračování @83-15B:44:06)
