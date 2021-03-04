@@ -1,4 +1,4 @@
-http://radio.makon.cz/zaznam/83-16#ts=600
+http://radio.makon.cz/zaznam/83-16#ts=2660
 
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -3504,4 +3504,8 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 83-15B 34:46 -- pesimismus jako nemoc
 83-15B 37:25 -- láska jako první a poslední poučka při hledání pravdy
 83-15B 44:06 -- stvoření za šest dní
-83-16        0 -- (pokračování @83-15B:44:06)
+83-16        0 -- (pokračování @83-15B:44:06) (nesrozumitelné)
+83-16    21:03 -- přechod kvantity v kvalitu
+83-16    27:22 -- vývoj uvnitř úrovně; opuštění klece
+83-16    30:59 -- vývoj v příbytku u Boha
+83-16    37:09 -- platnost Makoňova příkladu; samovolnost
