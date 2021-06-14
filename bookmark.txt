@@ -1,4 +1,4 @@
-http://radio.makon.cz/zaznam/84-06B#ts=1910
+http://radio.makon.cz/zaznam/84-07A#ts=0
 
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -3848,3 +3848,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 84-06B 18:07 -- zachování trpnosti při vrcholné činnosti nejlepší terapií
 84-06B 19:12 -- kde jsou dva nebo tři, ale co samota?; utrpení klášterníků
 84-06B 26:56 -- léčení duševním stavem
+84-06B 33:08 -- rovnocennost muže a ženy
+84-06B 41:59 -- posmrtný život
+84-06B 46:09 -- ztrácení vědomí při modlitbě
+84-07A     0 -- (pokračování @84-06B:46:09)
