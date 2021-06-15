@@ -1,4 +1,4 @@
-http://radio.makon.cz/zaznam/84-07A#ts=0
+http://radio.makon.cz/zaznam/84-07A#ts=1350
 
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -3852,3 +3852,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 84-06B 41:59 -- posmrtný život
 84-06B 46:09 -- ztrácení vědomí při modlitbě
 84-07A     0 -- (pokračování @84-06B:46:09)
+84-07A 04:36 -- "Gottwaldov, 18. března 1984"
+84-07A 04:41 -- návod na retrospektivu a zpytování svědomí
+84-07A 19:24 --   budování anděla strážného
+84-07A 20:15 -- pokládání otázek K.M.
