@@ -1,4 +1,4 @@
-http://radio.makon.cz/zaznam/84-24B-k#ts=0
+http://radio.makon.cz/zaznam/84-25A-k#ts=1348
 
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -4142,3 +4142,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 84-24B-k 40:37 -- výklad J 17,26: jméno Boží
 84-24B-k 44:17 --   konání zázraků
 84-24B-k 46:07 --   operace ve Vimperku
+84-25A-k     0 --   (pokračování @84-24B-k:46:07) vlastní a Boží vůle
+84-25A-k 04:24 --   (nemakoň:VEl) otázka k J 17,26
+84-25A-k 04:24 --   jak přecházet skrze jméno k lásce ve funkci spojovací
+84-25A-k 13:53 -- násilná smrt apoštolů
