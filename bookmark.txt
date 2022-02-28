@@ -218,7 +218,7 @@ kotouc-L01-c 01:10:28 -- proč potřebujeme formu?
 kotouc-L01-c 01:17:36 -- (překryv)
 kotouc-L01-c 01:19:08 -- (pokračování)
 kotouc-L01-c 01:19:27 -- o vnitřní modlitbě a formě
-kotouc-M01-b    24:30 -- Šavlovo lačnění po zpravedlnosti
+kotouc-M01-b    24:30 -- Šavlovo lačnění po spravedlnosti
 kotouc-M01-b    25:33 -- půst, nehnutost, vegetariánství
 kotouc-M01-b    30:17 -- vidění Boha (blahoslavení čistého srdce)
 kotouc-M01-b    39:29 -- duchovní smysly
@@ -273,7 +273,7 @@ kotouc-N01-a 01:19:47 -- otázka: může být správná modlitba, když se modl�
 kotouc-N01-a 01:25:13 -- otázka: zkušenost, že modlit se za jiného je účinnější než za sebe
 kotouc-N01-a 01:29:40 -- co je to modlit se ve jménu Ježíše Krista
 kotouc-N01-b    02:47 -- celý život musí být posvěcen plněním boží vůle
-kotouc-N01-b    05:13 -- cos člověkem, který mě týráním zbavuje klidu
+kotouc-N01-b    05:13 -- co s člověkem, který mě týráním zbavuje klidu
 kotouc-N01-b    09:18 -- my klid potřebujeme, ale sloužit nám k tomu nic vně nás nebude
 kotouc-N01-b    11:09 -- otázka: vyvolenost Židů
 kotouc-N01-b    14:30 -- možnost následovat Krista (láska k nepříteli)
