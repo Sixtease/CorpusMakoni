@@ -363,7 +363,7 @@ kotouc-P01-a    24:36 -- rozhodnost k prvnímu kroku
 kotouc-P01-a    27:40 -- podmínky k opakování prvního kroku
 kotouc-P01-a    32:40 -- nevzpomínat na minulé (ne)úspěchy; sv. Augustin poustevník
 kotouc-P01-a    36:19 -- opakovat krok vždy při únavě; jak jít k Ježíšovi
-kotouc-P01-a    38:40 -- moudrý ke život, kde se odevzdává
+kotouc-P01-a    38:40 -- moudrý je život, kde se odevzdává
 kotouc-P01-a    40:19 -- ucházejte se jen o pomoc boží
 kotouc-P01-a    41:37 -- jak vyslechnout bližního
 kotouc-P01-a    43:03 -- lpění na svojí cestě
@@ -433,7 +433,7 @@ kotouc-O01-a    06:06 -- vhodnost prostředků nebo člověka pro cestu; Buddha
 kotouc-O01-a    08:10 -- i Ježíšova cesta potřebuje aktualizace, cca. po 5000 letech
 kotouc-O01-a    11:30 -- přejít do věčnosti lze jen, když člověk vše upřímně Bohu vrací, neplánovat v Kalech světské věci
 kotouc-O01-a    14:05 -- plán vedení v Kalech, zasvěcování strachem
-kotouc-O01-a    18:03 --   Plató
+kotouc-O01-a    18:03 --   Platón
 kotouc-O01-a    20:10 --   přeměna člověka: už není zde, ale je u Boha a z něho vychází do světa
 kotouc-O01-a    22:28 --   vracení Bohu
 kotouc-O01-a    24:15 --   během Kalů bude život účastníků patřit K.M.
@@ -514,7 +514,7 @@ kotouc-R01-b-1974    54:18 -- paradox sladkého jha vedoucího na kříž
 kotouc-R01-b-1974 01:05:50 -- Ježísovo učení má nekonečnou hloubku a obsahuje všechna ostatní učení
 kotouc-R01-b-1974 01:06:12 -- indické učení umožnilo K.M. lepší porozuměmí Kristu, než jaké má celá Evropa
 kotouc-R01-b-1974 01:07:11 -- pomocí Krista se dá lépo pochopit Indie; dát indickým pojmům nový obsah
-kotouc-R01-b-1974 01:09:07 -- Ježíš učí, že život je stavění a bouráníG
+kotouc-R01-b-1974 01:09:07 -- Ježíš učí, že život je stavění a bourání
 kotouc-R01-b-1974 01:13:00 -- 
 kotouc-R01-b-1974 01:15:14 -- otázka: jak odevzdávat a přitom neztratit správné zaměření
 kotouc-R01-c-1974        0 -- poznání smyslu události
@@ -573,7 +573,7 @@ kotouc-S01-a 01:20:21 -- otázka o akupunktuře
 kotouc-S01-a 01:23:49 --   astrální působení na tělo
 kotouc-S01-b        0 -- (pokračování @kotouc-S01-a:01:20:21) akupunktura
 kotouc-S01-b    03:33 --   klasifikace a sjednocení
-kotouc-S01-b    06:28 --   paní Kaminská v Radnicích u Rokycan, léčitelka
+kotouc-S01-b    06:28 --   paní Kamenická v Radnicích u Rokycan, léčitelka
 kotouc-S01-b    08:35 --     Inženýr Wels z Jičína, sjednocení člověka v moči
 kotouc-S01-b    11:52 --   omyl léčitele při citové vazbě na pacienta
 kotouc-S01-b    13:24 --   závodník júdó Lebeda, příprava pacienta
@@ -635,7 +635,7 @@ kotouc-S01-d    15:30 -- "17.3.1974 večer, Otrokovice"
 kotouc-S01-d    15:38 -- co dělat při stoupajících vlnách při soustřeďování do nohou
 kotouc-S01-d    30:06 -- studený a horký typ na bytostné cestě
 kotouc-S01-d    33:22 -- Soustřeďování do nitra nesmí být do těla, je to přímé působení na lotos, nikoliv zespoda hadí silou. On se otevře a zase zavře. Je to ananda, cesta lásky, nikoliv sat, existenční
-kotouc-S01-d    37:30 -- návod k přechode z existenční cesty do cesty lásky přes střelnou modlitbu
+kotouc-S01-d    37:30 -- návod k přechodu z existenční cesty do cesty lásky přes střelnou modlitbu
 kotouc-S01-d    38:54 -- jak přes tělo a ne do těla? tělo se nesmí vynechat
 kotouc-S01-d    40:49 --   Kerning, navázat na mozkovou kúru paměť, tedy neklid myslicího principu, a přes chvění nohou se dostat do stavu nechvění, tedy nehmoty, pak proniká do čit
 kotouc-S01-d    46:02 --   následky: např. neschopnost říkat jméno boží
@@ -661,7 +661,7 @@ kotouc-T01-metoda-a    16:43 -- starověcí národové rozuměli tomu, že jejic
 kotouc-T01-metoda-a    21:49 -- náš život je stejně mýtem, jako život Ježíšův
 kotouc-T01-metoda-a    23:59 -- proč je pro nás Ježíš nejen cestou, ale i pravdou; symbolika (a + b)²
 kotouc-T01-metoda-a    27:38 --   rekapitulace pohledu mýtu, naše skutečnost není konkrétní, konkrétní je věčnost
-kotouc-T01-metoda-a    30:19 --   Ježíš jako pravda; nelza nic vlastnit, to je mýtus něco vlastnit; vlastnit lze jen věčnost, ale až jí nabudeme
+kotouc-T01-metoda-a    30:19 --   Ježíš jako pravda; nelze nic vlastnit, to je mýtus něco vlastnit; vlastnit lze jen věčnost, ale až jí nabudeme
 kotouc-T01-metoda-a    32:16 -- Není potřeba znát věčnost, stačí nasadit na Ježíšův život
 kotouc-T01-metoda-a    32:59 --   Ježíšův život už není ve věčnosti, ale jako bohové na Olympu pod vládou Chronose
 kotouc-T01-metoda-a    33:27 --   největší zázrak Ježíšův je převod věčného do času a prostoru
@@ -838,7 +838,7 @@ kotouc-U-Zdiar-b    40:39 --     rozetnout znamená zase pospojovat na jiné úr
 kotouc-U-Zdiar-b    41:22 -- série událostí přináležející úrovni, osud si děláme sami
 kotouc-U-Zdiar-b    47:23 -- zázraky, satanská láska, vlastnictví
 kotouc-U-Zdiar-b    49:14 -- sebezáporem k poznání a k vyšší úrovni událostí
-kotouc-U-Zdiar-b    52:32 -- událost jako vnirřní modlitba
+kotouc-U-Zdiar-b    52:32 -- událost jako vnitřní modlitba
 kotouc-U-Zdiar-b    53:37 -- tělo jako nejdůležitější událost, buněčná a tkáňová paměť
 kotouc-U-Zdiar-b    55:36 -- (ticho)
 kotouc-U-Zdiar-b    56:54 -- paměť
