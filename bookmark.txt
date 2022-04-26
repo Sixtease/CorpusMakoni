@@ -1407,7 +1407,7 @@ kotouc-77-brezen01-c    34:59 -- nutnost modifikované lidské vůle až po kř�
 kotouc-77-brezen01-c    37:18 -- odpoutání se od vědění
 kotouc-77-brezen01-c    40:12 -- odstoupit z vlastní vůle od dosaženého vrcholu
 kotouc-77-brezen01-c    41:31 -- odstupování od prostředí a současné spojování s ním
-kotouc-77-brezen01-c    43:28 -- přízpsobení algoritmu svému východisku
+kotouc-77-brezen01-c    43:28 -- přizpůsobení algoritmu svému východisku
 kotouc-77-brezen01-c    45:05 -- nerovnováha mezi spojením a rozpojením
 kotouc-77-brezen01-c    45:35 -- vyrovnanost vkladu a příjmu, tedy rozpojení a spojení; výdej je přesun do rukou Božích, ne ztrácení
 kotouc-77-brezen01-c    47:19 -- vše je Boží, nic není mého; manipulace s Boží silou v Kalech
@@ -1538,7 +1538,7 @@ prevzate-kotouc-76-01A 0 -- (duplicita 76-01-Kaly)
 76-02-Kaly    16:15 -- ne oběti, ale milosrdenství, to je podstata kvalitativních kroků
 76-02-Kaly    17:40 -- nejhorší na cestě života je, když se mi někde zalíbí
 76-02-Kaly    20:00 -- podmínky pro první skok a pro udržení stavu narozeného Ježíše
-76-02-Kaly    20:41 --   rezignovat na dosavadné úroveň
+76-02-Kaly    20:41 --   rezignovat na dosavadní úroveň
 76-02-Kaly    22:37 --   přidat prostředek služby; bez člověka by se Bůh nevyvinul ve spasitele; člověk je transformátor časného na věčné
 76-02-Kaly    24:28 -- neschopnost abstraktního myšlení; sv. Antonín Paduánský; služba Bohu službou bližnímu
 76-02-Kaly    30:07 -- "třetí den"
@@ -3657,7 +3657,8 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 83-23A-K 17:54 -- "sobota"
 83-23A-K 17:56 -- nebezpečnost poučenosti; nejednej, nemysli
 83-23A-K 32:10 -- zabít se pro pravdu; chycení se střípku pravdy
-83-23A-K 39:42 -- manželství se světem; christologie
+83-23A-K 39:42 -- manželství se světem
+83-23A-K 40:45 --   christologie
 83-23A-K 42:24 -- zajet na hlubinu
 83-23B-K     0 -- hlubina; největší milost je být člověk
 83-23B-K 04:46 -- vědět, co mám dělat; spolehnout se na Boha
@@ -4375,3 +4376,7 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 85-07B 21:30 -- představa a mája
 85-07B 25:55 -- pojetí Ježíše jako protekčníka
 85-07B 27:13 -- meze síly představy
+90-05A 10:31 -- pohádkové zpracování Bible od Eliáše do návratu do Nazareta
+90-05B     0 -- (pokračování @90-05A:)
+90-05B 08:20 -- (francouzština)
+90-05B 08:59 -- 
