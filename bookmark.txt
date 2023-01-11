@@ -1,4 +1,4 @@
-http://radio.makon.cz/zaznam/85-10A#ts=0
+http://radio.makon.cz/zaznam/85-10A#ts=250
 
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -4421,6 +4421,8 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 85-09B 32:51 -- věčný klid
 85-09B 38:54 -- trojí záchrana života od matky
 85-09B 46:06 -- chyba, že rodině psal spisy
+85-10A 00:00 -- (pokračování @85-09B:46:06)
+85-10A 01:45 -- jít okamžitě
 
 90-05A 10:31 -- pohádkové zpracování Bible od Eliáše do návratu do Nazareta
 90-05B     0 -- (pokračování @90-05A:)
