@@ -1,4 +1,4 @@
-http://radio.makon.cz/zaznam/85-11B#ts=38:28
+http://radio.makon.cz/zaznam/85-12A#ts=18:00
 
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -4495,7 +4495,16 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 85-11B 31:19 --   podobenství o družici podobenství o družici
 85-11B 32:04 -- dotaz: mezera mezi poznáním, rozhodnutím a uskutečněním: mezeru vyplnit koncentrací
 85-11B 37:14 -- nepřipravenost vzít Otčenáš jako rozhodnutí
-85-11B 38:28 -- sebezápor
+85-11B 38:28 -- sebezápor a samovolnost
+85-11B 41:18 -- sebezápor a přemáhání se; víra
+85-11B 43:27 -- Otčenáš jako řada rozhodnutí: ne mír ale meč; uspořádaná posloupnost rozhodnutí
+85-12A     0 -- (pokračování @85-11B:43:27) Otče náš
+85-12A 04:50 --   jenž jsi na nebesích
+85-12A 08:06 --   posvěť se jméno tvé: tvůrčím způsobem jednat
+85-12A 10:25 --   přijď království tvé
+85-12A 11:35 --   Ježíš vede slovy cestou víry a symbolikou svého života cestou poznání
+85-12A 12:05 --   buď vůle tvá
+85-12A 15:46 --   chléb náš vezdejší dej nám dnes: nestarat se nad rámec dne
 
 90-05A 10:31 -- pohádkové zpracování Bible od Eliáše do návratu do Nazareta
 90-05B     0 -- (pokračování @90-05A:)
