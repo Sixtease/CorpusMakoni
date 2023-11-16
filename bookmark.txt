@@ -1,4 +1,4 @@
-http://radio.makon.cz/zaznam/85-12A#ts=36:01
+http://radio.makon.cz/zaznam/85-12B#ts=04:08
 
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -4511,7 +4511,13 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 85-12A 26:46 --   neuveď nás v pokušení
 85-12A 27:46 -- otázka: jak se vyznat v protichůdných hlasech lidí, kteří nás poučují
 85-12A 29:53 --   odpověď: poučování je jen komentář k životu poučujícího
-85-12A 36:01 -- 
+85-12A 36:01 -- technika a zaujatost; plzeňští mystici a chybějící láska
+85-12A 38:48 --   shrnutí dopisu, jak se dobrat lásky
+85-12A 40:33 -- k zaujatosti vede ztráta paměti
+85-12A 43:15 -- nemožná absolutní láska k Bohu a možná nedokonalá láska k bližnímu
+85-12A 45:41 -- čím víc toho vím, tím těžší je cesta: je potřeba udělat první krok
+85-12B     0 -- (pokračování @85-12A:45:41) být správcem, zapřít sám sebe, ztratit víru
+85-12B 04:08 -- být v nebi bez lásky
 
 90-05A 10:31 -- pohádkové zpracování Bible od Eliáše do návratu do Nazareta
 90-05B     0 -- (pokračování @90-05A:)
