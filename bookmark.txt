@@ -1,4 +1,4 @@
-http://radio.makon.cz/zaznam/85-13A#ts=39:332
+http://radio.makon.cz/zaznam/85-13B#ts=10:04
 
 91-29B -- modlitba za lidstvo (srandovni, kacirske)
 89-06A -- geolog, posmrtný život, modlitba za zemřelého
@@ -4544,6 +4544,11 @@ prevzate-kotouc-80-05AB.mp3 01:28:37 -- vskříšení v těle
 85-13A 30:03 -- (četba Jesudiana) modlitba vs. meditace; pocit vlastní hříšnosti
 85-13A 36:26 --   (výklad) chéb náš vezdejší není prosba, ale rozhodnutí k omezení starostlivosti
 85-13A 39:32 -- vliv křesťanství na rozvoj Indie
+85-13A 45:12 -- o lidském rozvoji (ne k tisku) zvířecí, lidské a božské vlastnosti
+85-13B     0 -- (pokračování @85-13A:45:12)
+85-13B 06:14 --   dech
+85-13B 07:53 --   projevy života: síla tělesná, nervová, sexuální, vůle, pocitová, rozumová, duchovní
+85-13B 08:12 --   
 
 90-05A 10:31 -- pohádkové zpracování Bible od Eliáše do návratu do Nazareta
 90-05B     0 -- (pokračování @90-05A:)
